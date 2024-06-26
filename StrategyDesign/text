@@ -1,0 +1,21 @@
+"""https://dev.to/timiddon/strategy-design-patterns-in-python-3n3a"""
+
+"""
+Strategy Pattern is a design pattern that defines a collection of algorithms and allows these algorithms to be interchangeable at runtime.
+According to the book on design patterns, “Head First: Design Patterns” by Eric Freeman & Elisabeth Robson,
+
+The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. 
+Strategy lets the algorithm vary independently from clients that use it.
+
+There are scenarios where you can have more than one way of achieving a particular task. 
+These different ways are the algorithms. Traditionally, you tend to think of conditional statements (if-else)
+as a way of determining which algorithm to use. This method is not a better way to write good and clean code. 
+Also, as the number of algorithms increase, the code becomes longer and harder to maintain.
+
+In cases like this, the strategy pattern is a good solution. 
+The strategy pattern allows you to define classes, called strategies, 
+that contain the implementations of your various algorithms. 
+The main class has a reference to the strategy and you can then pass your preferred strategy to the context. 
+Let's look at an example implementation of the strategy pattern.
+
+"""
