@@ -1,4 +1,4 @@
-#!/local/mnt/workspace/personal/projects/LLD/.venv/bin/python3.8
+#!/local/mnt/workspace/personal/projects/LLD/.venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
