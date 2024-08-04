@@ -1,6 +1,8 @@
+# Builder design pattern used to validate before creation of object.
 # Builder design pattern is used to create a complex instance or object by using same construction process
 # Builder design pattern is concrete Design Pattern used for validation check
 
+# Buisness Req comes that RestClient should have all the parms available than only create the object....
 # Product, Builder Interface, Concrete Builder, Director, Client
 
 from abc import ABC, abstractmethod
