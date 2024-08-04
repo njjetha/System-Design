@@ -7,6 +7,7 @@ class Singelton(type):
     def __call__(cls, *args: Any, **kwds: Any) -> Any:
         if cls not in cls.instance:
             cls.instance[cls]=super(Singelton,cls).__call__(*args, **kwds)
+            # cls.instance[cls]=super().__call__(*args, **kwds)
         return cls.instance[cls]
     
 class Wizard(metaclass=Singelton):
