@@ -1,5 +1,5 @@
 % Statistics for quic/autopen
-% Generated for [quic/autopen](https://github.com/quic/autopen) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-10 18:41 UTC.
+% Generated for [quic/autopen](https://github.com/quic/autopen) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-10 23:10 UTC.
 
 
 ## Views
