@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,21,18
+/quic/qemu/tree/hexagon-sysemu-22-may-2024/target/hexagon,15,2
+/quic/qemu/tree/hexagon-sysemu-22-may-2024/target/hexagon/imported,13,2
+/quic/qemu/tree/pull-hex-20240807/target/hexagon/imported,11,2
+/quic/qemu/commits/bcain/sysemu_jul3_2024,10,1
+/quic/qemu/tree/pull-hex-20240807/target/hexagon,9,2
+/quic/qemu/branches,8,3
+/quic/qemu/tree/pull-hex-20240807/target/hexagon/imported/mmvec,8,2
+/quic/qemu/blob/master/qemu-options.hx,6,3
+/quic/qemu/tree/master/target/hexagon,6,2
