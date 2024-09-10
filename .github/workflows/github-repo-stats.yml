@@ -1,20 +1,37 @@
-name: github-repo-stats
+name: fetch-traffic-stats
 
 on:
   schedule:
-    # Run this once per day, towards the end of the day for keeping the most
-    # recent data point most meaningful (hours are interpreted in UTC).
     - cron: "0 23 * * *"
-  workflow_dispatch: # Allow for running this manually.
+  workflow_dispatch:
 
 jobs:
-  j1:
-    name: github-repo-stats
+  repos-details:
+    name: get-list-public-repos
     runs-on: ubuntu-latest
+    outputs:
+      repo-names: ${{ steps.step1.outputs.repo-names }}
+    steps:
+      - name: run-shell-script
+        id: step1
+        run: |
+          url="https://api.github.com/orgs/quic/repos?type=public"
+          full_names=$(curl -L -H "Accept: application/vnd.github+json" -H "Authorization: Bearer ${{ secrets.ghrs_github_api_token }}" -H "X-GitHub-Api-Version: 2022-11-28" -s $url | jq -r '.[].full_name')
+          full_names_json=$(echo "$full_names" | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "repo-names=$full_names_json" >> $GITHUB_OUTPUT
+
+  run-ghrs-with-matrix:
+    name: repostats-for-quic-projects
+    needs: repos-details
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        statsRepo: ${{ fromJson(needs.repos-details.outputs.repo-names) }}
+      fail-fast: false
+      max-parallel: 1
     steps:
       - name: run-ghrs
-        # Use latest release.
         uses: jgehrcke/github-repo-stats@RELEASE
         with:
+          repository: ${{ matrix.statsRepo }}
           ghtoken: ${{ secrets.ghrs_github_api_token }}
-
