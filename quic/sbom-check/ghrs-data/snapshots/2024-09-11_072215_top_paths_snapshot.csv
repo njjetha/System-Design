@@ -1,0 +1,4 @@
+url_path,views_total,views_unique
+/quic/sbom-check,4,2
+/quic/sbom-check/labels,1,1
+/quic/sbom-check/pulls,1,1
