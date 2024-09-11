@@ -1,5 +1,5 @@
 % Statistics for quic/dwarfparser
-% Generated for [quic/dwarfparser](https://github.com/quic/dwarfparser) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-11 07:11 UTC.
+% Generated for [quic/dwarfparser](https://github.com/quic/dwarfparser) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-09-11 23:45 UTC.
 
 
 ## Views
