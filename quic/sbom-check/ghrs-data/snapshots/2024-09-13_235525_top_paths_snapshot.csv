@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/quic/sbom-check,11,3
+/quic/sbom-check/tree/main/src,4,1
+/quic/sbom-check/pulls,2,2
+/quic/sbom-check/blob/main/src/sbom_check/checks.py,2,1
+/quic/sbom-check/commits/main,2,1
+/quic/sbom-check/tree/main,2,1
+/quic/sbom-check/tree/main/src/sbom_check,2,1
+/quic/sbom-check/commit/6b9043b1fb9cc7a0abdd6a50eca81ed683b6daaf,1,1
+/quic/sbom-check/labels,1,1
