@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,42,34
+/quic/toolchain_for_hexagon/pull/28,6,3
+/quic/toolchain_for_hexagon/releases/tag/v18.1.0-rc1_02,6,3
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,6,2
+/quic/toolchain_for_hexagon/tree/master/cross-win,5,2
+/quic/toolchain_for_hexagon/blob/master/hexagon-linux-builtins.cmake,4,2
+/quic/toolchain_for_hexagon/tree/master/local,4,2
+/quic/toolchain_for_hexagon/blob/master/build-rootfs.sh,4,1
+/quic/toolchain_for_hexagon/releases,3,3
+/quic/toolchain_for_hexagon/tree/master/test-suite-patches,3,1
