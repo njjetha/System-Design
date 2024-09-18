@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,36,18
+/quic/qemu/tags,18,4
+/quic/qemu/branches,16,3
+/quic/qemu/commits/bcain/sysemu_jul3_2024,15,1
+/quic/qemu/branches/all,8,2
+/quic/qemu/releases/tag/hexagon-sysemu-12-dec-2023,8,1
+/quic/qemu/blob/master/qemu-options.hx,6,3
+/quic/qemu/tree/bcain/sysemu_jul3_2024,5,2
+/quic/qemu/releases,4,1
+/quic/qemu/tree/master/default-configs,4,1
