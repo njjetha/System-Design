@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/riscv-unified-db/releases/tag/Xqciu-0.2,24,17
+/quic/riscv-unified-db/releases/tag/Xqciu-0.1,14,8
+/quic/riscv-unified-db/tree/main,13,2
+/quic/riscv-unified-db/tree/main/cfgs/qc_iu/arch_overlay,13,1
+/quic/riscv-unified-db/blob/main/cfgs/qc_iu/arch_overlay/inst/Xqciu/qc16.clrint.yaml,12,1
+/quic/riscv-unified-db/releases,10,8
+/quic/riscv-unified-db/tree/main/cfgs/qc_iu,10,1
+/quic/riscv-unified-db,6,4
+/quic/riscv-unified-db/tree/main/cfgs/qc_iu/arch_overlay/csr,6,1
+/quic/riscv-unified-db/tree/main/cfgs/qc_iu/arch_overlay/csr/Xqciu,6,1
