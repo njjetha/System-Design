@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/fastrpc,100,64
+/quic/fastrpc/blob/development/src/fastrpc_apps_user.c,87,4
+/quic/fastrpc/tree/development/src,68,20
+/quic/fastrpc/blob/development/src/fastrpc_procbuf.c,40,2
+/quic/fastrpc/tree/development,23,13
+/quic/fastrpc/blob/development/src/fastrpc_mem.c,21,4
+/quic/fastrpc/blob/development/src/adsp_listener_stub.c,21,1
+/quic/fastrpc/tree/development/Docs,18,6
+/quic/fastrpc/tree/development/inc,18,6
+/quic/fastrpc/blob/development/Docs/images/FastRPC_architecture.png,15,5
