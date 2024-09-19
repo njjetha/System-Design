@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sbom-check,36,6
+/quic/sbom-check/pull/1,11,2
+/quic/sbom-check/pulls,8,4
+/quic/sbom-check/blob/main/AUTHORS,6,2
+/quic/sbom-check/pull/1/checks,6,2
+/quic/sbom-check/pull/1/commits,6,2
+/quic/sbom-check/fork,4,2
+/quic/sbom-check/pull/2,4,2
+/quic/sbom-check/tree/main/src,4,1
+/quic/sbom-check/actions,3,2
