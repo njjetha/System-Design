@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,25,20
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,15,5
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,11,3
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo/general,8,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/bin,7,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo,7,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/ble,5,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/CMSIS,5,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/CMSIS/Device/QC/QCC710/Source/startup_qcc710.c,4,3
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo/general/ble,4,1
