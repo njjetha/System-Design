@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,88,49
+/quic/qbox/tree/main/qemu-components,38,7
+/quic/qbox/tree/main/platforms,37,7
+/quic/qbox/tree/main/systemc-components,25,6
+/quic/qbox/tree/main/qemu-components/virtio_mmio_sound,17,1
+/quic/qbox/tree/main,15,7
+/quic/qbox/tree/main/platforms/cortex-m55-remote,14,2
+/quic/qbox/tree/main/docs,13,5
+/quic/qbox/tree/main/qemu-components/virtio_mmio_sound/include,13,1
+/quic/qbox/tree/main/platforms/src,12,5
