@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,18,14
+/quic/mink-idl-compiler/commits/main,10,3
+/quic/mink-idl-compiler/pull/2,7,4
+/quic/mink-idl-compiler/blob/main/README.md,4,1
+/quic/mink-idl-compiler/pulls,3,2
+/quic/mink-idl-compiler/blob/main/CONTRIBUTING.md,3,1
+/quic/mink-idl-compiler/pull/2/commits,3,1
+/quic/mink-idl-compiler/pull/2/files,2,2
+/quic/mink-idl-compiler/blob/main/idlc_ast_passes/src/cycles.rs,2,1
+/quic/mink-idl-compiler/compare/fix-whitespace,2,1
