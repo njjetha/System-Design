@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,18,15
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples,13,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples/barebones_app,10,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/docs/QAICProgramConfig.txt,6,3
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/barebones_app/BarebonesApp.cpp,6,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/barebones_app/BarebonesAppLib.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/docs,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples/multicast_example,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/daf7091c2ef5144eed7891ca6e4b6eb5e212edbc/README.md,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/runtime/lib/AICDefsInternal.h,2,1
