@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,16,13
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/tools/qaic-objcopy/qaic-objcopy.cpp,8,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/tools/qaic-binutils/qaic-nm,6,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/docs/QAICProgramConfig.txt,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/runtime,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/toolchain,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/tools,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/toolchain/CMakeLists.txt,4,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/toolchain/test/BarebonesTest.cpp.in,4,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/toolchain/test/BarebonesTestLib.cpp.in,4,1
