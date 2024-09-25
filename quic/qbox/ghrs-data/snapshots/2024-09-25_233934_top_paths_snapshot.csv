@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,70,41
+/quic/qbox/tree/main/platforms,46,7
+/quic/qbox/tree/main/qemu-components,45,7
+/quic/qbox/tree/main/systemc-components,39,6
+/quic/qbox/tree/main,17,8
+/quic/qbox/tree/main/platforms/src,17,7
+/quic/qbox/tree/main/qemu-components/virtio_mmio_sound,17,1
+/quic/qbox/blob/main/README.md,15,3
+/quic/qbox/tree/main/platforms/ubuntu,15,3
+/quic/qbox/blob/main/CMakeLists.txt,14,5
