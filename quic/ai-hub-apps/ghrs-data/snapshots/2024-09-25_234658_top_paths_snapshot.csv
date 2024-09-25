@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ai-hub-apps/tree/main/apps/android/SuperResolution,2483,809
+/quic/ai-hub-apps/tree/main/apps,1302,385
+/quic/ai-hub-apps/tree/main/apps/android,823,207
+/quic/ai-hub-apps/tree/main/apps/windows/ObjectDetection,632,179
+/quic/ai-hub-apps/tree/main/apps/android/ImageClassification,584,179
+/quic/ai-hub-apps/tree/main/apps/android/SemanticSegmentation,425,106
+/quic/ai-hub-apps,263,165
+/quic/ai-hub-apps/tree/main,155,82
+/quic/ai-hub-apps/tree/main/apps/android/SuperResolution/src/main,137,40
+/quic/ai-hub-apps/tree/main/apps/android/qnn_sdk,89,30
