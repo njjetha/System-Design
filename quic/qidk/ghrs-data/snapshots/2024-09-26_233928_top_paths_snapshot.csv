@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qidk,354,211
+/quic/qidk/tree/master/Solutions,354,81
+/quic/qidk/tree/master/Tools/snpe-helper,284,38
+/quic/qidk/tree/master/Solutions/NLPSolution3-AutomaticSpeechRecognition-Whisper,200,50
+/quic/qidk/blob/master/Solutions/NLPSolution3-AutomaticSpeechRecognition-Whisper/README.md,191,39
+/quic/qidk/tree/master/Model-Enablement/Model-Accuracy-Mixed-Precision,181,30
+/quic/qidk/tree/master/Tools,175,45
+/quic/qidk/tree/master/Tools/snpe-helper/snpehelper,153,16
+/quic/qidk/tree/master/Solutions/VisionSolution1-ObjectDetection-YoloNas,152,25
+/quic/qidk/tree/master/Tools/snpe_qnn_docker,148,32
