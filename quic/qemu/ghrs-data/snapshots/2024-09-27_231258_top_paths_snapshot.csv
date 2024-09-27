@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,41,25
+/quic/qemu/branches,18,6
+/quic/qemu/tags,15,3
+/quic/qemu/pulls,11,4
+/quic/qemu/pull/93,9,4
+/quic/qemu/pull/94,8,4
+/quic/qemu/pull/92,8,3
+/quic/qemu/releases/tag/hexagon-sysemu-12-dec-2023,8,1
+/quic/qemu/tree/master/accel,7,1
+/quic/qemu/tree/master/target/hexagon,5,2
