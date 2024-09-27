@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/homebrew-quic,8,5
+/quic/homebrew-quic/tree/main/Formula,6,3
+/quic/homebrew-quic/tree/main/Casks,4,2
+/quic/homebrew-quic/blob/main/repolint.json,4,1
+/quic/homebrew-quic/actions/runs/10669225608,3,1
+/quic/homebrew-quic/pull/12/checks,3,1
+/quic/homebrew-quic/pulls,3,1
+/quic/homebrew-quic/actions,2,1
+/quic/homebrew-quic/actions/workflows/quic-organization-repolinter.yml,2,1
+/quic/homebrew-quic/compare/main...quic-nwtn:homebrew-quic:succeceed-non-existent,2,1
