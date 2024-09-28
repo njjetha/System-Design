@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,35,24
+/quic/qemu/branches,18,6
+/quic/qemu/pulls,11,4
+/quic/qemu/pull/93,9,4
+/quic/qemu/pull/94,8,4
+/quic/qemu/pull/92,8,3
+/quic/qemu/tree/master/accel,7,1
+/quic/qemu/blob/f5d0f123c952825b4a8cc423c484c7853784e7e6/target/hexagon/reg_fields_def.h.inc,5,3
+/quic/qemu/tree/master/target/hexagon,5,2
+/quic/qemu/branches/all,5,1
