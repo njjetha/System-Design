@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,81,49
+/quic/qbox/tree/main/platforms,62,8
+/quic/qbox/tree/main/qemu-components,45,6
+/quic/qbox/tree/main/systemc-components,38,6
+/quic/qbox/tree/main,24,6
+/quic/qbox/tree/main/platforms/cortex-m55-remote,23,4
+/quic/qbox/tree/main/platforms/ubuntu,22,4
+/quic/qbox/tree/main/platforms/src,20,8
+/quic/qbox/tree/main/qemu-components/virtio_mmio_sound,17,1
+/quic/qbox/blob/main/CMakeLists.txt,15,6
