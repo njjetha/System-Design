@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/riscv-unified-db/blob/main/cfgs/qc_iu/arch_overlay/inst/Xqciu/qc16.mpyaddi.yaml,23,1
+/quic/riscv-unified-db/blob/main/cfgs/qc_iu/arch_overlay/inst/Xqciu/qc32.mpyaddi.yaml,18,1
+/quic/riscv-unified-db,15,6
+/quic/riscv-unified-db/tree/main/cfgs/qc_iu/arch_overlay,15,2
+/quic/riscv-unified-db/tree/main/cfgs/qc_iu,14,2
+/quic/riscv-unified-db/tree/main,13,2
+/quic/riscv-unified-db/tree/main/cfgs/qc_iu/arch_overlay/inst/Xqciu,12,3
+/quic/riscv-unified-db/pull/3,11,7
+/quic/riscv-unified-db/pulls,9,4
+/quic/riscv-unified-db/branches,9,2
