@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,30,23
+/quic/qemu/branches,15,6
+/quic/qemu/pulls,10,4
+/quic/qemu/pull/93,9,4
+/quic/qemu/pull/94,8,4
+/quic/qemu/pull/92,8,3
+/quic/qemu/blob/f5d0f123c952825b4a8cc423c484c7853784e7e6/target/hexagon/reg_fields_def.h.inc,5,3
+/quic/qemu/tree/master/target/hexagon,5,2
+/quic/qemu/commits/bcain/sysemu_jul3_2024,5,1
+/quic/qemu/tree/bcain/sysemu_sept8_2024/target/hexagon,5,1
