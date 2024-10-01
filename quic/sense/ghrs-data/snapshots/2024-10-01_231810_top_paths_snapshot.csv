@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,44,33
+/quic/sense/blob/master/README.md,24,6
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,11,2
+/quic/sense/blob/master/sense/display.py,10,3
+/quic/sense/issues/191,7,5
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,7,2
+/quic/sense/blob/master/sense/downstream_tasks/fitness_activity_recognition/__init__.py,6,2
+/quic/sense/tree/master/sense,6,2
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,5,3
+/quic/sense/tree/master/sense/backbone_networks,5,2
