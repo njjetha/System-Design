@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,219,146
+/quic/cloud-ai-sdk/tree/1.17/models,100,33
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,72,26
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing/encoder,53,23
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing/decoder,53,15
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,49,18
+/quic/cloud-ai-sdk/tree/1.17/tutorials/NLP/Profiler-Intermediate,49,9
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/encoder,48,8
+/quic/cloud-ai-sdk/tree/1.17/tutorials,46,12
+/quic/cloud-ai-sdk/tree/1.17/samples,42,17
