@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,21,16
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib,7,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform/inc,7,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform/inc/os,7,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/cmake/compiler_warnings.cmake,5,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform/inc/os/linux,5,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/scripts,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/thirdparty-modules,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/network-driver/src/QKmdDevice.cpp,4,1
