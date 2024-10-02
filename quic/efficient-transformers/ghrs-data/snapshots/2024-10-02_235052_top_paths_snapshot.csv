@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/efficient-transformers,697,166
+/quic/efficient-transformers/pulls,441,31
+/quic/efficient-transformers/tree/main/QEfficient,219,57
+/quic/efficient-transformers/tree/main,161,67
+/quic/efficient-transformers/tree/release/v1.18,103,42
+/quic/efficient-transformers/pull/119,89,22
+/quic/efficient-transformers/commits/main,86,25
+/quic/efficient-transformers/tree/release/v1.16,61,38
+/quic/efficient-transformers/blob/main/QEfficient/generation/text_generation_inference.py,55,23
+/quic/efficient-transformers/tree/main/QEfficient/transformers,50,17
