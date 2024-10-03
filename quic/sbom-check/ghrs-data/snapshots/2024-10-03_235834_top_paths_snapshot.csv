@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sbom-check/blob/main/README.md,18,2
+/quic/sbom-check,9,6
+/quic/sbom-check/blob/main/AUTHORS,9,2
+/quic/sbom-check/blob/main/LICENSE,8,2
+/quic/sbom-check/blob/main/requirements.txt,4,2
+/quic/sbom-check/blob/main/setup.cfg,4,2
+/quic/sbom-check/tree/main/src,4,2
+/quic/sbom-check/tree/main/src/sbom_check,4,2
+/quic/sbom-check/blob/main/CONTRIBUTING.md,4,1
+/quic/sbom-check/blob/main/mypy.ini,4,1
