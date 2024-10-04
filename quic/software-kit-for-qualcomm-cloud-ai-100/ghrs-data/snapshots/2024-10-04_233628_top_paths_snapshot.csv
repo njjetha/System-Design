@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,20,16
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform/inc,7,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform/inc/os,7,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/cmake/compiler_warnings.cmake,5,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform/inc/os/linux,5,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/test/qaic-openrt-api-test/src/QAicOpenRtApiProgramUnitTest.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/test/qaic-openrt-api-test/src/QAicOpenRtApiQpcUnitTest.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/test,4,2
