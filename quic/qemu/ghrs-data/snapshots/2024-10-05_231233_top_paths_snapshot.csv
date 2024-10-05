@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,49,28
+/quic/qemu/tags,26,4
+/quic/qemu/pulls,12,6
+/quic/qemu/branches,11,5
+/quic/qemu/pull/93,9,4
+/quic/qemu/pull/94,8,4
+/quic/qemu/pull/92,8,3
+/quic/qemu/branches/all,8,1
+/quic/qemu/tree/libqemu-v8.2-v0.1.4,7,4
+/quic/qemu/tree/master/accel,5,1
