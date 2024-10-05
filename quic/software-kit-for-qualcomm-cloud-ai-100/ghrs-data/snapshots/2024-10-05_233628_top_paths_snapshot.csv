@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,22,17
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/cmake/compiler_warnings.cmake,5,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/test/qaic-openrt-api-test/src/QAicOpenRtApiProgramUnitTest.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/test/qaic-openrt-api-test/src/QAicOpenRtApiQpcUnitTest.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/test,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/test/qaic-openrt-api-test,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/test/qaic-openrt-api-test/src/QAicOpenRtApiContextUnitTest.cpp,3,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/test/qaic-openrt-api-test/src/QAicOpenRtApiExecObjUnitTest.cpp,3,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/test/qaic-openrt-api-test/src,3,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/inc/qaic-openrt-api-hpp/QAicOpenRtExecObj.hpp,3,1
