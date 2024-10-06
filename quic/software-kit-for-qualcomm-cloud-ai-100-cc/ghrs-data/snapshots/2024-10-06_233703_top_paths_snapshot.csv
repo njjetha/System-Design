@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,21,18
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/multicast_example/Multicast.cpp,20,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/tools/qaic-objcopy/qaic-objcopy.cpp,8,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/toolchain,6,3
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/toolchain/CMakeLists.txt,6,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/tools/qaic-binutils/qaic-nm,6,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/cmake/compiler_warnings.cmake,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/docs/QAICProgramConfig.txt,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/thirdparty-modules/CMakeLists.txt,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/cmake,4,2
