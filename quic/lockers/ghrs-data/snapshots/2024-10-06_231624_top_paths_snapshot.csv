@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/lockers,8,4
+/quic/lockers/blob/master/lock_ssh.sh,2,1
+/quic/lockers/commits/master,2,1
+/quic/lockers/tree/master,2,1
+/quic/lockers/blob/master/k8s_id.sh,1,1
+/quic/lockers/blob/master/lock_local.sh,1,1
+/quic/lockers/commit/cde8d2fb6380964daed5ff6db5bfc7c51aa8bd30,1,1
+/quic/lockers/pull/1,1,1
+/quic/lockers/pull/1/commits,1,1
+/quic/lockers/pull/1/commits/f9bc2f88e0e94b2c1a1a02be109d6b46324ad5b4,1,1
