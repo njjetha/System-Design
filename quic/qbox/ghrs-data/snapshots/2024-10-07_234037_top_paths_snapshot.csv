@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,116,68
+/quic/qbox/tree/main/platforms,38,9
+/quic/qbox/tree/main,21,6
+/quic/qbox/tree/main/qemu-components,18,7
+/quic/qbox/tree/main/platforms/cortex-m55-remote,16,3
+/quic/qbox/tree/main/platforms/ubuntu,15,4
+/quic/qbox/tree/main/docs,13,5
+/quic/qbox/tree/main/platforms/src,10,5
+/quic/qbox/issues,10,3
+/quic/qbox/blob/main/package-lock.cmake,9,6
