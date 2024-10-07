@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sbom-check/blob/main/README.md,7,2
+/quic/sbom-check,6,4
+/quic/sbom-check/blob/main/AUTHORS,2,1
+/quic/sbom-check/blob/main/LICENSE,2,1
+/quic/sbom-check/blob/main/requirements.txt,2,1
+/quic/sbom-check/blob/main/setup.cfg,2,1
+/quic/sbom-check/blob/main/setup.py,2,1
+/quic/sbom-check/blob/main/src/sbom_check/checks.py,2,1
+/quic/sbom-check/blob/main/tox.ini,2,1
+/quic/sbom-check/tree/main/src,2,1
