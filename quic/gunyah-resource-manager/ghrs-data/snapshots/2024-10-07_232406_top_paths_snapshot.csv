@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,28,25
+/quic/gunyah-resource-manager/tree/develop/src,23,5
+/quic/gunyah-resource-manager/blob/develop/src/resource-manager.c,11,7
+/quic/gunyah-resource-manager/tree/develop,7,4
+/quic/gunyah-resource-manager/blob/develop/platform/qemu/src/platform_qemu.c,6,3
+/quic/gunyah-resource-manager/tree/develop/tools,4,2
+/quic/gunyah-resource-manager/tree/develop/arch,3,2
+/quic/gunyah-resource-manager/blob/develop/README.md,3,1
+/quic/gunyah-resource-manager/blob/develop/LICENSE,2,2
+/quic/gunyah-resource-manager/blob/develop/src/assert.c,2,1
