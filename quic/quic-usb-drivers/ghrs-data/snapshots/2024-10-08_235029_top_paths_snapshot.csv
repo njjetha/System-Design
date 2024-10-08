@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/quic-usb-drivers,52,39
+/quic/quic-usb-drivers/tree/master/QdssDiag,17,7
+/quic/quic-usb-drivers/tree/master/GobiSerial,16,4
+/quic/quic-usb-drivers/blob/master/QdssDiag/qtiDiag.c,9,3
+/quic/quic-usb-drivers/tree/master,7,4
+/quic/quic-usb-drivers/blob/master/GobiSerial/GobiSerial.c,7,1
+/quic/quic-usb-drivers/tree/master/rmnet,6,2
+/quic/quic-usb-drivers/blob/master/README.md,4,2
+/quic/quic-usb-drivers/blob/master/QcDevDriver.sh,3,2
+/quic/quic-usb-drivers/tree/master/examples,3,2
