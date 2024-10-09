@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,34,25
+/quic/sense/blob/master/sense/display.py,6,1
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,5,1
+/quic/sense/blob/master/sense/downstream_tasks/fitness_activity_recognition/__init__.py,4,3
+/quic/sense/tree/master/sense,4,1
+/quic/sense/tree/master/sense/backbone_networks,3,1
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,2,2
+/quic/sense/blob/master/sense/downstream_tasks/calorie_estimation/calorie_accumulator.py,2,2
+/quic/sense/issues,2,2
+/quic/sense/releases,2,2
