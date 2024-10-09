@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,24,24
+/quic/android-on-snapdragon/tree/master/video,9,4
+/quic/android-on-snapdragon/tree/master/Camera,6,6
+/quic/android-on-snapdragon/tree/master/Display,5,5
+/quic/android-on-snapdragon/blob/master/video/libraries/QtiVideoExt/src/main/java/qti/video/QMediaCodecCapabilities.java,4,2
+/quic/android-on-snapdragon/tree/master/video/sample-apps/app,4,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10Encode.java,3,2
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10PlusEncode.java,2,2
+/quic/android-on-snapdragon/commits/master,2,2
+/quic/android-on-snapdragon/blob/master/video/build.gradle,2,1
