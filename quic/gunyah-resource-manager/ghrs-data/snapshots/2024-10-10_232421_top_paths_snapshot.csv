@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,31,26
+/quic/gunyah-resource-manager/blob/develop/src/resource-manager.c,12,7
+/quic/gunyah-resource-manager/tree/develop/src,6,5
+/quic/gunyah-resource-manager/blob/develop/LICENSE,2,2
+/quic/gunyah-resource-manager/blob/develop/src/dt/dt_overlay.c,2,2
+/quic/gunyah-resource-manager/tree/develop/src/dt,2,2
+/quic/gunyah-resource-manager/blob/develop/arch/armv8/src/timestamp.c,1,1
+/quic/gunyah-resource-manager/blob/develop/src/interrupt.c,1,1
+/quic/gunyah-resource-manager/blob/develop/src/vm_ipa/vm_ipa.c,1,1
+/quic/gunyah-resource-manager/fork,1,1
