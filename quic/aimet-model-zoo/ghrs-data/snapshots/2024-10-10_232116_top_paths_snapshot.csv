@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet-model-zoo,219,137
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch,59,36
+/quic/aimet-model-zoo/blob/develop/aimet_zoo_torch/quicksrnet/QuickSRNet.md,43,17
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/hrnet_posenet,40,25
+/quic/aimet-model-zoo/releases,32,14
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/quicksrnet,31,11
+/quic/aimet-model-zoo/tree/develop,29,24
+/quic/aimet-model-zoo/blob/develop/aimet_zoo_torch/yolox/YOLOX.md,26,12
+/quic/aimet-model-zoo/blob/develop/LICENSE.pdf,25,17
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/quicksrnet/model,19,7
