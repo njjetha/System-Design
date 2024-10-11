@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,24,24
+/quic/android-on-snapdragon/tree/master/Camera,7,7
+/quic/android-on-snapdragon/tree/master/Display,5,5
+/quic/android-on-snapdragon/tree/master/video,4,3
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10Encode.java,3,2
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10PlusEncode.java,2,2
+/quic/android-on-snapdragon/blob/master/Camera/FlashPowerControl/app/src/main/java/com/example/flashpowercontrol/MainActivity.java,1,1
+/quic/android-on-snapdragon/blob/master/Camera/README.md,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/src/stc_demo_imp.cpp,1,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/QpControlEncode.java,1,1
