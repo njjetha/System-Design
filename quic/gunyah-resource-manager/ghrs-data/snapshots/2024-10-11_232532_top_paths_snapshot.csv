@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,34,26
+/quic/gunyah-resource-manager/blob/develop/src/resource-manager.c,9,5
+/quic/gunyah-resource-manager/tree/develop/src,8,4
+/quic/gunyah-resource-manager/tree/develop/platform/qemu,3,2
+/quic/gunyah-resource-manager/commit/981e1e69df7baeeb241d19cb83072f713c3ed1db,3,1
+/quic/gunyah-resource-manager/tree/develop/platform/qemu/src,3,1
+/quic/gunyah-resource-manager/blob/develop/LICENSE,2,2
+/quic/gunyah-resource-manager/blob/develop/src/dt/dt_overlay.c,2,2
+/quic/gunyah-resource-manager/tree/develop,2,2
+/quic/gunyah-resource-manager/tree/develop/src/dt,2,2
