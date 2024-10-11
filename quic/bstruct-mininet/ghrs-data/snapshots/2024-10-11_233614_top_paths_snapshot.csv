@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/quic/bstruct-mininet,5,3
+/quic/bstruct-mininet/blob/master/experiments/g2_network04/input/g2.conf,3,2
+/quic/bstruct-mininet/tree/master/experiments,3,2
+/quic/bstruct-mininet/tree/master/experiments/g2_network04/input,2,1
+/quic/bstruct-mininet/blob/master/experiments/g2_network04/input/traffic.conf,1,1
+/quic/bstruct-mininet/blob/master/g2Launcher.py,1,1
+/quic/bstruct-mininet/tree/master/experiments/g2_network04,1,1
