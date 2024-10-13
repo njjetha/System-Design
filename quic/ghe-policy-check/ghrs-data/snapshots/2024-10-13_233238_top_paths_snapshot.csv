@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ghe-policy-check,3,2
+/quic/ghe-policy-check/commit/8a5f9c36b8496fea01980782c8a6e95f12b744f7,3,2
+/quic/ghe-policy-check/tree/master/src/ghe_policy_check,3,2
+/quic/ghe-policy-check/tree/master/src,2,2
+/quic/ghe-policy-check/tree/master/src/ghe_policy_check/management,2,1
+/quic/ghe-policy-check/blob/master/pyproject.toml,1,1
+/quic/ghe-policy-check/blob/master/src/ghe_policy_check/common/github_api/webhook_dispatcher.py,1,1
+/quic/ghe-policy-check/blob/master/src/ghe_policy_check/repo_polling.py,1,1
+/quic/ghe-policy-check/commit/b0e1de0729efbdb7958c0e24ae68afd0ea1259e0,1,1
+/quic/ghe-policy-check/commits,1,1
