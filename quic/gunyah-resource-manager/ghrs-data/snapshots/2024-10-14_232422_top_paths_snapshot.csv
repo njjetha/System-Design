@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,33,25
+/quic/gunyah-resource-manager/tree/develop/src,7,3
+/quic/gunyah-resource-manager/blob/develop/src/resource-manager.c,6,3
+/quic/gunyah-resource-manager/issues,3,3
+/quic/gunyah-resource-manager/tree/develop,3,3
+/quic/gunyah-resource-manager/issues/1,3,2
+/quic/gunyah-resource-manager/commit/981e1e69df7baeeb241d19cb83072f713c3ed1db,3,1
+/quic/gunyah-resource-manager/tree/develop/platform/qemu/src,3,1
+/quic/gunyah-resource-manager/blame/develop/src/memparcel/memparcel.c,2,1
+/quic/gunyah-resource-manager/blob/develop/platform/qemu/src/vm_dt.c,2,1
