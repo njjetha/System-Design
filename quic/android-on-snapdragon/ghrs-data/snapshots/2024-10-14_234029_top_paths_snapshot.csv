@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,23,23
+/quic/android-on-snapdragon/tree/master/Camera,6,6
+/quic/android-on-snapdragon/tree/master/Display,4,4
+/quic/android-on-snapdragon/tree/master/video,4,3
+/quic/android-on-snapdragon/blob/master/Camera/ColorSpaceSampleCode/app/build.gradle,1,1
+/quic/android-on-snapdragon/blob/master/Camera/ColorSpaceSampleCode/app/proguard-rules.pro,1,1
+/quic/android-on-snapdragon/blob/master/Camera/ColorSpaceSampleCode/app/src/main/AndroidManifest.xml,1,1
+/quic/android-on-snapdragon/blob/master/Camera/FlashPowerControl/app/src/main/java/com/example/flashpowercontrol/MainActivity.java,1,1
+/quic/android-on-snapdragon/blob/master/Camera/README.md,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/src/stc_demo_imp.cpp,1,1
