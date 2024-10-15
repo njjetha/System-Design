@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,52,37
+/quic/sense/issues,5,4
+/quic/sense/tree/master/examples,5,4
+/quic/sense/tree/master/sense,4,2
+/quic/sense/wiki/SenseStudio,3,3
+/quic/sense/blob/master/examples/run_action_recognition.py,2,2
+/quic/sense/blob/master/requirements.txt,2,2
+/quic/sense/blob/master/resources/fitness_activity_recognition/sien_logreg.ckpt,2,2
+/quic/sense/releases,2,2
+/quic/sense/blob/master/examples/run_gesture_control.py,2,1
