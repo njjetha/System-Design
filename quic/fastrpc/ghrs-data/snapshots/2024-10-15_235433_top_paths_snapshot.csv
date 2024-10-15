@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/fastrpc,209,103
+/quic/fastrpc/pulls,102,8
+/quic/fastrpc/issues,53,12
+/quic/fastrpc/tree/main,44,7
+/quic/fastrpc/tree/development/src,20,14
+/quic/fastrpc/tree/development,18,8
+/quic/fastrpc/commits/development,18,6
+/quic/fastrpc/pull/75,15,4
+/quic/fastrpc/pull/69,14,2
+/quic/fastrpc/releases/tag/v0.1.0,13,5
