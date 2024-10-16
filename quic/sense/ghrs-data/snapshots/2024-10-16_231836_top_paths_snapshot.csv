@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,57,39
+/quic/sense/tree/master/sense,6,3
+/quic/sense/issues,5,4
+/quic/sense/tree/master/examples,5,4
+/quic/sense/wiki/SenseStudio,3,3
+/quic/sense/blob/master/examples/run_action_recognition.py,2,2
+/quic/sense/blob/master/requirements.txt,2,2
+/quic/sense/blob/master/resources/fitness_activity_recognition/sien_logreg.ckpt,2,2
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,2,2
+/quic/sense/blob/master/sense/downstream_tasks/fitness_activity_recognition/__init__.py,2,2
