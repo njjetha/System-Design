@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,201,120
+/quic/cloud-ai-sdk/tree/1.17/models,90,35
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,61,27
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,53,31
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing/encoder,52,22
+/quic/cloud-ai-sdk/tree/1.17/models/multimodal/text_to_image,44,13
+/quic/cloud-ai-sdk/tree/1.17,41,24
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing/decoder,39,17
+/quic/cloud-ai-sdk/tree/1.17/samples,38,22
+/quic/cloud-ai-sdk/blob/1.17/models/language_processing/encoder/lut_nlp_models.csv,32,14
