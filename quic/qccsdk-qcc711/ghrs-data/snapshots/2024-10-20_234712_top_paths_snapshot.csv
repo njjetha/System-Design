@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,30,19
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,26,9
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,21,4
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/peripherals,10,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo/peripherals/gpio,9,1
+/quic/qccsdk-qcc711/tree/main,7,5
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo,7,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo/general,6,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo/peripherals,5,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/bin,4,3
