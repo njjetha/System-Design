@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,28,20
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,10,8
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,3,3
+/quic/qccsdk-qcc711/issues,2,2
+/quic/qccsdk-qcc711/issues/1,2,2
+/quic/qccsdk-qcc711/tree/main/rot,2,2
+/quic/qccsdk-qcc711/commits/main,2,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/demo/general/ble/ble_demo.c,1,1
+/quic/qccsdk-qcc711/blob/main/rot/notice.txt,1,1
+/quic/qccsdk-qcc711/releases,1,1
