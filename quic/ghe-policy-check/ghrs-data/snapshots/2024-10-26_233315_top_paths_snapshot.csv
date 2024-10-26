@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/quic/ghe-policy-check,6,1
+/quic/ghe-policy-check/blob/master/src/ghe_policy_check/tasks.py,2,1
+/quic/ghe-policy-check/blob/master/docs/example_settings,1,1
+/quic/ghe-policy-check/blob/master/setup.py,1,1
+/quic/ghe-policy-check/blob/master/src/ghe_policy_check/settings.py,1,1
+/quic/ghe-policy-check/tree/master/docs,1,1
