@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,27,23
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,12,11
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,5,5
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/tools/scripts/qcc710_apps.JLinkScript,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/tools,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/tools/scripts,2,2
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/crypto/src/tme_ipc_utils.c,2,1
+/quic/qccsdk-qcc711/commits/main,2,1
+/quic/qccsdk-qcc711/tree/main/rot,2,1
