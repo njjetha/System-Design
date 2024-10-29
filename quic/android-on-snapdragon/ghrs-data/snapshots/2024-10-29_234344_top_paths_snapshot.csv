@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,26,21
+/quic/android-on-snapdragon/tree/master/Camera,9,8
+/quic/android-on-snapdragon/tree/master/Display,9,6
+/quic/android-on-snapdragon/tree/master/video,8,6
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code,6,5
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/assets/QMediaCodecCapabilities_sm8550_kalama.json,5,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/inc/stc_demo_imp.h,4,4
+/quic/android-on-snapdragon/blob/master/video/libraries/QtiVideoExt/src/main/java/qti/video/QMediaExtensions.java,3,2
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/Android.mk,2,2
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/README.md,2,2
