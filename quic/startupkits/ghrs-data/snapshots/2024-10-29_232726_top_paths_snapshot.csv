@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/startupkits,20,15
+/quic/startupkits/pulls,12,3
+/quic/startupkits/pull/3,11,4
+/quic/startupkits/pull/3/checks,9,1
+/quic/startupkits/blob/main/README.md,8,5
+/quic/startupkits/blob/main/LICENSE.txt,3,3
+/quic/startupkits/tree/main/.github,3,2
+/quic/startupkits/actions/runs/10955925010,3,1
+/quic/startupkits/blob/main/docs/data/EC25/01_Overview.md,3,1
+/quic/startupkits/pull/4,3,1
