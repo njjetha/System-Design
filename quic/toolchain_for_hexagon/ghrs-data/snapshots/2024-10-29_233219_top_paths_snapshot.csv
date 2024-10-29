@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,68,28
+/quic/toolchain_for_hexagon/releases,62,22
+/quic/toolchain_for_hexagon/releases/tag/v19.1.2,19,4
+/quic/toolchain_for_hexagon/pulls,15,5
+/quic/toolchain_for_hexagon/pull/36,15,3
+/quic/toolchain_for_hexagon/releases/tag/v18.1.0-rc1_02,11,5
+/quic/toolchain_for_hexagon/blob/master/examples/README.md,8,5
+/quic/toolchain_for_hexagon/tree/master/examples/contrived,7,1
+/quic/toolchain_for_hexagon/tree/master/cross-win,6,4
+/quic/toolchain_for_hexagon/issues,6,3
