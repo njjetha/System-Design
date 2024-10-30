@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,37,26
+/quic/qemu/tree/bcain/sysemu_sept8_2024,9,5
+/quic/qemu/tags,7,3
+/quic/qemu/releases/tag/hexagon-sysemu-04-oct-2024,5,3
+/quic/qemu/branches,4,4
+/quic/qemu/tree/bcain/virt_dtb,4,3
+/quic/qemu/commits/master,4,1
+/quic/qemu/tree/libqemu-v8.2-v0.1.4,3,2
+/quic/qemu/commit/373c7068dd610e97f0b551b5a6d0a27cd6da4506,2,2
+/quic/qemu/commits/bcain/sysemu_sept8_2024,2,2
