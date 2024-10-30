@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,45,30
+/quic/sense/blob/master/README.md,18,4
+/quic/sense/blob/master/examples/run_action_recognition.py,9,5
+/quic/sense/tree/master/docs,9,4
+/quic/sense/tree/master/resources,9,3
+/quic/sense/tree/master/tests,7,4
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,7,3
+/quic/sense/tree/master/sense,7,3
+/quic/sense/blob/master/docs/wiki/sensestudio.md,6,4
+/quic/sense/blob/master/requirements.txt,6,4
