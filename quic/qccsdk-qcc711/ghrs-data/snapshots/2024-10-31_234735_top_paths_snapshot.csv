@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,21,18
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,9,9
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,5,5
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/tools/scripts/qcc710_apps.JLinkScript,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/tools,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/tools/scripts,2,2
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/crypto/src/tme_ipc_utils.c,2,1
+/quic/qccsdk-qcc711/tree/main/rot,2,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/common/mproc/glink/inc/glink_os_utils.h,1,1
