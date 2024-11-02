@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,50,35
+/quic/sense/blob/master/README.md,17,4
+/quic/sense/blob/master/examples/run_action_recognition.py,8,4
+/quic/sense/blob/master/LICENSE,8,3
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,8,3
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,8,3
+/quic/sense/blob/master/sense/models.yml,8,3
+/quic/sense/tree/master/resources,8,3
+/quic/sense/tree/master/docs,7,4
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,7,3
