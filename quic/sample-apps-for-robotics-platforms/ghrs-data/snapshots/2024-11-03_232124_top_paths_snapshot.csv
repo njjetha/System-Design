@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-robotics-platforms,122,98
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x,89,39
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5,82,41
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps,42,26
+/quic/sample-apps-for-robotics-platforms/tree/master,40,24
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/AI_Vision_Solutions,23,10
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp,23,10
+/quic/sample-apps-for-robotics-platforms/blob/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp/gst_tflite/tflite_classification.c,22,6
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/platform-bringup,21,9
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/OpenCL-Application,19,7
