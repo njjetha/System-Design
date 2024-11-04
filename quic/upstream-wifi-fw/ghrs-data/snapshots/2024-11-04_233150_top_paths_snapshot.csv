@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/upstream-wifi-fw,47,41
+/quic/upstream-wifi-fw/tree/main/ath11k-firmware,42,22
+/quic/upstream-wifi-fw/tree/main/ath12k-firmware,38,23
+/quic/upstream-wifi-fw/tree/main/ath12k-firmware/QCN9274,22,12
+/quic/upstream-wifi-fw/tree/main,13,11
+/quic/upstream-wifi-fw/tree/main/ath11k-firmware/QCN9074/hw1.0,13,5
+/quic/upstream-wifi-fw/tree/main/ath12k-firmware/QCN9274/hw2.0,12,10
+/quic/upstream-wifi-fw/tree/main/ath12k-firmware/QCN9274/hw2.0_split_phy,12,6
+/quic/upstream-wifi-fw/tree/main/ath11k-firmware/IPQ5018_QCN6122_QCN6122/hw1.0,12,2
+/quic/upstream-wifi-fw/tree/main/ath11k-firmware/QCN9074/hw1.0/2.9.0.1,8,4
