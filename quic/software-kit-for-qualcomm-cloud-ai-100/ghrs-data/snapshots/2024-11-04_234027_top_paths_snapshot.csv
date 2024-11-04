@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,20,16
+/quic/software-kit-for-qualcomm-cloud-ai-100/pulls,3,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib,3,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/actions,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/inc/qaic-openrt-api-hpp/QAicOpenRtQpc.hpp,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/core/src/QProgram.cpp,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/commit/b4fdb0a2c6594da67f255789a91d060083d25edb,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/runtime-platform/src,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/actions/workflows/quic-organization-repolinter.yml,2,1
