@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,31,20
+/quic/gunyah-resource-manager/tree/develop/src,6,4
+/quic/gunyah-resource-manager/blob/develop/repolint.json,4,2
+/quic/gunyah-resource-manager/pull/11,4,2
+/quic/gunyah-resource-manager/tree/develop/platform/qemu/src,4,2
+/quic/gunyah-resource-manager/tree/develop/platform/qemu,3,3
+/quic/gunyah-resource-manager/blob/develop/README.md,3,1
+/quic/gunyah-resource-manager/blob/develop/platform/qemu/src/vm_dt.c,2,2
+/quic/gunyah-resource-manager/commits/develop,2,2
+/quic/gunyah-resource-manager/issues,2,2
