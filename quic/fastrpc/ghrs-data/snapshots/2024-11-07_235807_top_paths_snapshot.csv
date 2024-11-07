@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/fastrpc,155,85
+/quic/fastrpc/pulls,70,9
+/quic/fastrpc/tree/development/src,36,20
+/quic/fastrpc/pull/102,25,3
+/quic/fastrpc/issues,19,11
+/quic/fastrpc/pull/98,16,1
+/quic/fastrpc/actions/workflows/codeql_analysis.yml,15,1
+/quic/fastrpc/tree/development,14,9
+/quic/fastrpc/pull/89,13,8
+/quic/fastrpc/pull/96,13,4
