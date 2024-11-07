@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai/tree/main/Scripts,23,7
+/quic/wos-ai,21,10
+/quic/wos-ai/blob/main/Scripts/onnx_setup.ps1,10,5
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,7,4
+/quic/wos-ai/pulls,7,2
+/quic/wos-ai/pull/1,5,2
+/quic/wos-ai/tree/main/Artifacts,3,3
+/quic/wos-ai/blob/main/README.md,2,1
+/quic/wos-ai/compare/main...vineethajami:wos-ai:patch-1,2,1
+/quic/wos-ai/edit/main/Scripts/qnn_setup.ps1,2,1
