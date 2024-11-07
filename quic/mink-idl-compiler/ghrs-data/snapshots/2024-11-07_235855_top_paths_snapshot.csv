@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,20,12
+/quic/mink-idl-compiler/tree/main/idlc_codegen_java,2,2
+/quic/mink-idl-compiler/tree/main/idlc_codegen_java/src,2,2
+/quic/mink-idl-compiler/blob/main/idlc_codegen_java/src/generator.rs,1,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_java/src/globals.rs,1,1
+/quic/mink-idl-compiler/commit/95ebb8d6031dd2c8d3f6277e50edadee8a119d5b,1,1
+/quic/mink-idl-compiler/commits/main,1,1
+/quic/mink-idl-compiler/compare/v0.1.4...v0.2.0,1,1
+/quic/mink-idl-compiler/fork,1,1
+/quic/mink-idl-compiler/releases,1,1
