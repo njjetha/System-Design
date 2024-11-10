@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,52,21
+/quic/toolchain_for_hexagon/issues,19,3
+/quic/toolchain_for_hexagon/issues/37,13,3
+/quic/toolchain_for_hexagon/blob/master/examples/README.md,10,4
+/quic/toolchain_for_hexagon/releases,9,6
+/quic/toolchain_for_hexagon/pull/25,9,3
+/quic/toolchain_for_hexagon/pulls,9,1
+/quic/toolchain_for_hexagon/tree/master,8,5
+/quic/toolchain_for_hexagon/blob/master/get-src-repos.sh,5,2
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,4,4
