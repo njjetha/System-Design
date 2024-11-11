@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,136,78
+/quic/qbox/tree/main,24,13
+/quic/qbox/tree/main/qemu-components,20,10
+/quic/qbox/tree/main/platforms,20,9
+/quic/qbox/tree/main/platforms/ubuntu/fw,15,8
+/quic/qbox/tree/main/platforms/ubuntu,13,6
+/quic/qbox/tree/main/systemc-components,11,8
+/quic/qbox/blob/main/platforms/ubuntu/fw/build_linux_dist_image.sh,10,7
+/quic/qbox/commits/main,9,1
+/quic/qbox/issues,8,4
