@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,55,37
+/quic/sense/tree/master/examples,6,4
+/quic/sense/blob/master/CODE_OF_CONDUCT.md,4,3
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,4,1
+/quic/sense/blob/master/sense/downstream_tasks/nn_utils.py,3,2
+/quic/sense/blob/master/examples/__init__.py,3,1
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,3,1
+/quic/sense/blob/master/sense/models.yml,3,1
+/quic/sense/blob/master/sense/utils.py,3,1
+/quic/sense/blob/master/docs/imgs/sense_core_logo.svg,2,2
