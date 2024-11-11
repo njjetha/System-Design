@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,179,130
+/quic/cloud-ai-sdk/tree/1.17/models,63,34
+/quic/cloud-ai-sdk/tree/1.17,46,29
+/quic/cloud-ai-sdk/tree/1.17/tutorials,45,29
+/quic/cloud-ai-sdk/tree/1.17/models/vision/detection,32,12
+/quic/cloud-ai-sdk/tree/1.17/models/multimodal/text_to_image,29,17
+/quic/cloud-ai-sdk/tree/1.17/samples,29,17
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,27,20
+/quic/cloud-ai-sdk/blob/1.17/models/vision/detection/run_yolo_model.py,25,7
+/quic/cloud-ai-sdk/tree/1.17/models/multimodal/text_to_image/stable_diffusion_xl,23,11
