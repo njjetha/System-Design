@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,37,23
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-runner,9,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils,4,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-runner/QAicRunner.cpp,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-runner/QAicRunner.h,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-runner/QAicRunnerMain.cpp,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/commit/289ba225526ff7a2e0a50379b599ab1ff93cbe69,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/commits/main,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-util,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/inc/qaic-openrt-api-hpp/qaic-api-common/QAicRuntimeTypes.h,2,1
