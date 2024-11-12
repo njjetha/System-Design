@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/quic/lockers,2,2
+/quic/lockers/blob/master/k8s_id.sh,2,2
+/quic/lockers/blob/master/lib/hostpid_lock.sh,2,2
+/quic/lockers/blob/master/lock_ssh.sh,2,2
+/quic/lockers/tree/master/lib,2,2
