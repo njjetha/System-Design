@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu/tags,48,3
+/quic/qemu,26,10
+/quic/qemu/tree/hexagon-sysemu-22-may-2024/target/hexagon,9,1
+/quic/qemu/branches,5,4
+/quic/qemu/tree/hexagon-sysemu-22-may-2024/target/hexagon/dma,5,1
+/quic/qemu/tree/master/target/hexagon,4,2
+/quic/qemu/branches/all,3,3
+/quic/qemu/commit/a9f50be3bad960bc607e5da34a1a2a4c3096908f,3,3
+/quic/qemu/tree/bcain/sysemu_sept8_2024,3,3
+/quic/qemu/commit/9e71dc006cf5c2dded0669535d571abe8f85d029,3,1
