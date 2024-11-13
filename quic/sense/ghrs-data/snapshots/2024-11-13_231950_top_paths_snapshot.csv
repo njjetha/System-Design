@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,62,39
+/quic/sense/tree/master/examples,4,4
+/quic/sense/blob/master/CODE_OF_CONDUCT.md,4,3
+/quic/sense/blob/master/requirements.txt,4,3
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,4,1
+/quic/sense/blob/master/tests/test_loading.py,3,3
+/quic/sense/tree/master/tests,3,3
+/quic/sense/blob/master/sense/downstream_tasks/nn_utils.py,3,2
+/quic/sense/blob/master/tests/test_camera.py,3,2
+/quic/sense/blob/master/tests/test_display.py,3,2
