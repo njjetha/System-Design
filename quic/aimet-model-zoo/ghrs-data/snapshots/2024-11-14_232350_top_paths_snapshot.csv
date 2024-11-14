@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet-model-zoo,257,156
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch,89,52
+/quic/aimet-model-zoo/blob/develop/aimet_zoo_torch/quicksrnet/QuickSRNet.md,72,37
+/quic/aimet-model-zoo/releases,60,19
+/quic/aimet-model-zoo/tree/develop,44,25
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/quicksrnet,41,19
+/quic/aimet-model-zoo/tree/d09d2b0404d10f71a7640a87e9d5e5257b028802/aimet_zoo_torch/yolox,27,1
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/hrnet_posenet,23,17
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/vit,21,8
+/quic/aimet-model-zoo/tree/d09d2b0404d10f71a7640a87e9d5e5257b028802/aimet_zoo_torch/yolox/model,21,1
