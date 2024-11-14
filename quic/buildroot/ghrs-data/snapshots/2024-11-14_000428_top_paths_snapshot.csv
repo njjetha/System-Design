@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/quic/buildroot,4,4
+/quic/buildroot/blob/master/configs/rock64_defconfig,2,1
+/quic/buildroot/commits/master/configs,2,1
+/quic/buildroot/blob/672fa93bef098a3ef4c17ce7a2540cb34574fbb7/package/igt-gpu-tools/igt-gpu-tools.mk,1,1
+/quic/buildroot/blob/master/configs/riotboard_defconfig,1,1
+/quic/buildroot/tree/master/configs,1,1
