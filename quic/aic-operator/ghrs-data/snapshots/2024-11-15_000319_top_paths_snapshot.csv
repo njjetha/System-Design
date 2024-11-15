@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/quic/aic-operator,3,2
+/quic/aic-operator/tree/main/test,2,1
+/quic/aic-operator/blob/main/test/cmd/main.go,1,1
+/quic/aic-operator/tree/main,1,1
+/quic/aic-operator/tree/main/test/cmd,1,1
+/quic/aic-operator/tree/main/test/e2e,1,1
+/quic/aic-operator/tree/main/test/internal,1,1
+/quic/aic-operator/tree/main/test/internal/controller,1,1
