@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,56,35
+/quic/sense/tree/master/examples,5,5
+/quic/sense/blob/master/examples/run_fitness_rep_counter.py,3,3
+/quic/sense/tree/master/tests,3,3
+/quic/sense/blob/master/requirements.txt,3,2
+/quic/sense/blob/master/CODE_OF_CONDUCT.md,2,2
+/quic/sense/blob/master/examples/run_action_recognition.py,2,2
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,2,2
+/quic/sense/blob/master/tests/test_loading.py,2,2
+/quic/sense/tree/master/docs,2,2
