@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,36,30
+/quic/gunyah-resource-manager/tree/develop/src,12,8
+/quic/gunyah-resource-manager/tree/develop/platform/qemu,5,4
+/quic/gunyah-resource-manager/tree/develop/arch,3,3
+/quic/gunyah-resource-manager/blob/develop/README.md,3,1
+/quic/gunyah-resource-manager/blob/develop/config/platform/qemu.conf,2,2
+/quic/gunyah-resource-manager/blob/develop/configure.py,2,2
+/quic/gunyah-resource-manager/blob/develop/SConstruct,2,2
+/quic/gunyah-resource-manager/blob/develop/src/interrupt.c,2,2
+/quic/gunyah-resource-manager/blob/develop/src/virq.c,2,2
