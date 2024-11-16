@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,201,134
+/quic/cloud-ai-sdk/tree/1.17/models,49,33
+/quic/cloud-ai-sdk/tree/1.17/tutorials,42,26
+/quic/cloud-ai-sdk/tree/1.17,37,26
+/quic/cloud-ai-sdk/tree/1.17/samples,32,21
+/quic/cloud-ai-sdk/tree/1.17/models/vision/detection,28,11
+/quic/cloud-ai-sdk/tree/1.17/models/multimodal/text_to_image,24,15
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,24,13
+/quic/cloud-ai-sdk/blob/1.17/models/vision/detection/run_yolo_model.py,24,6
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,23,16
