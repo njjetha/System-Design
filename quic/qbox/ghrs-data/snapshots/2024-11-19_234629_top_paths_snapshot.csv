@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,124,76
+/quic/qbox/tree/main,20,13
+/quic/qbox/tree/main/systemc-components,14,10
+/quic/qbox/tree/main/qemu-components,10,8
+/quic/qbox/tree/main/docs,10,7
+/quic/qbox/tree/main/platforms,9,5
+/quic/qbox/commits/main,9,4
+/quic/qbox/issues,6,5
+/quic/qbox/blob/main/libqemu-cxxConfig.cmake.in,5,5
+/quic/qbox/blob/main/README.md,4,4
