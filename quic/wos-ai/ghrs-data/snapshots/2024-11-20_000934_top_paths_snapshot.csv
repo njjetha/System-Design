@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,19,12
+/quic/wos-ai/tree/main/Scripts,11,5
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,10,4
+/quic/wos-ai/blob/main/Scripts/onnx_setup.ps1,8,2
+/quic/wos-ai/blob/main/Scripts/dml_npu_setup.ps1,5,4
+/quic/wos-ai/tree/main,4,2
+/quic/wos-ai/tree/main/Artifacts,3,3
+/quic/wos-ai/blob/main/README.md,3,1
+/quic/wos-ai/activity,1,1
+/quic/wos-ai/blob/main/%20Scripts/%20dml_npu_setup.ps1,1,1
