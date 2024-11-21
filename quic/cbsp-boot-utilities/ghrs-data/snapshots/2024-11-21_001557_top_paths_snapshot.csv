@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cbsp-boot-utilities,29,13
+/quic/cbsp-boot-utilities/tree/main,11,8
+/quic/cbsp-boot-utilities/tree/main/uefi_capsule_generation,11,5
+/quic/cbsp-boot-utilities/tree/main/uefi_sec,5,4
+/quic/cbsp-boot-utilities/pulls,5,3
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/configure.ac,2,2
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/uefi_sec.c,2,2
+/quic/cbsp-boot-utilities/branches,2,1
+/quic/cbsp-boot-utilities/projects,2,1
+/quic/cbsp-boot-utilities/security,2,1
