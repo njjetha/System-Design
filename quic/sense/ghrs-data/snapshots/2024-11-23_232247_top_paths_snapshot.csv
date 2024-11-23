@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,65,43
+/quic/sense/tree/master/examples,5,4
+/quic/sense/wiki/SenseStudio,4,4
+/quic/sense/tree/master/tests,4,3
+/quic/sense/blob/master/requirements.txt,3,2
+/quic/sense/wiki/gallery,3,2
+/quic/sense/blob/master/examples/run_action_recognition.py,2,2
+/quic/sense/blob/master/examples/run_fitness_rep_counter.py,2,2
+/quic/sense/blob/master/tests/test_loading.py,2,2
+/quic/sense/actions,1,1
