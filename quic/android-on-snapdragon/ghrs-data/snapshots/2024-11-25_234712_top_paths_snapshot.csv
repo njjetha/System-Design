@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,12,10
+/quic/android-on-snapdragon/tree/master/Camera,8,6
+/quic/android-on-snapdragon/tree/master/video,8,6
+/quic/android-on-snapdragon/tree/master/Display,4,4
+/quic/android-on-snapdragon/tree/master/video/sample-apps/app,2,2
+/quic/android-on-snapdragon/branches,2,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/CMakeLists.txt,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/README.md,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/src/stc_demo_imp.cpp,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/test/stc_demo_test.cpp,1,1
