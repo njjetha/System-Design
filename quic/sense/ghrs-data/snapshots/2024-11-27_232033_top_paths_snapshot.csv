@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,68,41
+/quic/sense/tree/master/resources,5,3
+/quic/sense/tree/master/examples,4,3
+/quic/sense/issues,3,3
+/quic/sense/tree/master/tests,3,2
+/quic/sense/wiki/SenseStudio,2,2
+/quic/sense/wiki/gallery,2,1
+/quic/sense/blob/master/CODE_OF_CONDUCT.md,1,1
+/quic/sense/blob/master/examples/run_action_recognition.py,1,1
+/quic/sense/blob/master/examples/run_calorie_estimation.py,1,1
