@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ai-hub-models,1272,647
+/quic/ai-hub-models/tree/main/qai_hub_models/models,875,383
+/quic/ai-hub-models/tree/main/qai_hub_models,577,299
+/quic/ai-hub-models/tree/main,535,267
+/quic/ai-hub-models/tree/main/qai_hub_models/models/llama_v2_7b_chat_quantized,239,115
+/quic/ai-hub-models/issues,233,97
+/quic/ai-hub-models/tree/main/qai_hub_models/models/llama_v3_2_3b_chat_quantized,195,89
+/quic/ai-hub-models/tree/main/qai_hub_models/models/llama_v3_8b_chat_quantized,154,98
+/quic/ai-hub-models/tree/main/qai_hub_models/models/llama_v2_7b_chat_quantized/gen_ondevice_llama,152,69
+/quic/ai-hub-models/tree/main/qai_hub_models/models/real_esrgan_x4plus,136,103
