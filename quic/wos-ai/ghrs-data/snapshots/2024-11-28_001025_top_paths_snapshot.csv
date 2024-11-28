@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,40,5
+/quic/wos-ai,33,19
+/quic/wos-ai/tree/main/Scripts,31,9
+/quic/wos-ai/blob/main/Scripts/onnx_setup.ps1,25,4
+/quic/wos-ai/tree/main/Artifacts,14,6
+/quic/wos-ai/blob/main/Artifacts/backendExtensionDetails.json,14,4
+/quic/wos-ai/blob/main/Scripts/mlc_setup.ps1,14,2
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,14,2
+/quic/wos-ai/blob/main/Scripts/onnx_setup_test.ps1,13,3
+/quic/wos-ai/blob/main/Artifacts/qnnConfigDetails.json,13,2
