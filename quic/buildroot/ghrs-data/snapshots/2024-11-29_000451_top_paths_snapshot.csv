@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/quic/buildroot,8,6
+/quic/buildroot/commits/master/configs,2,1
+/quic/buildroot/releases/tag/hexagon-2024.11.26,2,1
+/quic/buildroot/releases,1,1
+/quic/buildroot/tags,1,1
+/quic/buildroot/tree/master,1,1
+/quic/buildroot/tree/master/arch,1,1
+/quic/buildroot/tree/master/board,1,1
