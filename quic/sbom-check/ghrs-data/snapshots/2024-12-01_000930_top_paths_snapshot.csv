@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sbom-check,10,3
+/quic/sbom-check/actions/new,1,1
+/quic/sbom-check/actions/runs/12003568757,1,1
+/quic/sbom-check/actions/runs/12003568757/job/33457222270,1,1
+/quic/sbom-check/actions/runs/12003568757/job/33457247687,1,1
+/quic/sbom-check/commits/main,1,1
+/quic/sbom-check/compare/main...jesseporter:sbom-check:main,1,1
+/quic/sbom-check/fork,1,1
+/quic/sbom-check/forks,1,1
+/quic/sbom-check/graphs/contributors,1,1
