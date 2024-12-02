@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/homebrew-quic,3,1
+/quic/homebrew-quic/actions,3,1
+/quic/homebrew-quic/actions/runs/10957435710,3,1
+/quic/homebrew-quic/actions/runs/10957435710/job/30425574450,2,1
+/quic/homebrew-quic/actions/runs/10957435712,2,1
+/quic/homebrew-quic/actions/workflows/quic-organization-repolinter.yml,2,1
+/quic/homebrew-quic/new/main,2,1
+/quic/homebrew-quic/actions/new,1,1
+/quic/homebrew-quic/actions/runs/10957435712/job/30425574418,1,1
+/quic/homebrew-quic/blob/main/.github/workflows/quic-organization-repolinter.yml,1,1
