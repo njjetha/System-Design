@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/contribution-tracker,55,13
+/quic/contribution-tracker/issues,17,6
+/quic/contribution-tracker/pulls,10,2
+/quic/contribution-tracker/pull/9,8,2
+/quic/contribution-tracker/pull/10,7,2
+/quic/contribution-tracker/pull/1,6,1
+/quic/contribution-tracker/issues/4,5,3
+/quic/contribution-tracker/blob/main/.github/workflows/quic-organization-repolinter.yml,5,2
+/quic/contribution-tracker/issues/new,5,1
+/quic/contribution-tracker/pull/3,5,1
