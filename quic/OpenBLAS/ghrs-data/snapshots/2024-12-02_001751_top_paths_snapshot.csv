@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/quic/OpenBLAS,10,7
+/quic/OpenBLAS/tree/develop/docs,2,1
+/quic/OpenBLAS/blob/develop/docs/developers.md,1,1
+/quic/OpenBLAS/blob/develop/docs/user_manual.md,1,1
+/quic/OpenBLAS/blob/develop/interface/gemm.c,1,1
+/quic/OpenBLAS/tree/develop,1,1
+/quic/OpenBLAS/tree/develop/interface,1,1
