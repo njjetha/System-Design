@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cbsp-boot-utilities,77,17
+/quic/cbsp-boot-utilities/tree/main/uefi_sec,22,6
+/quic/cbsp-boot-utilities/pulls,21,7
+/quic/cbsp-boot-utilities/pull/1,20,7
+/quic/cbsp-boot-utilities/tree/main,19,6
+/quic/cbsp-boot-utilities/tree/main/uefi_capsule_generation,19,6
+/quic/cbsp-boot-utilities/compare/main...quicthogaru:cbsp-boot-utilities:main,14,1
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/Makefile.am,13,4
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/uefi_sec.c,12,3
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/configure.ac,10,3
