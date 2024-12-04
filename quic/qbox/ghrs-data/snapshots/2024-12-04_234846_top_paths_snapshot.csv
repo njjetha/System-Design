@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,118,70
+/quic/qbox/tree/main/platforms,30,14
+/quic/qbox/tree/main,22,11
+/quic/qbox/tree/main/platforms/cortex-m55-remote,16,4
+/quic/qbox/tree/main/qemu-components,13,9
+/quic/qbox/tree/main/platforms/ubuntu,12,8
+/quic/qbox/blob/main/platforms/ubuntu/fw/build_linux_dist_image.sh,11,7
+/quic/qbox/tree/main/platforms/ubuntu/fw,9,6
+/quic/qbox/blob/main/platforms/cortex-m55-remote/src/main.cc,9,2
+/quic/qbox/tree/main/platforms/src,8,6
