@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,12,10
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,4,4
+/quic/qccsdk-qcc711/blob/main/README.md,4,2
+/quic/qccsdk-qcc711/tree/main/rot/tools,2,2
+/quic/qccsdk-qcc711/blob/5f0a46d9e19accff627143c7d787ddfa996df9b2/qcc711_sdk/tools/src/nvm_programmer.c,2,1
+/quic/qccsdk-qcc711/tree/main/.github/workflows,2,1
+/quic/qccsdk-qcc711/blob/5f0a46d9e19accff627143c7d787ddfa996df9b2/qcc711_sdk/tools/scripts/nvm_programmer.py,1,1
+/quic/qccsdk-qcc711/blob/main/.github/workflows/quic-organization-repolinter.yml,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/notice.txt,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/qapi/ble/qapi_ble_atttypes.h,1,1
