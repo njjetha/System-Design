@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,14,13
+/quic/android-on-snapdragon/tree/master/Camera,8,8
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code,7,3
+/quic/android-on-snapdragon/tree/master/Display,5,4
+/quic/android-on-snapdragon/tree/master/Camera/UltraHDRSampleCode,3,3
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code/src,3,3
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/demos/depthcapture/src/main/java/qti/video/depthcapture/playback/BokehEffect.java,3,1
+/quic/android-on-snapdragon/tree/master,2,2
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/demos/depthcapture/src/main/java/qti/video/depthcapture/playback/DepthPlaybackActivity.java,2,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10Encode.java,2,1
