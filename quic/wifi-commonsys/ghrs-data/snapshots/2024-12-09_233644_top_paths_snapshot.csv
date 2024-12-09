@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wifi-commonsys/pull/1,29,3
+/quic/wifi-commonsys,22,17
+/quic/wifi-commonsys/pull/1/files,13,2
+/quic/wifi-commonsys/pull/1/commits,6,2
+/quic/wifi-commonsys/pull/1/checks,5,1
+/quic/wifi-commonsys/blob/main/qtiwifi/service/java/com/qualcomm/qti/server/qtiwifi/QtiWifiServiceImpl.java,4,4
+/quic/wifi-commonsys/pulls,4,3
+/quic/wifi-commonsys/blob/197748c8aaf1b4c4299f46d114b88dbc4a4247ac/README.md,1,1
+/quic/wifi-commonsys/blob/main/.github/workflows/quic-organization-repolinter.yml,1,1
+/quic/wifi-commonsys/blob/main/qtiwifi/QtiWifiSettings/AndroidManifest.xml,1,1
