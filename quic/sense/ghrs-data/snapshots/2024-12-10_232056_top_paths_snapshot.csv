@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,61,42
+/quic/sense/tree/master/sense,15,6
+/quic/sense/tree/master/sense/backbone_networks,13,5
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,13,4
+/quic/sense/tree/master/resources,10,6
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,9,3
+/quic/sense/issues,7,5
+/quic/sense/tree/master/resources/gesture_control,7,5
+/quic/sense/wiki/SenseStudio,6,3
+/quic/sense/issues/191,6,2
