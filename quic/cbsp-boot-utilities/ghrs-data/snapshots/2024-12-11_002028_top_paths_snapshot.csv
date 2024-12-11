@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cbsp-boot-utilities/tree/main/uefi_sec,24,8
+/quic/cbsp-boot-utilities,24,6
+/quic/cbsp-boot-utilities/tree/main/uefi_capsule_generation,15,9
+/quic/cbsp-boot-utilities/tree/main,11,5
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/uefi_sec.c,10,6
+/quic/cbsp-boot-utilities/compare/main...quicthogaru:cbsp-boot-utilities:main,10,1
+/quic/cbsp-boot-utilities/pull/8/commits,10,1
+/quic/cbsp-boot-utilities/pull/8,9,2
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/uefi_sec.service,7,3
+/quic/cbsp-boot-utilities/pulls,6,2
