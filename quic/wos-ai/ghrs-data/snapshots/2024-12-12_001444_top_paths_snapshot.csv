@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,28,13
+/quic/wos-ai/tree/main/Scripts,23,9
+/quic/wos-ai/blob/main/Scripts/dml_npu_setup.ps1,11,5
+/quic/wos-ai/blob/main/Scripts/mlc_setup.ps1,11,5
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,9,5
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,7,5
+/quic/wos-ai/tree/main/Artifacts,6,4
+/quic/wos-ai/commit/41ec9d360b9d892705c19bf872414ae9301bc9e3,3,1
+/quic/wos-ai/commits/main,2,2
+/quic/wos-ai/commits,2,1
