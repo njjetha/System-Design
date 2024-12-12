@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/quic/buildroot,7,7
+/quic/buildroot/blob/672fa93bef098a3ef4c17ce7a2540cb34574fbb7/docs/manual/integration-selinux-support.adoc,1,1
+/quic/buildroot/blob/master/.github/workflows/repo-lockdown.yml,1,1
+/quic/buildroot/tree/master/board,1,1
+/quic/buildroot/tree/master/.github,1,1
+/quic/buildroot/tree/master/.github/workflows,1,1
+/quic/buildroot/tree/master/system,1,1
