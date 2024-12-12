@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,120,68
+/quic/qbox/tree/main,41,14
+/quic/qbox/tree/main/platforms,22,7
+/quic/qbox/tree/main/qemu-components,17,9
+/quic/qbox/tree/main/platforms/cortex-m55-remote,14,3
+/quic/qbox/tree/main/docs,13,7
+/quic/qbox/tree/main/systemc-components,10,7
+/quic/qbox/pulls,10,4
+/quic/qbox/tree/main/docs/libqbox,9,7
+/quic/qbox/pull/12,9,6
