@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,19,12
+/quic/wos-ai/tree/main/Scripts,18,7
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,7,4
+/quic/wos-ai/blob/main/Scripts/mlc_setup.ps1,6,3
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,5,4
+/quic/wos-ai/blob/main/Scripts/dml_npu_setup.ps1,4,3
+/quic/wos-ai/tree/main/Artifacts,3,3
+/quic/wos-ai/blob/main/Artifacts/io_utils.py,1,1
+/quic/wos-ai/blob/main/README.md,1,1
+/quic/wos-ai/blob/main/Scripts/llama_cpp_setup.ps1,1,1
