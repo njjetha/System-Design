@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/quic-usb-drivers,28,26
+/quic/quic-usb-drivers/tree/master/QdssDiag,11,6
+/quic/quic-usb-drivers/tree/master,7,3
+/quic/quic-usb-drivers/tree/master/docs/images,3,3
+/quic/quic-usb-drivers/pulls,3,2
+/quic/quic-usb-drivers/issues,2,2
+/quic/quic-usb-drivers/tree/master/examples,2,1
+/quic/quic-usb-drivers/blob/master/examples/sample_test.c,1,1
+/quic/quic-usb-drivers/blob/master/QcDevDriver.sh,1,1
+/quic/quic-usb-drivers/blob/master/QdssDiag/qdbusb.inf,1,1
