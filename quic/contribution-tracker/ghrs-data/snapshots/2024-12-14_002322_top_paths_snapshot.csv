@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/contribution-tracker,23,14
+/quic/contribution-tracker/tree/main/src,3,2
+/quic/contribution-tracker/graphs/traffic,3,1
+/quic/contribution-tracker/blob/main/src/iomanager.py,2,2
+/quic/contribution-tracker/issues,2,2
+/quic/contribution-tracker/pulls,2,1
+/quic/contribution-tracker/pulse,2,1
+/quic/contribution-tracker/actions/workflows/pytest.yml,1,1
+/quic/contribution-tracker/blob/main/src/json_parser.py,1,1
+/quic/contribution-tracker/blob/main/src/metrics.py,1,1
