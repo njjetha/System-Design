@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,42,31
+/quic/gunyah-resource-manager/tree/develop/src,9,7
+/quic/gunyah-resource-manager/tree/develop/arch,8,5
+/quic/gunyah-resource-manager/blob/develop/README.md,5,3
+/quic/gunyah-resource-manager/tree/develop/config,4,2
+/quic/gunyah-resource-manager/blob/develop/src/vm_config/dtb_parser.c,3,3
+/quic/gunyah-resource-manager/blob/develop/src/vm_creation/vm_creation.c,3,3
+/quic/gunyah-resource-manager/tree/develop,3,3
+/quic/gunyah-resource-manager/tree/develop/src/vm_creation,3,3
+/quic/gunyah-resource-manager/tree/develop/config/platform,3,2
