@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,143,72
+/quic/qbox/tree/main,39,13
+/quic/qbox/issues,28,8
+/quic/qbox/tree/main/qemu-components,18,9
+/quic/qbox/tree/main/docs,13,8
+/quic/qbox/tree/main/systemc-components,12,9
+/quic/qbox/tree/main/platforms,12,5
+/quic/qbox/tree/main/docs/libqbox,11,8
+/quic/qbox/issues/13,11,5
+/quic/qbox/pulls,11,5
