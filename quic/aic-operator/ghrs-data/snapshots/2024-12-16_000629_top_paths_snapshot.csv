@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,13,7
+/quic/aic-operator/tree/main/test,2,1
+/quic/aic-operator/blob/main/config/crd/bases/aic.quicinc.com_aics.yaml,1,1
+/quic/aic-operator/blob/main/config/manager/manager.yaml,1,1
+/quic/aic-operator/blob/main/Dockerfile,1,1
+/quic/aic-operator/blob/main/Makefile,1,1
+/quic/aic-operator/branches,1,1
+/quic/aic-operator/commit/b8ffbe0f4bf2f2548da5001f4f86dd3fe45c5656,1,1
+/quic/aic-operator/commits/main,1,1
+/quic/aic-operator/security,1,1
