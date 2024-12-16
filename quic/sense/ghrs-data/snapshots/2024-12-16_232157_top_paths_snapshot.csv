@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,38,29
+/quic/sense/tree/master/sense,11,4
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,10,3
+/quic/sense/tree/master/sense/backbone_networks,10,3
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,8,3
+/quic/sense/blob/master/README.md,5,4
+/quic/sense/releases/tag/v2.0,5,3
+/quic/sense/wiki/SenseStudio,5,3
+/quic/sense/tree/master,4,3
+/quic/sense/tree/master/resources,4,2
