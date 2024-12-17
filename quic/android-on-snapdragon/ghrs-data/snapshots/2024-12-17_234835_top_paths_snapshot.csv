@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,11,10
+/quic/android-on-snapdragon/tree/master/Camera,3,3
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/src/stc_demo_imp.cpp,3,2
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/src/stc_demo_service.cpp,3,2
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code/src,3,2
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code/test,3,2
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/demos/depthcapture/src/main/java/qti/video/depthcapture/playback/BokehEffect.java,3,1
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code,3,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/Camera/ColorSpaceSampleCode/app/src/main/java/com/example/instantzoomsamplecode/MainActivity.java,2,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/Camera/UltraHDRSampleCode/app/src/main/java/com/example/ultrahdrsamplecode/MainActivity.java,2,1
