@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,34,26
+/quic/sense/tree/master/sense,9,4
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,9,3
+/quic/sense/tree/master/sense/backbone_networks,7,3
+/quic/sense/wiki/SenseStudio,6,3
+/quic/sense/blob/master/README.md,5,4
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,5,3
+/quic/sense/releases/tag/v2.0,4,2
+/quic/sense/blob/master/sense/downstream_tasks/fitness_activity_recognition/__init__.py,3,2
+/quic/sense/commit/a0935970d85c14965ac0db37d313832ec037d8df,3,2
