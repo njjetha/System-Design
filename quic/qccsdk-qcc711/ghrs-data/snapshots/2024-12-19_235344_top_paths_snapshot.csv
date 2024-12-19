@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,7,7
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/src/BASAPI_cb_m3.c,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/src/GAPSAPI_funcs_m3_mnl.c,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/common/temcom/src/qapi_rot_feature.c,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/hwio/inc/hwio_aon.h,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/platform/src/qapi_task.c,1,1
+/quic/qccsdk-qcc711/blob/main/README.md,1,1
+/quic/qccsdk-qcc711/blob/main/rot/images/patch.bin,1,1
+/quic/qccsdk-qcc711/tree/main/common/manifest,1,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,1,1
