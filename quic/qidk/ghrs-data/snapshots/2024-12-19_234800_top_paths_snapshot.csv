@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qidk,175,114
+/quic/qidk/tree/master,117,59
+/quic/qidk/tree/master/Tools/snpe_qnn_docker,97,41
+/quic/qidk/tree/master/Solutions,71,40
+/quic/qidk/tree/master/Tools,67,34
+/quic/qidk/tree/master/Solutions/QNN/VisionSolution1-ObjectDetection-YoloNas,67,22
+/quic/qidk/tree/master/Examples,65,47
+/quic/qidk/blob/master/Model-Enablement/Model-Accuracy-Mixed-Precision/Accuracy_Analyzer_YoloV8.ipynb,62,27
+/quic/qidk/issues/33,60,43
+/quic/qidk/tree/master/Tools/snpe-helper,59,23
