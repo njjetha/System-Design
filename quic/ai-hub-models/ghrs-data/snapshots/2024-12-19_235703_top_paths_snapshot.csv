@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ai-hub-models,1303,669
+/quic/ai-hub-models/tree/main/qai_hub_models/models,804,351
+/quic/ai-hub-models/tree/main/qai_hub_models,597,266
+/quic/ai-hub-models/tree/main,430,234
+/quic/ai-hub-models/issues,232,99
+/quic/ai-hub-models/tree/main/qai_hub_models/models/llama_v3_2_3b_chat_quantized,200,97
+/quic/ai-hub-models/tree/main/qai_hub_models/models/yolov8_det_quantized,193,94
+/quic/ai-hub-models/tree/main/qai_hub_models/models/llama_v2_7b_chat_quantized,158,86
+/quic/ai-hub-models/tree/main/qai_hub_models/models/llama_v3_8b_chat_quantized,136,70
+/quic/ai-hub-models/blob/main/qai_hub_models/models/llama_v3_2_3b_chat_quantized/README.md,113,65
