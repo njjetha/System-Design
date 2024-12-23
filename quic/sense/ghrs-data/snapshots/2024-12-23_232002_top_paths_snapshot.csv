@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,25,20
+/quic/sense/wiki/SenseStudio,5,3
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,3,1
+/quic/sense/releases/tag/v2.0,3,1
+/quic/sense/issues/133,2,2
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,2,1
+/quic/sense/blob/master/sense/downstream_tasks/fitness_activity_recognition/__init__.py,2,1
+/quic/sense/wiki,2,1
+/quic/sense/blob/master/CODE_OF_CONDUCT.md,1,1
+/quic/sense/blob/master/docs/gifs/fitness_tracking_1.gif,1,1
