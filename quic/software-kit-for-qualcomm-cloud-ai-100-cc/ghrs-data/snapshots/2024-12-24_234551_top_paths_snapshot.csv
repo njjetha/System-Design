@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,13,13
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main,10,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/lib,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/thirdparty-modules,3,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/lib/driver,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/tools,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/runtime,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/docs/QAICProgramConfig.txt,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/barebones_app/BarebonesApp.cpp,1,1
