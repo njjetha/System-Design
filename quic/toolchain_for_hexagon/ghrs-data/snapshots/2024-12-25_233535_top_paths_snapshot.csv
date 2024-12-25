@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,25,15
+/quic/toolchain_for_hexagon/releases/tag/v19.1.5,15,4
+/quic/toolchain_for_hexagon/releases,8,5
+/quic/toolchain_for_hexagon/tree/master/examples,6,2
+/quic/toolchain_for_hexagon/tree/master/local,6,2
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,4,1
+/quic/toolchain_for_hexagon/blob/master/Dockerfile,4,1
+/quic/toolchain_for_hexagon/tree/master/examples/contrived,3,2
+/quic/toolchain_for_hexagon/blob/master/get-src-repos.sh,3,1
+/quic/toolchain_for_hexagon/releases/tag/v19.1.2,3,1
