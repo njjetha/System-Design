@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet-pages,8,6
+/quic/aimet-pages/tree/master/releases/1.35.0/torch_v2,3,1
+/quic/aimet-pages/tree/master/releases,2,2
+/quic/aimet-pages/tree/master/releases/1.35.0,2,2
+/quic/aimet-pages/blob/master/AimetDocs,2,1
+/quic/aimet-pages/blob/99808a70134816da2a7713600d5e63d598a2add8/releases/1.31.0/Examples/torch/quantization/autoquant_v2.ipynb,1,1
+/quic/aimet-pages/blob/master/releases/1.35.0/user_guide/model_quantization.html,1,1
+/quic/aimet-pages/blob/master/releases/latest,1,1
+/quic/aimet-pages/tree/99808a70134816da2a7713600d5e63d598a2add8,1,1
+/quic/aimet-pages/tree/master,1,1
