@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/quic/wos-ai,9,6
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,4,2
+/quic/wos-ai/tree/main/Scripts,4,2
+/quic/wos-ai/blob/main/LICENSE,1,1
+/quic/wos-ai/blob/main/Scripts/mlc_setup.ps1,1,1
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,1,1
