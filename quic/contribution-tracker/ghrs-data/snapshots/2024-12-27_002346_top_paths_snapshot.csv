@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/contribution-tracker,16,14
+/quic/contribution-tracker/commit/d26ff54650084763595c82ed067fb4e0e46e2230,2,1
+/quic/contribution-tracker/tree/main,2,1
+/quic/contribution-tracker/blob/main/CONTRIBUTING.md,1,1
+/quic/contribution-tracker/blob/main/examples/config.yaml,1,1
+/quic/contribution-tracker/blob/main/examples/json/qemu.json,1,1
+/quic/contribution-tracker/blob/main/README.md,1,1
+/quic/contribution-tracker/blob/main/src/metrics.py,1,1
+/quic/contribution-tracker/commits/main/CONTRIBUTING.md,1,1
+/quic/contribution-tracker/issues/8,1,1
