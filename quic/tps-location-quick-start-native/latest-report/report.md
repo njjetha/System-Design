@@ -1,5 +1,5 @@
 % Statistics for quic/tps-location-quick-start-native
-% Generated for [quic/tps-location-quick-start-native](https://github.com/quic/tps-location-quick-start-native) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-26 23:42 UTC.
+% Generated for [quic/tps-location-quick-start-native](https://github.com/quic/tps-location-quick-start-native) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-27 23:41 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `statics.teams.cdn.office.net`, 02: `github.com`, 03: `Goo
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/blob/main/location-quick-start.cpp`, 03: `/issues`, 04: `/tree/main/.github/workflows`, 05: `/pulls`, 06: `/tree/main`, 07: `/blob/main/LICENSE`, 08: `/blob/main/CMakeLists.txt`, 09: `/blob/main/Info.plist`, 10: `/fork`, 11: `/pull/2`, 12: `/actions/runs/12070504827/job/33660143278`, 13: `/actions/workflows/quic-organization-repolinter.yml`, 14: `/graphs/commit-activity`, 15: `/graphs/contributors`
+Top 15 paths: 01: `/`, 02: `/blob/main/location-quick-start.cpp`, 03: `/issues`, 04: `/tree/main/.github/workflows`, 05: `/pulls`, 06: `/tree/main`, 07: `/blob/main/LICENSE`, 08: `/blob/main/Info.plist`, 09: `/blob/main/CMakeLists.txt`, 10: `/graphs/contributors`, 11: `/actions/runs/12070504827`, 12: `/graphs/commit-activity`, 13: `/pull/2`, 14: `/blob/main/README.md`, 15: `/actions`
 
 
 <script type="text/javascript">
