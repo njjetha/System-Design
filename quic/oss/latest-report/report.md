@@ -1,5 +1,5 @@
 % Statistics for quic/oss
-% Generated for [quic/oss](https://github.com/quic/oss) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2024-12-31 00:12 UTC.
+% Generated for [quic/oss](https://github.com/quic/oss) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-01-01 00:12 UTC.
 
 
 ## Views
