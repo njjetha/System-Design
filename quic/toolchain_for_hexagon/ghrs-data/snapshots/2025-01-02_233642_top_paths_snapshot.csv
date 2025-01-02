@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,12,9
+/quic/toolchain_for_hexagon/releases,5,4
+/quic/toolchain_for_hexagon/blob/master/build-rootfs.sh,2,2
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,2,2
+/quic/toolchain_for_hexagon/releases/tag/v19.1.5,2,2
+/quic/toolchain_for_hexagon/tree/master,2,2
+/quic/toolchain_for_hexagon/tree/master/cross-win,2,2
+/quic/toolchain_for_hexagon/tree/master/examples,2,2
+/quic/toolchain_for_hexagon/blob/master/llvm-tools.cmake,2,1
+/quic/toolchain_for_hexagon/issues/26,2,1
