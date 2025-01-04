@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,14,11
+/quic/android-on-snapdragon/tree/master/video,4,3
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/java/qti/video/QMediaCodecCapabilities.java,4,1
+/quic/android-on-snapdragon/tree/master/Display,3,3
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/java/qti/video/QMediaExtensions.java,3,1
+/quic/android-on-snapdragon/tree/master/Camera,2,2
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code,2,2
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/assets/QMediaCodecCapabilities_sm8550_kalama.json,2,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10Encode.java,2,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/Camera/FlashPowerControl/README.md,1,1
