@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,36,22
+/quic/qemu/activity,14,3
+/quic/qemu/tree/hex-next,8,4
+/quic/qemu/pull/100,8,2
+/quic/qemu/pull/100/files,7,2
+/quic/qemu/commits/libqemu-v9.1-v0.4,7,1
+/quic/qemu/pull/99,6,1
+/quic/qemu/blob/hex-next/docs/system/target-hexagon.rst,5,1
+/quic/qemu/pulls,3,2
+/quic/qemu/blob/hex-next/docs/devel/hexagon-vm.rst,3,1
