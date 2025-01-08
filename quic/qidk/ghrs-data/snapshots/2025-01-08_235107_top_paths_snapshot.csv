@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qidk,132,86
+/quic/qidk/tree/master,56,32
+/quic/qidk/tree/master/Examples,53,33
+/quic/qidk/blob/master/Examples/QNN-Model-Example-SESR/README.md,48,39
+/quic/qidk/tree/master/Solutions,45,28
+/quic/qidk/tree/master/Solutions/NLPSolution3-AutomaticSpeechRecognition-Whisper,38,19
+/quic/qidk/blob/master/Model-Enablement/Model-Accuracy-Mixed-Precision/Accuracy_Analyzer_YoloV8.ipynb,34,16
+/quic/qidk/blob/master/Solutions/NLPSolution3-AutomaticSpeechRecognition-Whisper/README.md,28,20
+/quic/qidk/tree/master/Solutions/QNN/VisionSolution1-ObjectDetection-YoloNas,27,17
+/quic/qidk/tree/master/Tools/snpe_qnn_docker,27,14
