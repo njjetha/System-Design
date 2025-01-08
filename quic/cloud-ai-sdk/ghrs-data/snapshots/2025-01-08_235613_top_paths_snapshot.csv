@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,148,87
+/quic/cloud-ai-sdk/tree/1.17/models,21,13
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,19,9
+/quic/cloud-ai-sdk/tree/1.17,18,9
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,15,11
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/CodeGen-With-Speculative-Decoding,14,11
+/quic/cloud-ai-sdk/tree/1.17/tutorials,14,10
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,12,11
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing/decoder,12,8
+/quic/cloud-ai-sdk/tree/1.17/samples,10,10
