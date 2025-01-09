@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,18,11
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-device-partition/README,6,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/README.md,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils,4,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-device-partition,4,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/inc/qaic-openrt-api-hpp/CMakeLists.txt,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/inc/qaic-openrt-api-hpp/qaic-api-common/QAicRuntimeTypes.h,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/inc/qaic-openrt-api-hpp/qaic-api-common/QAicTypes.h,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/inc/qaic-openrt-api-hpp/QAicOpenRtApi.hpp,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/core/inc/QProgramDevice.h,3,1
