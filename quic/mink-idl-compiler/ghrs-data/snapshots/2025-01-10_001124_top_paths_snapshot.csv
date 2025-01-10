@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,7,6
+/quic/mink-idl-compiler/blob/main/idlc_codegen_c/src/generator.rs,2,1
+/quic/mink-idl-compiler/commits/main,2,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_rust/src/generator.rs,1,1
+/quic/mink-idl-compiler/tree/main/idlc_codegen_rust,1,1
+/quic/mink-idl-compiler/tree/main/idlc_codegen_rust/src,1,1
