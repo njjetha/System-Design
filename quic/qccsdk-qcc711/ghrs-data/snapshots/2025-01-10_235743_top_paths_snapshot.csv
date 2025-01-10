@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,11,9
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,5,4
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/src/ipc.c,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/iar,2,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,2,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/ble/src,2,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/iar/Qualcomm/qcc710.menu,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/iar/readme.txt,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/notice.txt,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/src/callback.c,1,1
