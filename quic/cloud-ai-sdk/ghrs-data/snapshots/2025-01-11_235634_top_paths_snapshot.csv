@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,187,121
+/quic/cloud-ai-sdk/tree/1.17/models,44,20
+/quic/cloud-ai-sdk/tree/1.17,30,16
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,27,11
+/quic/cloud-ai-sdk/tree/1.17/models/multimodal/text_to_image,19,7
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,18,14
+/quic/cloud-ai-sdk/tree/1.17/tutorials,17,14
+/quic/cloud-ai-sdk/blob/1.17/models/language_processing/decoder/GPTBigCodeForCausalLM/README.md,15,5
+/quic/cloud-ai-sdk/tree/1.17/models/vision/classification,15,5
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,14,12
