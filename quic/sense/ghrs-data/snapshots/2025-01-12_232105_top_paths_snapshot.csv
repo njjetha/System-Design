@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,81,32
+/quic/sense/tree/master/resources,11,4
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,10,1
+/quic/sense/issues,9,4
+/quic/sense/tree/master/sense,8,3
+/quic/sense/tree/master,6,4
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,5,5
+/quic/sense/tree/master/resources/gesture_control,5,3
+/quic/sense/wiki/gallery,4,4
+/quic/sense/tree/master/docs,4,3
