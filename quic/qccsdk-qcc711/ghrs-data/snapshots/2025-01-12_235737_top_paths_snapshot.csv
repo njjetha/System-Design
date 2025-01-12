@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,15,10
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,8,4
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,3,2
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/src/ipc.c,2,2
+/quic/qccsdk-qcc711/blob/main/README.md,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/iar,2,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/ble/src,2,1
+/quic/qccsdk-qcc711/blob/main/common/manifest/qti_manifest-app_mode-unlicensed.bin,1,1
+/quic/qccsdk-qcc711/blob/main/LICENSE,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/iar/Qualcomm/qcc710.menu,1,1
