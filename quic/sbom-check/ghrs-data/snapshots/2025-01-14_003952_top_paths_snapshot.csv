@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sbom-check/actions/runs/12539396247/job/34965491391,7,3
+/quic/sbom-check/actions/runs/12539396247/job/34965491481,3,2
+/quic/sbom-check,2,2
+/quic/sbom-check/tree/main/.github/workflows,2,1
+/quic/sbom-check/actions,1,1
+/quic/sbom-check/actions/runs/12539396247,1,1
+/quic/sbom-check/actions/runs/12539396247/job/34965503440,1,1
+/quic/sbom-check/actions/runs/12539396247/usage,1,1
+/quic/sbom-check/blob/main/.github/workflows/python-package.yml,1,1
+/quic/sbom-check/blob/main/.github/workflows/quic-organization-repolinter.yml,1,1
