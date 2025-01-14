@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,20,14
+/quic/toolchain_for_hexagon/releases,4,4
+/quic/toolchain_for_hexagon/blob/a7b3e791b3e69ac85bae3c8560a05e6d884be99a/examples/contrived/src/some_sys.zig,4,3
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,2,2
+/quic/toolchain_for_hexagon/issues,2,2
+/quic/toolchain_for_hexagon/issues/26,2,2
+/quic/toolchain_for_hexagon/blob/master/llvm-tools.cmake,2,1
+/quic/toolchain_for_hexagon/tree/master/examples,2,1
+/quic/toolchain_for_hexagon/tree/master/examples/contrived,2,1
+/quic/toolchain_for_hexagon/blob/master/build-buildroot.sh,1,1
