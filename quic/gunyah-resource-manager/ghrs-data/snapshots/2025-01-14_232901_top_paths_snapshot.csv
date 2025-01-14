@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,24,19
+/quic/gunyah-resource-manager/tree/develop/arch/armv8/src,4,3
+/quic/gunyah-resource-manager/tree/develop/src,4,2
+/quic/gunyah-resource-manager/tree/develop/arch,3,3
+/quic/gunyah-resource-manager/tree/develop,2,2
+/quic/gunyah-resource-manager/tree/develop/arch/armv8,2,2
+/quic/gunyah-resource-manager/tree/develop/tools,2,1
+/quic/gunyah-resource-manager/blob/develop/src/resource-manager.c,1,1
+/quic/gunyah-resource-manager/blob/develop/src/uart/uart.c,1,1
+/quic/gunyah-resource-manager/blob/develop/src/vm_console/vm_console_simple.c,1,1
