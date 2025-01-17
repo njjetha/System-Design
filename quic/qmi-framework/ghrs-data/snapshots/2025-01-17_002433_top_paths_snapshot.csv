@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,17,16
+/quic/qmi-framework/blob/main/Makefile.am,3,1
+/quic/qmi-framework/tree/main/qencdec,2,1
+/quic/qmi-framework/blame/main/Makefile.am,1,1
+/quic/qmi-framework/blob/main/autogen.sh,1,1
+/quic/qmi-framework/blob/main/build_script.sh,1,1
+/quic/qmi-framework/blob/main/common/common_v01.c,1,1
+/quic/qmi-framework/blob/main/common/Makefile.am,1,1
+/quic/qmi-framework/blob/main/common/qmi_common.h,1,1
+/quic/qmi-framework/blob/main/configure.ac,1,1
