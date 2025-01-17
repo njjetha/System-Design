@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,223,148
+/quic/cloud-ai-sdk/tree/1.17/models,58,33
+/quic/cloud-ai-sdk/tree/1.17,36,16
+/quic/cloud-ai-sdk/tree/1.17/samples,28,20
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,23,16
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,23,10
+/quic/cloud-ai-sdk/tree/1.17/samples/python/qaic_features,23,7
+/quic/cloud-ai-sdk/tree/1.17/models/multimodal/text_to_image,22,10
+/quic/cloud-ai-sdk/tree/1.17/tutorials,21,17
+/quic/cloud-ai-sdk/tree/1.17/models/vision/classification,21,7
