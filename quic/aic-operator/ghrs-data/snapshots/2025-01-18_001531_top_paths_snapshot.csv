@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,67,10
+/quic/aic-operator/blob/main/cmd/main.go,2,1
+/quic/aic-operator/commits/main,2,1
+/quic/aic-operator/graphs/contributors,2,1
+/quic/aic-operator/actions,1,1
+/quic/aic-operator/blob/6608881dd27337f96dc3bef0a3084b5bffcb6cde/CONTRIBUTING.md,1,1
+/quic/aic-operator/blob/main/CONTRIBUTING.md,1,1
+/quic/aic-operator/blob/main/internal/controller/aic_controller.go,1,1
+/quic/aic-operator/blob/main/internal/kmmmodule/qcom-aic-kmmo.go,1,1
+/quic/aic-operator/blob/main/LICENSE,1,1
