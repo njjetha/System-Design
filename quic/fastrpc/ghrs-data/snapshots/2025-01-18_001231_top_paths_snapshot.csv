@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/fastrpc,165,97
+/quic/fastrpc/pulls,44,10
+/quic/fastrpc/tree/development/src,31,20
+/quic/fastrpc/pull/124,21,7
+/quic/fastrpc/releases,14,7
+/quic/fastrpc/tree/development,13,8
+/quic/fastrpc/tree/main,13,6
+/quic/fastrpc/blob/development/src/dspqueue/dspqueue_cpu.c,12,5
+/quic/fastrpc/pull/127,12,3
+/quic/fastrpc/issues,11,9
