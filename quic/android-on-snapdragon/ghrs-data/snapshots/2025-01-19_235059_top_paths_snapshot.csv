@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,11,10
+/quic/android-on-snapdragon/tree/master/Camera,4,4
+/quic/android-on-snapdragon/tree/master/Camera/InsensorZoomSampleCode,2,2
+/quic/android-on-snapdragon/tree/master/Display,2,2
+/quic/android-on-snapdragon/tree/master/video,2,2
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/Display/stc_sample_code/inc/stc_demo_imp.h,2,1
+/quic/android-on-snapdragon/tree/master,2,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/Display/stc_sample_code/src/stc_demo_service.cpp,1,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/Display/stc_sample_code/test/stc_demo_test.cpp,1,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/assets/QMediaCodecCapabilities_sm8550_kalama.json,1,1
