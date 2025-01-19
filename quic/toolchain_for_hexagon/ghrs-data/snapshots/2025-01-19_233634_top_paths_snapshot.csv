@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,36,22
+/quic/toolchain_for_hexagon/releases,19,12
+/quic/toolchain_for_hexagon/releases/tag/v19.1.5,8,4
+/quic/toolchain_for_hexagon/blob/a7b3e791b3e69ac85bae3c8560a05e6d884be99a/examples/contrived/src/some_sys.zig,4,3
+/quic/toolchain_for_hexagon/tree/master/examples,4,3
+/quic/toolchain_for_hexagon/commits/master,3,2
+/quic/toolchain_for_hexagon/tree/master,3,2
+/quic/toolchain_for_hexagon/issues,2,2
+/quic/toolchain_for_hexagon/issues/26,2,2
+/quic/toolchain_for_hexagon/issues/6,2,2
