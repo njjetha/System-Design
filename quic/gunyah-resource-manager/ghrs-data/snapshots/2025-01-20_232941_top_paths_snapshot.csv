@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,37,28
+/quic/gunyah-resource-manager/tree/develop/arch,5,4
+/quic/gunyah-resource-manager/tree/develop/src,5,2
+/quic/gunyah-resource-manager/tree/develop/arch/armv8,3,3
+/quic/gunyah-resource-manager/tree/develop/arch/armv8/src,3,3
+/quic/gunyah-resource-manager/tree/develop/tools,3,2
+/quic/gunyah-resource-manager/blob/develop/src/hyp/memextent.c,2,2
+/quic/gunyah-resource-manager/blob/develop/src/irq_manager/irq_manager.c,2,2
+/quic/gunyah-resource-manager/issues,2,2
+/quic/gunyah-resource-manager/tree/develop,2,2
