@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,20,13
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,13,9
+/quic/wos-ai/tree/main/Scripts,4,4
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/main.cpp,4,3
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.cpp,3,3
+/quic/wos-ai/tree/main,3,3
+/quic/wos-ai/tree/main/Artifacts,2,2
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.h,1,1
+/quic/wos-ai/blob/main/Scripts/dml_npu_setup.ps1,1,1
+/quic/wos-ai/blob/main/Scripts/llama_cpp_setup.ps1,1,1
