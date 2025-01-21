@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,19,10
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,7,3
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,3,2
+/quic/qccsdk-qcc711/blob/main/LICENSE,2,2
+/quic/qccsdk-qcc711/blob/main/README.md,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/bin,2,1
+/quic/qccsdk-qcc711/blob/main/common/manifest/qti_manifest-app_mode-unlicensed.bin,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/bin/btcfg_app_mode.bin,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/notice.txt,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/demo/general/ble/ble_demo.c,1,1
