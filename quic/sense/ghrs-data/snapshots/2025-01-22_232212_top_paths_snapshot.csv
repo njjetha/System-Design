@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,39,27
+/quic/sense/issues/184,10,4
+/quic/sense/issues,6,3
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,4,3
+/quic/sense/issues/191,3,2
+/quic/sense/issues/185,3,1
+/quic/sense/issues/186,3,1
+/quic/sense/issues/193,2,2
+/quic/sense/blob/master/sense/backbone_networks/mobilenet.py,2,1
+/quic/sense/branches/stale,2,1
