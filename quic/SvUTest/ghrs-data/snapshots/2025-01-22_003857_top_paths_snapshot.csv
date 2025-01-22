@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/SvUTest,26,10
+/quic/SvUTest/tree/main/examples,4,3
+/quic/SvUTest/actions/runs/12688428381/job/35364936988,3,1
+/quic/SvUTest/blob/main/examples/001_floatmul/floatmul_test_pkg.sv,2,2
+/quic/SvUTest/tree/main,2,2
+/quic/SvUTest/tree/main/examples/001_floatmul,2,2
+/quic/SvUTest/tree/main/src,2,2
+/quic/SvUTest/actions/runs/12691269207/job/35373941830,2,1
+/quic/SvUTest/actions/runs/12691767190/job/35375570601,2,1
+/quic/SvUTest/actions/workflows/quic-organization-repolinter.yml,2,1
