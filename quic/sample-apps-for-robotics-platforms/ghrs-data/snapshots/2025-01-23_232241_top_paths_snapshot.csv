@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-robotics-platforms,107,72
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5,53,33
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x,52,24
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps,34,20
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/AI_Vision_Solutions,31,15
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp,25,15
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_detection,23,12
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_4_x/AI-ML-apps/snpe_detection,23,2
+/quic/sample-apps-for-robotics-platforms/blob/master/RB5/linux_kernel_5_x/AI-ML-apps/AI_Vision_Solutions/src/StreamDecode.cpp,22,6
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp/gst_camera,21,13
