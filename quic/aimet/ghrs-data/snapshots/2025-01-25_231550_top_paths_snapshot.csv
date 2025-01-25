@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet,1584,673
+/quic/aimet/releases,383,174
+/quic/aimet/issues,361,90
+/quic/aimet/tree/develop,182,68
+/quic/aimet/pulls,164,40
+/quic/aimet/tree/develop/Examples,135,95
+/quic/aimet/tree/develop/Docs,82,47
+/quic/aimet/blob/develop/packaging/docker_install.md,81,51
+/quic/aimet/tree/develop/Examples/torch/quantization,80,55
+/quic/aimet/releases/tag/2.0.0,77,50
