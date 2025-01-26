@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,20,14
+/quic/qmi-framework/tree/main/common,6,3
+/quic/qmi-framework/tree/main/qcci,4,3
+/quic/qmi-framework/tree/main/qcsi,4,3
+/quic/qmi-framework/blob/main/CONTRIBUTING.md,4,2
+/quic/qmi-framework/blob/main/README.md,4,2
+/quic/qmi-framework/blob/main/CODE-OF-CONDUCT.md,3,2
+/quic/qmi-framework/tree/main/qencdec,3,2
+/quic/qmi-framework/blob/main/LICENSE,3,1
+/quic/qmi-framework/blob/main/common/common_v01.c,2,2
