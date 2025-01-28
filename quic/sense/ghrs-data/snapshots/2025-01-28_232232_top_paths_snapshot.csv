@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,49,32
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,3,3
+/quic/sense/tree/master/resources/action_recognition,2,2
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,2,1
+/quic/sense/blob/master/docs/gifs/gesture_control.gif,1,1
+/quic/sense/blob/master/resources/action_recognition/sien_lite_logreg.ckpt,1,1
+/quic/sense/blob/master/sense/downstream_tasks/fitness_activity_recognition/__init__.py,1,1
+/quic/sense/blob/master/tests/resources/test_video.mp4,1,1
+/quic/sense/graphs/contributors,1,1
+/quic/sense/pulls,1,1
