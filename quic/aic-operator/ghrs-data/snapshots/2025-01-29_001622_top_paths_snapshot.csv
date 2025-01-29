@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,78,16
+/quic/aic-operator/blob/main/CONTRIBUTING.md,9,3
+/quic/aic-operator/blob/main/LICENSE,8,4
+/quic/aic-operator/blob/main/api/v1/aic_types.go,6,3
+/quic/aic-operator/blob/main/cmd/main.go,5,2
+/quic/aic-operator/blob/main/README.md,4,2
+/quic/aic-operator/blob/main/api/v1/zz_generated.deepcopy.go,2,2
+/quic/aic-operator/blob/main/NOTICE,2,2
+/quic/aic-operator/blob/main/internal/controller/suite_test.go,2,1
+/quic/aic-operator/commit/6608881dd27337f96dc3bef0a3084b5bffcb6cde,2,1
