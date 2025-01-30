@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,35,32
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main,4,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib,4,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/core,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/core/src,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib/qlog,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/.gitignore,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/network-driver/src/QKmdDevice.cpp,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/network-driver/src/QNeuralNetwork.cpp,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/qlog/src/QLog.cpp,1,1
