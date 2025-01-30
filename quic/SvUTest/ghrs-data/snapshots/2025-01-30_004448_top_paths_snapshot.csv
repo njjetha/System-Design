@@ -1,0 +1,7 @@
+url_path,views_total,views_unique
+/quic/SvUTest,4,4
+/quic/SvUTest/blob/main/examples/001_floatmul/floatmul_test_pkg.sv,1,1
+/quic/SvUTest/tree/main,1,1
+/quic/SvUTest/tree/main/examples,1,1
+/quic/SvUTest/tree/main/examples/001_floatmul,1,1
+/quic/SvUTest/tree/main/src,1,1
