@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/buildroot,6,3
+/quic/buildroot/commits/hexagon-2025.01.26,3,1
+/quic/buildroot/commit/3ec2e0c1d3207bc8654b63d2152509125e177665,2,1
+/quic/buildroot/commit/7a80f47b86f0e832e9911620c5077d14fea1ae64,2,1
+/quic/buildroot/releases/tag/hexagon-2025.01.26,2,1
+/quic/buildroot/tags,2,1
+/quic/buildroot/releases,1,1
+/quic/buildroot/tree/hexagon-2025.01.26,1,1
+/quic/buildroot/tree/master/board,1,1
+/quic/buildroot/tree/master/configs,1,1
