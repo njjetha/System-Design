@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/efficient-transformers,559,162
+/quic/efficient-transformers/pulls,299,38
+/quic/efficient-transformers/tree/main/QEfficient,239,59
+/quic/efficient-transformers/tree/main,163,71
+/quic/efficient-transformers/pull/234,68,18
+/quic/efficient-transformers/tree/main/QEfficient/finetune,54,14
+/quic/efficient-transformers/tree/main/QEfficient/transformers,50,31
+/quic/efficient-transformers/tree/main/examples,41,21
+/quic/efficient-transformers/tree/main/QEfficient/cloud,41,15
+/quic/efficient-transformers/blob/main/examples/lora_models.py,39,26
