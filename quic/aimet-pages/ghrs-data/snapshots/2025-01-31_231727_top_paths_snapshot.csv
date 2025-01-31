@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet-pages,5,5
+/quic/aimet-pages/blob/master/releases/latest,2,2
+/quic/aimet-pages/tree/master/releases,2,2
+/quic/aimet-pages/tree/master/releases/1.34.0/torch_v2,2,1
+/quic/aimet-pages/blob/master/releases/1.34.0/torch_v2/torch_docs/quantized_modules.html,1,1
+/quic/aimet-pages/blob/master/releases/2.0.0/index.html,1,1
+/quic/aimet-pages/security/dependabot,1,1
+/quic/aimet-pages/tree/master/releases/1.34.0,1,1
+/quic/aimet-pages/tree/master/releases/1.34.0/torch_v2/torch_docs,1,1
+/quic/aimet-pages/tree/master/releases/2.0.0,1,1
