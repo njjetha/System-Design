@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/quic/OpenBLAS,13,10
+/quic/OpenBLAS/tree/topic/sgemm_direct_sme1,6,3
+/quic/OpenBLAS/commit/38c329ca2fc22312d64c38e4b1e52391ce07263c,5,1
+/quic/OpenBLAS/commit/4d481c528e1cfa211aa224054fe89219d14f977b,2,1
+/quic/OpenBLAS/blob/develop/common_x.h,1,1
+/quic/OpenBLAS/commits,1,1
+/quic/OpenBLAS/tree/revert-1233-cpuid-fix,1,1
