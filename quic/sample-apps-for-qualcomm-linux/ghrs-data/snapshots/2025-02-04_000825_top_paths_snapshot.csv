@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-qualcomm-linux,79,51
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM,20,16
+/quic/sample-apps-for-qualcomm-linux/blob/main/Hello-QIM/main.cc,17,9
+/quic/sample-apps-for-qualcomm-linux/blob/main/download_artifacts.sh,15,7
+/quic/sample-apps-for-qualcomm-linux/blob/main/README.md,9,7
+/quic/sample-apps-for-qualcomm-linux/blob/main/Hello-QIM/Makefile,8,5
+/quic/sample-apps-for-qualcomm-linux/releases,5,5
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM/include,5,5
+/quic/sample-apps-for-qualcomm-linux/tree/main,5,4
+/quic/sample-apps-for-qualcomm-linux/blob/main/Qualcomm_AI_Hub_Proprietary_License.pdf,3,3
