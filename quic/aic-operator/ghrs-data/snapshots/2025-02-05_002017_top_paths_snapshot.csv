@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,29,12
+/quic/aic-operator/tags,8,2
+/quic/aic-operator/commits/main,4,3
+/quic/aic-operator/blob/main/cmd/main.go,4,2
+/quic/aic-operator/releases,3,2
+/quic/aic-operator/activity,3,1
+/quic/aic-operator/releases/tag/v0.1.0,3,1
+/quic/aic-operator/branches,2,2
+/quic/aic-operator/blob/main/api/v1/aic_types.go,2,1
+/quic/aic-operator/blob/main/CONTRIBUTING.md,2,1
