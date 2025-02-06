@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,10,10
+/quic/android-on-snapdragon/tree/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp,3,3
+/quic/android-on-snapdragon/tree/master/Camera,2,2
+/quic/android-on-snapdragon/tree/master/Camera/InsensorZoomSampleCode/app,2,1
+/quic/android-on-snapdragon/blob/master/Camera/InsensorZoomSampleCode/app/src/main/java/com/example/insensorzoomsamplecode/MainActivity.java,1,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/MainActivity.java,1,1
+/quic/android-on-snapdragon/graphs/contributors,1,1
+/quic/android-on-snapdragon/tree/master/Camera/InsensorZoomSampleCode,1,1
+/quic/android-on-snapdragon/tree/master/Camera/InsensorZoomSampleCode/app/src,1,1
+/quic/android-on-snapdragon/tree/master/Camera/InsensorZoomSampleCode/app/src/main,1,1
