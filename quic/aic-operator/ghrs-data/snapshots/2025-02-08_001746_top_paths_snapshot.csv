@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,28,9
+/quic/aic-operator/tags,10,3
+/quic/aic-operator/tree/main/config,8,1
+/quic/aic-operator/tree/main/config/manifests,6,1
+/quic/aic-operator/releases,4,3
+/quic/aic-operator/tree/main/config/manifests/bases,4,1
+/quic/aic-operator/blob/main/cmd/main.go,3,3
+/quic/aic-operator/commits/main,3,2
+/quic/aic-operator/activity,3,1
+/quic/aic-operator/releases/tag/v0.1.0,3,1
