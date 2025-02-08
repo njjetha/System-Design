@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/efficient-transformers,654,196
+/quic/efficient-transformers/pulls,399,42
+/quic/efficient-transformers/tree/main/QEfficient,227,74
+/quic/efficient-transformers/tree/main,166,73
+/quic/efficient-transformers/tree/main/QEfficient/transformers,84,37
+/quic/efficient-transformers/tree/main/QEfficient/transformers/models,61,36
+/quic/efficient-transformers/tree/release/v1.19,59,33
+/quic/efficient-transformers/pull/256,47,9
+/quic/efficient-transformers/blob/main/QEfficient/transformers/models/llama/modeling_llama.py,38,26
+/quic/efficient-transformers/pull/234,38,11
