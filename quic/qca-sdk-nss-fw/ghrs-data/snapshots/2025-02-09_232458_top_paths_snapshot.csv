@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qca-sdk-nss-fw,30,23
+/quic/qca-sdk-nss-fw/tree/main/QCA_Networking_2022.SPF_12.0.0/ED1,9,9
+/quic/qca-sdk-nss-fw/tree/main,7,4
+/quic/qca-sdk-nss-fw/tree/main/QCA_Networking_2022.SPF_12.0.0/ED1/IPQ8074.ATH.12.0.0,5,5
+/quic/qca-sdk-nss-fw/blob/main/QCA_Networking_2020.SPF_11.3/CS/IPQ8074.ATH.11.3/ReadMe.txt,4,1
+/quic/qca-sdk-nss-fw/blob/main/QCA_Networking_2022.SPF_12.0.0/ED1/IPQ8074.ATH.12.0.0/BIN-NSS.FW.12.1-022-HK.R.tar.bz2,3,3
+/quic/qca-sdk-nss-fw/pulls,3,2
+/quic/qca-sdk-nss-fw/actions,3,1
+/quic/qca-sdk-nss-fw/actions/runs/9363708259,3,1
+/quic/qca-sdk-nss-fw/actions/runs/9363708259/job/25775072475,3,1
