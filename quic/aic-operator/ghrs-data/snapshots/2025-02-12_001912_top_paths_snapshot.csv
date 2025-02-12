@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,19,7
+/quic/aic-operator/tags,8,3
+/quic/aic-operator/tree/main/config,8,1
+/quic/aic-operator/tree/main/config/manifests,6,1
+/quic/aic-operator/tree/main/config/manifests/bases,4,1
+/quic/aic-operator/commit/6608881dd27337f96dc3bef0a3084b5bffcb6cde,3,2
+/quic/aic-operator/releases,3,2
+/quic/aic-operator/releases/tag/v0.1.0,3,1
+/quic/aic-operator/tree/main,2,2
+/quic/aic-operator/blob/main/config/manifests/kustomization.yaml,2,1
