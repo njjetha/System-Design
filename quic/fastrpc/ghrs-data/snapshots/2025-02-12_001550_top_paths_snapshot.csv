@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/fastrpc,154,103
+/quic/fastrpc/tree/development/src,28,22
+/quic/fastrpc/pulls,26,11
+/quic/fastrpc/tree/development/.github/workflows,26,8
+/quic/fastrpc/issues,17,12
+/quic/fastrpc/issues/137,16,10
+/quic/fastrpc/pull/133/commits,13,5
+/quic/fastrpc/commits/development,8,4
+/quic/fastrpc/pull/133,8,4
+/quic/fastrpc/blob/development/.github/workflows/pull_request_check.yml,7,5
