@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,16,8
+/quic/wos-ai/tree/main/Scripts,11,6
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,9,6
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,7,3
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,6,6
+/quic/wos-ai/tree/main/Artifacts,5,4
+/quic/wos-ai/blob/main/README.md,4,2
+/quic/wos-ai/tree/main/apps,3,1
+/quic/wos-ai/blob/main/Artifacts/io_utils.py,2,2
+/quic/wos-ai/blob/main/Scripts/dml_npu_setup.ps1,2,2
