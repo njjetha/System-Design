@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/OpenBLAS,15,12
+/quic/OpenBLAS/blob/develop/common_d.h,1,1
+/quic/OpenBLAS/blob/develop/common_e2k.h,1,1
+/quic/OpenBLAS/blob/develop/common_param.h,1,1
+/quic/OpenBLAS/blob/develop/common_sb.h,1,1
+/quic/OpenBLAS/blob/develop/Makefile.loongarch64,1,1
+/quic/OpenBLAS/blob/develop/README.md,1,1
+/quic/OpenBLAS/releases,1,1
+/quic/OpenBLAS/tags,1,1
+/quic/OpenBLAS/tree/topic/sgemm_direct_sme1,1,1
