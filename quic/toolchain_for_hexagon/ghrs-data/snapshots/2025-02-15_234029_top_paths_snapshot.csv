@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,96,52
+/quic/toolchain_for_hexagon/releases,38,18
+/quic/toolchain_for_hexagon/releases/tag/v19.1.5,19,13
+/quic/toolchain_for_hexagon/blob/master/examples/README.md,16,6
+/quic/toolchain_for_hexagon/tree/master/examples,15,10
+/quic/toolchain_for_hexagon/wiki/QEMU-Hexagon-on-Windows-x86-64,12,9
+/quic/toolchain_for_hexagon/tree/master,12,5
+/quic/toolchain_for_hexagon/tree/master/cross-win,10,6
+/quic/toolchain_for_hexagon/issues,7,3
+/quic/toolchain_for_hexagon/tree/master/examples/contrived,6,5
