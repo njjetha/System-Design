@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,97,52
+/quic/toolchain_for_hexagon/releases,35,18
+/quic/toolchain_for_hexagon/releases/tag/v19.1.5,16,12
+/quic/toolchain_for_hexagon/tree/master/examples,14,9
+/quic/toolchain_for_hexagon/blob/master/examples/README.md,14,4
+/quic/toolchain_for_hexagon/tree/master,11,4
+/quic/toolchain_for_hexagon/tree/master/cross-win,9,5
+/quic/toolchain_for_hexagon/issues,8,4
+/quic/toolchain_for_hexagon/blob/master/build-in-container.sh,6,2
+/quic/toolchain_for_hexagon/tree/master/local,5,5
