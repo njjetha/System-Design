@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,94,26
+/quic/qmi-framework/pulls,38,5
+/quic/qmi-framework/pull/2,27,2
+/quic/qmi-framework/pull/1,15,2
+/quic/qmi-framework/pull/2/commits,12,2
+/quic/qmi-framework/blob/main/build_script.sh,11,5
+/quic/qmi-framework/compare/main...quic-pphansal:qmi-framework:development,11,1
+/quic/qmi-framework/forks,9,5
+/quic/qmi-framework/fork,9,4
+/quic/qmi-framework/pull/2/files/d429c505da25ec33e7e4b459906dbad30963f9b0,8,1
