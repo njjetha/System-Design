@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,33,6
+/quic/aic-operator/tree/main/manual_install,9,2
+/quic/aic-operator/blob/main/manual_install/qcom-aic-rule-nfd.yaml,4,1
+/quic/aic-operator/tree/main,4,1
+/quic/aic-operator/blob/main/manual_install/src_img_build/qcom-src-img-Dockerfile,3,2
+/quic/aic-operator/releases,3,2
+/quic/aic-operator/tree/main/manual_install/src_img_build,3,2
+/quic/aic-operator/blob/main/config/samples/aic_v1_aic.yaml,3,1
+/quic/aic-operator/blob/main/internal/kmmmodule/qcom-aic-kmmo.go,3,1
+/quic/aic-operator/compare/v0.1.0...v0.1.1,2,2
