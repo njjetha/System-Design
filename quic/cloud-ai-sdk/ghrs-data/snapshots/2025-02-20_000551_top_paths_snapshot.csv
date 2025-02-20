@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,164,114
+/quic/cloud-ai-sdk/tree/1.17/models,47,32
+/quic/cloud-ai-sdk/tree/1.17/models/speech/whisper,38,11
+/quic/cloud-ai-sdk/tree/1.17/tutorials,32,21
+/quic/cloud-ai-sdk/tree/1.17,27,21
+/quic/cloud-ai-sdk/tree/1.17/models/vision/detection,26,14
+/quic/cloud-ai-sdk/tree/1.17/models/vision,24,17
+/quic/cloud-ai-sdk/tree/1.17/samples,21,15
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,21,14
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,18,10
