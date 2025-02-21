@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,171,82
+/quic/qbox/tree/main/qemu-components,20,10
+/quic/qbox/actions/runs/13203422304,20,4
+/quic/qbox/tree/main/systemc-components,19,12
+/quic/qbox/tree/main,18,8
+/quic/qbox/tree/main/platforms,14,8
+/quic/qbox/actions,13,5
+/quic/qbox/issues,9,2
+/quic/qbox/tree/main/qemu-components/common,8,6
+/quic/qbox/blob/main/CMakeLists.txt,8,5
