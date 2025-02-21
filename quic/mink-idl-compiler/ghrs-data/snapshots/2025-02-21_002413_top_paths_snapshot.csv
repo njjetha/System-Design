@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,13,10
+/quic/mink-idl-compiler/tree/main/idlc_codegen_cpp/src/interface,2,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_cpp/src/interface/functions/implementation.rs,1,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_cpp/src/interface/mod.rs,1,1
+/quic/mink-idl-compiler/issues,1,1
+/quic/mink-idl-compiler/pulls,1,1
+/quic/mink-idl-compiler/tree/main/idlc_codegen_cpp,1,1
+/quic/mink-idl-compiler/tree/main/idlc_codegen_cpp/src,1,1
+/quic/mink-idl-compiler/tree/main/idlc_codegen_cpp/src/interface/functions,1,1
