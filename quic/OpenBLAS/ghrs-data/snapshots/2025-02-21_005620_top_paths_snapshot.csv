@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/quic/OpenBLAS,11,10
+/quic/OpenBLAS/tree/topic/sgemm_direct_sme1,5,3
+/quic/OpenBLAS/branches,2,1
+/quic/OpenBLAS/branches/active,1,1
+/quic/OpenBLAS/commits/develop,1,1
+/quic/OpenBLAS/releases,1,1
+/quic/OpenBLAS/tags,1,1
