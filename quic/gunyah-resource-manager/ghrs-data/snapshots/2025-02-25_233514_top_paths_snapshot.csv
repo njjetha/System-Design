@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,27,18
+/quic/gunyah-resource-manager/tree/develop/src,5,4
+/quic/gunyah-resource-manager/tree/develop,3,2
+/quic/gunyah-resource-manager/blob/develop/configure.py,2,2
+/quic/gunyah-resource-manager/blob/develop/README.md,2,2
+/quic/gunyah-resource-manager/blob/develop/src/resource-manager.c,2,2
+/quic/gunyah-resource-manager/blob/0accef9450051c27a21dff5a9399863ba34657af/src/resource-manager.c,2,1
+/quic/gunyah-resource-manager/blob/981e1e69df7baeeb241d19cb83072f713c3ed1db/include/rm_env_data.h,2,1
+/quic/gunyah-resource-manager/tree/develop/arch/armv8/src,2,1
+/quic/gunyah-resource-manager/tree/develop/src/utils,2,1
