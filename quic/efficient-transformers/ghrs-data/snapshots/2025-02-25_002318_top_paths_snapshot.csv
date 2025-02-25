@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/efficient-transformers,680,220
+/quic/efficient-transformers/pulls,476,56
+/quic/efficient-transformers/tree/main/QEfficient,172,74
+/quic/efficient-transformers/tree/main,171,76
+/quic/efficient-transformers/pull/267,98,23
+/quic/efficient-transformers/pull/271,91,12
+/quic/efficient-transformers/pull/269,70,15
+/quic/efficient-transformers/pull/214,58,8
+/quic/efficient-transformers/pull/267/files,58,8
+/quic/efficient-transformers/blob/main/QEfficient/cloud/infer.py,54,15
