@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,153,88
+/quic/qbox/tree/main/systemc-components,16,10
+/quic/qbox/tree/main/qemu-components,11,10
+/quic/qbox/tree/main,11,9
+/quic/qbox/tree/main/platforms,7,7
+/quic/qbox/tree/main/docs,7,5
+/quic/qbox/blob/main/scripts/install_dependencies.sh,5,4
+/quic/qbox/tree/main/qemu-components/common,4,4
+/quic/qbox/tree/main/qemu-components/common/src,4,4
+/quic/qbox/tree/main/qemu-components/common/src/libqemu-cxx,4,4
