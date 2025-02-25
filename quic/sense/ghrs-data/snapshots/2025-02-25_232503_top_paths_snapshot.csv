@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,43,32
+/quic/sense/tree/master/examples,4,4
+/quic/sense/tree/master/sense/backbone_networks,3,1
+/quic/sense/blob/master/examples/__init__.py,2,2
+/quic/sense/tree/master/docs,2,2
+/quic/sense/blob/master/sense/backbone_networks/efficientnet.py,2,1
+/quic/sense/commit/374babd91ad496d072fca08fe7215e4f389ca94c,2,1
+/quic/sense/blob/master/examples/run_action_recognition.py,1,1
+/quic/sense/blob/master/examples/run_calorie_estimation.py,1,1
+/quic/sense/blob/master/resources/calorie_estimation/sien_met_converter.ckpt,1,1
