@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/XNNPACK,17,10
+/quic/XNNPACK/branches,2,2
+/quic/XNNPACK/blob/master/build_params.bzl,1,1
+/quic/XNNPACK/blob/master/build_srcs.bzl,1,1
+/quic/XNNPACK/blob/master/CMakeLists.txt,1,1
+/quic/XNNPACK/blob/master/emscripten.bzl,1,1
+/quic/XNNPACK/blob/master/LICENSE,1,1
+/quic/XNNPACK/blob/master/preamble.js.lds,1,1
+/quic/XNNPACK/blob/master/README.md,1,1
+/quic/XNNPACK/blob/master/WORKSPACE,1,1
