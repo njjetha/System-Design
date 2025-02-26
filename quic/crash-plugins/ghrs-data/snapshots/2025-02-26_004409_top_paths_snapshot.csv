@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/crash-plugins,28,12
+/quic/crash-plugins/commits/main,10,1
+/quic/crash-plugins/pull/2,7,2
+/quic/crash-plugins/blob/main/binder/binder.cpp,2,2
+/quic/crash-plugins/tree/main/binder,2,2
+/quic/crash-plugins/pull/2/commits/b515245e769d36acafb098d5b77adc5ac76f7af7,2,1
+/quic/crash-plugins/pulls,2,1
+/quic/crash-plugins/actions/runs/13367402764/job/37328129484,1,1
+/quic/crash-plugins/actions/runs/13367402764/job/37328159558,1,1
+/quic/crash-plugins/blob/main/memory.h,1,1
