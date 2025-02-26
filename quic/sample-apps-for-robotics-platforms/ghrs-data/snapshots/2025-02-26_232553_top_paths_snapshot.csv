@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-robotics-platforms,112,80
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5,55,38
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x,46,29
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps,29,19
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_detection,26,15
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/platform-bringup/GPIO-samples,24,14
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_classification,23,21
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp,22,9
+/quic/sample-apps-for-robotics-platforms/tree/master,21,16
+/quic/sample-apps-for-robotics-platforms/tree/master/ROS2-IMU,20,9
