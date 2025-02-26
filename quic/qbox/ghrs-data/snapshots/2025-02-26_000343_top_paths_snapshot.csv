@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,141,79
+/quic/qbox/tree/main/systemc-components,15,8
+/quic/qbox/tree/main,9,7
+/quic/qbox/tree/main/qemu-components,8,7
+/quic/qbox/tree/main/docs,6,4
+/quic/qbox/tree/main/platforms,5,5
+/quic/qbox/blob/main/scripts/install_dependencies.sh,4,3
+/quic/qbox/blob/main/CMakeLists.txt,3,3
+/quic/qbox/blob/main/py-models/py-uart.py,3,3
+/quic/qbox/tree/main/py-models,3,3
