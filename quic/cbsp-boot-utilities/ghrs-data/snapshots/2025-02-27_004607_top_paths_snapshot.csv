@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cbsp-boot-utilities/tree/main/uefi_capsule_generation,53,13
+/quic/cbsp-boot-utilities,45,17
+/quic/cbsp-boot-utilities/tree/ba1ea8d0fdb24857553730aa247eb602c7b589ba/uefi_capsule_generation,35,15
+/quic/cbsp-boot-utilities/blob/main/uefi_capsule_generation/README.md,22,12
+/quic/cbsp-boot-utilities/blob/main/uefi_capsule_generation/FvUpdate_UFS.xml,21,11
+/quic/cbsp-boot-utilities/tree/main,18,7
+/quic/cbsp-boot-utilities/tree/main/uefi_sec,9,7
+/quic/cbsp-boot-utilities/pull/16,8,3
+/quic/cbsp-boot-utilities/tree/ba1ea8d0fdb24857553730aa247eb602c7b589ba,6,2
+/quic/cbsp-boot-utilities/blob/ba1ea8d0fdb24857553730aa247eb602c7b589ba/uefi_capsule_generation/README.md,5,3
