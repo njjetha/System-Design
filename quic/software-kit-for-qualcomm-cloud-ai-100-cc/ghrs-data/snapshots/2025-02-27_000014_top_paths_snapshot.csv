@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,16,13
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/daf7091c2ef5144eed7891ca6e4b6eb5e212edbc/lib/toolchain/ObjCopy.cpp,4,3
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/lib/driver/DriverAction.cpp,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/lib/metadata/metadata-common/inc/AICMetadataExecCtx.h,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/daf7091c2ef5144eed7891ca6e4b6eb5e212edbc,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/runtime/lib,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/scripts/build.sh,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/commits/main,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/daf7091c2ef5144eed7891ca6e4b6eb5e212edbc/lib/networkdesc/qpc/inc/QAicQpc.h,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/daf7091c2ef5144eed7891ca6e4b6eb5e212edbc/lib/program/Program.cpp,1,1
