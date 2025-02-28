@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-robotics-platforms,113,80
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5,46,34
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x,43,27
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps,30,20
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/platform-bringup/GPIO-samples,25,14
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp,23,9
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_classification,20,18
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_detection,20,12
+/quic/sample-apps-for-robotics-platforms/tree/master,19,15
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp/gst_audio,18,16
