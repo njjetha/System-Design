@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet,1852,852
+/quic/aimet/releases,477,227
+/quic/aimet/pulls,290,38
+/quic/aimet/issues,279,82
+/quic/aimet/tree/develop,252,119
+/quic/aimet/tree/develop/Examples,217,118
+/quic/aimet/tree/develop/Examples/torch/quantization,165,75
+/quic/aimet/tree/develop/Examples/torch,154,74
+/quic/aimet/blob/develop/Examples/README.md,117,73
+/quic/aimet/tree/develop/ModelOptimizations,94,61
