@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/XNNPACK,18,11
+/quic/XNNPACK/branches,2,2
+/quic/XNNPACK/blob/master/build_params.bzl,1,1
+/quic/XNNPACK/blob/master/build_srcs.bzl,1,1
+/quic/XNNPACK/blob/master/CMakeLists.txt,1,1
+/quic/XNNPACK/blob/master/emscripten.bzl,1,1
+/quic/XNNPACK/blob/master/LICENSE,1,1
+/quic/XNNPACK/blob/master/preamble.js.lds,1,1
+/quic/XNNPACK/blob/master/README.md,1,1
+/quic/XNNPACK/blob/master/src/f32-qu8-vcvt/f32-qu8-vcvt.h,1,1
