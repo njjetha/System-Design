@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,139,83
+/quic/qbox/tree/main/systemc-components,14,7
+/quic/qbox/tree/main,11,8
+/quic/qbox/tree/main/qemu-components,8,7
+/quic/qbox/tree/main/docs,8,6
+/quic/qbox/tree/main/platforms,6,6
+/quic/qbox/issues,5,3
+/quic/qbox/blob/main/py-models/py-i2c.py,4,3
+/quic/qbox/commits/main,4,3
+/quic/qbox/blob/main/LICENSE,3,3
