@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wifi-commonsys,11,8
+/quic/wifi-commonsys/blob/main/qtiwifi/service/java/com/qualcomm/qti/server/qtiwifi/QtiWifiServiceImpl.java,6,5
+/quic/wifi-commonsys/tree/main/qtiwifi,3,2
+/quic/wifi-commonsys/tree/android-v-latest,3,1
+/quic/wifi-commonsys/blob/main/configs/qtiwifi-ship-product-defs-system.mk,2,2
+/quic/wifi-commonsys/blob/main/qtiwifi/service/Android.bp,2,2
+/quic/wifi-commonsys/tree/main/qtiwifi/QtiWifiSettings,2,2
+/quic/wifi-commonsys/blob/main/Android.mk,2,1
+/quic/wifi-commonsys/blob/main/qtiwifi/Android.mk,2,1
+/quic/wifi-commonsys/tree/android-v-latest/qtiwifi/service/res,2,1
