@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet-pages,11,9
+/quic/aimet-pages/tree/master/releases,7,3
+/quic/aimet-pages/tree/master/releases/2.0.0,2,2
+/quic/aimet-pages/blob/master/releases/latest,2,1
+/quic/aimet-pages/tree/master/releases/1.35.1/torch_docs/api,2,1
+/quic/aimet-pages/blob/master/releases/1.35.1/torch_docs/api/nn.quantization_mixin.html,1,1
+/quic/aimet-pages/pulls,1,1
+/quic/aimet-pages/tree/master/releases/1.35.1,1,1
+/quic/aimet-pages/tree/master/releases/1.35.1/torch_docs,1,1
+/quic/aimet-pages/tree/master/releases/1.35.1/torch_docs/api/quantization,1,1
