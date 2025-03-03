@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/quic/XNNPACK,9,5
+/quic/XNNPACK/blob/master/src/f32-qu8-vcvt/f32-qu8-vcvt.h,1,1
+/quic/XNNPACK/commits/master,1,1
+/quic/XNNPACK/tree/master/src,1,1
+/quic/XNNPACK/tree/master/src/f32-qu8-vcvt,1,1
