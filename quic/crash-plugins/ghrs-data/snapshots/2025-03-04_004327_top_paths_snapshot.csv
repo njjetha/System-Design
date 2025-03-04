@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/crash-plugins,12,9
+/quic/crash-plugins/commits/main,8,2
+/quic/crash-plugins/tree/main,3,1
+/quic/crash-plugins/blob/main/plugin.cpp,2,2
+/quic/crash-plugins/tree/main/procrank,2,2
+/quic/crash-plugins/actions,2,1
+/quic/crash-plugins/commit/f5db39353384e22969bc2c3f676958024d9195fa,2,1
+/quic/crash-plugins/actions/runs/13367402764,1,1
+/quic/crash-plugins/actions/runs/13367402764/workflow,1,1
+/quic/crash-plugins/blob/main/binder/binder.cpp,1,1
