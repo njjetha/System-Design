@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-robotics-platforms,125,80
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5,48,29
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x,47,26
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps,29,18
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_classification,23,19
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp,23,9
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/AI_Age_Gender_Emotion_Solution,23,8
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp/gst_audio,21,18
+/quic/sample-apps-for-robotics-platforms/tree/master,19,15
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/platform-bringup/GPIO-samples,19,13
