@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,23,16
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/b4fdb0a2c6594da67f255789a91d060083d25edb,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-util/README,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-util,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/runtime-platform/src,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/core/src/QComponent.cpp,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/runtime-platform/src/dev/common/QDevInterface.cpp,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/runtime-platform/src/os/linux/QOsal.cpp,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/lib/runtime-platform/src/QWorkqueueElement.cpp,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/b4fdb0a2c6594da67f255789a91d060083d25edb/utils/qaic-util/QaicUtilTxUI.cpp,1,1
