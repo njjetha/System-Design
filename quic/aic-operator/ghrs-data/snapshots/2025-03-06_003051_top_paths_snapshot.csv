@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,12,4
+/quic/aic-operator/tree/main,5,1
+/quic/aic-operator/blob/main/go.mod,4,1
+/quic/aic-operator/blob/main/Makefile,3,1
+/quic/aic-operator/releases,2,2
+/quic/aic-operator/blob/main/Dockerfile,2,1
+/quic/aic-operator/blob/main/go.sum,1,1
+/quic/aic-operator/commit/581dd64f2f00f87a64dc81f8d80785f4baeaf417,1,1
+/quic/aic-operator/commits/main,1,1
+/quic/aic-operator/compare/v0.1.0...v0.1.1,1,1
