@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,73,34
+/quic/toolchain_for_hexagon/pull/44,63,11
+/quic/toolchain_for_hexagon/pull/45,22,4
+/quic/toolchain_for_hexagon/pulls,21,7
+/quic/toolchain_for_hexagon/pull/44/commits,18,7
+/quic/toolchain_for_hexagon/pull/45/files,16,5
+/quic/toolchain_for_hexagon/pull/44/files,14,9
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,8,8
+/quic/toolchain_for_hexagon/tree/master/examples,8,4
+/quic/toolchain_for_hexagon/blob/master/examples/README.md,6,5
