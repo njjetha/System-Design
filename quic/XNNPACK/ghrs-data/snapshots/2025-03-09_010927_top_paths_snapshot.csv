@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/XNNPACK,5,5
+/quic/XNNPACK/tree/sme1_gemm_support,5,2
+/quic/XNNPACK/commits/master,2,2
+/quic/XNNPACK/tree/sme1_gemm_support/src,2,1
+/quic/xNNPACK,1,1
+/quic/XNNPACK/blob/master/include/xnnpack.h,1,1
+/quic/XNNPACK/blob/master/src/f32-qu8-vcvt/f32-qu8-vcvt.h,1,1
+/quic/XNNPACK/blob/sme1_gemm_support/src/pf32-gemm/pf32-gemm-32x32-minmax-neonsme.c,1,1
+/quic/XNNPACK/commit/c98a18749d8deaefa29c3fea9fb162e0eee322f9,1,1
+/quic/XNNPACK/tree/c98a18749d8deaefa29c3fea9fb162e0eee322f9,1,1
