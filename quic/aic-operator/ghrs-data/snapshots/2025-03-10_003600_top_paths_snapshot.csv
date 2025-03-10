@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,14,7
+/quic/aic-operator/tree/main,4,1
+/quic/aic-operator/tree/main/config/samples,3,1
+/quic/aic-operator/blob/main/manual_install/qcom-aic-rule-nfd.yaml,2,2
+/quic/aic-operator/commit/ecca82b09a11402117bff1a69c42c9ab12494184,2,2
+/quic/aic-operator/blob/main/Dockerfile,2,1
+/quic/aic-operator/tree/main/config,2,1
+/quic/aic-operator/blob/main/config/crd/bases/aic.quicinc.com_aics.yaml,1,1
+/quic/aic-operator/blob/main/config/samples/aic_v1_aic.yaml,1,1
+/quic/aic-operator/blob/main/config/samples/kustomization.yaml,1,1
