@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,41,27
+/quic/qmi-framework/tree/10de3bcdcff1f687f280cb34734ddc4af4dc9695,18,2
+/quic/qmi-framework/tree/main/qcsi,7,2
+/quic/qmi-framework/tree/main/qcci,5,5
+/quic/qmi-framework/tree/main,5,3
+/quic/qmi-framework/tree/10de3bcdcff1f687f280cb34734ddc4af4dc9695/qcci,5,1
+/quic/qmi-framework/blob/main/qcci/qcci_os.c,4,3
+/quic/qmi-framework/blob/10de3bcdcff1f687f280cb34734ddc4af4dc9695/Makefile.am,3,1
+/quic/qmi-framework/tree/10de3bcdcff1f687f280cb34734ddc4af4dc9695/qcsi,3,1
+/quic/qmi-framework/blob/10de3bcdcff1f687f280cb34734ddc4af4dc9695/qcsi/qcsi_xport_qrtr.c,2,2
