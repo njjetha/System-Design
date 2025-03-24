@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,53,28
+/quic/toolchain_for_hexagon/tree/master/examples/contrived,13,5
+/quic/toolchain_for_hexagon/tree/master/examples,12,8
+/quic/toolchain_for_hexagon/releases,11,10
+/quic/toolchain_for_hexagon/tree/master/examples/contrived/src,10,5
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,7,3
+/quic/toolchain_for_hexagon/blob/master/examples/contrived/README.md,6,6
+/quic/toolchain_for_hexagon/issues/6,6,5
+/quic/toolchain_for_hexagon/blob/master/get-src-repos.sh,6,2
+/quic/toolchain_for_hexagon/blob/master/build-in-container.sh,5,2
