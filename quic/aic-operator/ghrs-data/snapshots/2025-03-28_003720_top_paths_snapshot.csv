@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/quic/aic-operator,26,3
+/quic/aic-operator/blob/main/Dockerfile,1,1
+/quic/aic-operator/blob/main/internal/controller/aic_controller.go,1,1
+/quic/aic-operator/tree/main/internal,1,1
+/quic/aic-operator/tree/main/internal/controller,1,1
