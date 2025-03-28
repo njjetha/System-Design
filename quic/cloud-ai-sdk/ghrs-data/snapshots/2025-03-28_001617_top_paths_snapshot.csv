@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,226,128
+/quic/cloud-ai-sdk/tree/1.17/models,38,27
+/quic/cloud-ai-sdk/tree/1.17,33,19
+/quic/cloud-ai-sdk/tree/1.17/tutorials,27,20
+/quic/cloud-ai-sdk/blob/1.17/tutorials/NLP/Model-Onboarding-Beginner/getting-started-beginner.ipynb,27,3
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,21,14
+/quic/cloud-ai-sdk/tree/1.17/samples,19,17
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,18,15
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder,17,11
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,15,12
