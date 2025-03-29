@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,15,12
+/quic/android-on-snapdragon/tree/master/Display,4,4
+/quic/android-on-snapdragon/tree/master/Camera,2,2
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code,2,2
+/quic/android-on-snapdragon/tree/master/video,2,2
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/demos/depthcapture/src/main/java/qti/video/depthcapture/playback/BokehEffect.java,1,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/demos/depthcapture/src/main/java/qti/video/depthcapture/playback/BokehRenderer.java,1,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/java/qti/video/QMediaExtensions.java,1,1
+/quic/android-on-snapdragon/blob/master/README.md,1,1
+/quic/android-on-snapdragon/commit/48270bd34bd1cf2bc5b7896b7f439d59712f97f4,1,1
