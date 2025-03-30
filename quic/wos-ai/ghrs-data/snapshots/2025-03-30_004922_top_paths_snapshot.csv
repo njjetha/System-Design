@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,13,13
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,9,6
+/quic/wos-ai/blob/main/Artifacts/io_utils.py,9,2
+/quic/wos-ai/tree/main/Artifacts,6,5
+/quic/wos-ai/tree/main,6,3
+/quic/wos-ai/tree/main/Scripts,5,2
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/gen_qnn_ctx_onnx_model.py,4,3
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/main.cpp,3,2
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.cpp,2,2
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/libmobilenetv2-12.serialized.bin,1,1
