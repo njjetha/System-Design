@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,32,20
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,12,9
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,9,4
+/quic/qccsdk-qcc711/tree/main/rot,7,5
+/quic/qccsdk-qcc711/tree/main/rot/tools,5,4
+/quic/qccsdk-qcc711/tree/main/rot/tools/QCC710-KDF,5,3
+/quic/qccsdk-qcc711/tree/main/.github/workflows,4,4
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/platform/src,4,3
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/ble,4,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/ble/src,4,2
