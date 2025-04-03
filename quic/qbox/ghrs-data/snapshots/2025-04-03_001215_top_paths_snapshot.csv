@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,107,61
+/quic/qbox/tree/main/systemc-components,11,8
+/quic/qbox/issues,11,7
+/quic/qbox/issues/23,10,5
+/quic/qbox/tree/main,9,6
+/quic/qbox/tree/main/platforms,9,5
+/quic/qbox/issues/24,7,4
+/quic/qbox/actions/workflows/build-macos-full.yml,6,2
+/quic/qbox/commits/main,6,2
+/quic/qbox/tree/main/tests,5,3
