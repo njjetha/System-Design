@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qidk,193,135
+/quic/qidk/issues/33,96,64
+/quic/qidk/tree/master,72,48
+/quic/qidk/tree/master/Tools/snpe-helper,70,25
+/quic/qidk/blob/master/Examples/QNN-Model-Example-SESR/README.md,48,40
+/quic/qidk/tree/master/Solutions,48,31
+/quic/qidk/blob/master/Model-Enablement/Model-Accuracy-Mixed-Precision/Accuracy_Analyzer_YoloV8.ipynb,48,22
+/quic/qidk/blob/master/Tools/snpe-helper/README.md,46,24
+/quic/qidk/blob/master/Solutions/NLPSolution3-AutomaticSpeechRecognition-Whisper/README.md,45,20
+/quic/qidk/tree/master/Tools/snpe_qnn_docker,43,23
