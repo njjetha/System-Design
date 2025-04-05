@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,11,10
+/quic/mink-idl-compiler/tree/main/idlc,2,1
+/quic/mink-idl-compiler/tree/main/idlc_codegen_cpp,2,1
+/quic/mink-idl-compiler/tree/main/idlc_codegen_cpp/src,2,1
+/quic/mink-idl-compiler/blob/main/idlc_ast_passes/tests/test_data/invalid_trailing_path.idl,1,1
+/quic/mink-idl-compiler/blob/main/idlc_ast_passes/tests/test_data/no_cycle_without_include_paths/a.idl,1,1
+/quic/mink-idl-compiler/blob/main/idlc_ast_passes/tests/test_data/no_cycle_without_include_paths/b.idl,1,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_cpp/src/generator.rs,1,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_cpp/src/interface/mod.rs,1,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_cpp/src/lib.rs,1,1
