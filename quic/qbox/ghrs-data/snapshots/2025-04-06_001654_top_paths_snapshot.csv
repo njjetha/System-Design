@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,113,66
+/quic/qbox/issues,13,9
+/quic/qbox/tree/main/systemc-components,12,8
+/quic/qbox/tree/main/platforms,10,6
+/quic/qbox/issues/23,10,5
+/quic/qbox/tree/main,8,4
+/quic/qbox/issues/24,7,4
+/quic/qbox/actions/workflows/build-macos-full.yml,6,2
+/quic/qbox/tree/main/tests,6,2
+/quic/qbox/tree/main/platforms/cortex-m55-remote,4,4
