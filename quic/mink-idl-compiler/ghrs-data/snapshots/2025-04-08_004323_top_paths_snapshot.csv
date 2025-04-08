@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,15,10
+/quic/mink-idl-compiler/commits/main,9,3
+/quic/mink-idl-compiler/tree/main/idlc,3,1
+/quic/mink-idl-compiler/tree/main/idlc/src,3,1
+/quic/mink-idl-compiler/pulls,2,2
+/quic/mink-idl-compiler/blob/main/idlc_ast/src/ast.rs,2,1
+/quic/mink-idl-compiler/blob/main/idlc_ast/src/lib.rs,2,1
+/quic/mink-idl-compiler/blob/main/idlc_ast/src/pst.rs,2,1
+/quic/mink-idl-compiler/blob/main/idlc/src/errors.rs,2,1
+/quic/mink-idl-compiler/blob/main/idlc/src/lib.rs,2,1
