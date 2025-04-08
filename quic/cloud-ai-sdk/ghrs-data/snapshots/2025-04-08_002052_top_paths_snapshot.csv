@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,218,124
+/quic/cloud-ai-sdk/tree/1.17/models,53,34
+/quic/cloud-ai-sdk/tree/1.17/tutorials,41,20
+/quic/cloud-ai-sdk/tree/1.17,36,18
+/quic/cloud-ai-sdk/tree/1.17/samples,31,21
+/quic/cloud-ai-sdk/blob/1.17/tutorials/Computer-Vision/Perfomance-Tuning-Beginner/Performance-tuning.ipynb,29,15
+/quic/cloud-ai-sdk/tree/1.17/tutorials/Computer-Vision/Perfomance-Tuning-Beginner,27,15
+/quic/cloud-ai-sdk/tree/1.17/utils/multi-device,27,13
+/quic/cloud-ai-sdk/blob/1.17/samples/cpp/cpp_qpc_inference/main.cpp,27,10
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,24,17
