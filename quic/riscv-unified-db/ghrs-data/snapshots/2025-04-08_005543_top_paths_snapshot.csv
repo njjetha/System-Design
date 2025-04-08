@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/riscv-unified-db/releases,20,16
+/quic/riscv-unified-db/releases/tag/Xqci-0.8.0,15,13
+/quic/riscv-unified-db,12,7
+/quic/riscv-unified-db/tree/main,7,2
+/quic/riscv-unified-db/tree/main/arch_overlay,7,2
+/quic/riscv-unified-db/releases/tag/Xqci-0.7.0,6,6
+/quic/riscv-unified-db/tree/main/arch_overlay/qc_iu,6,2
+/quic/riscv-unified-db/tree/main/arch,6,1
+/quic/riscv-unified-db/pulls,3,1
+/quic/riscv-unified-db/tree/main/arch/inst,3,1
