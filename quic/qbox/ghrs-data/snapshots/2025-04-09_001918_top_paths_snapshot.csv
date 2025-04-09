@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,110,67
+/quic/qbox/tree/main/systemc-components,12,8
+/quic/qbox/issues,10,9
+/quic/qbox/tree/main/platforms,8,5
+/quic/qbox/tree/main,8,3
+/quic/qbox/tree/main/tests,8,3
+/quic/qbox/issues/24,7,4
+/quic/qbox/actions/workflows/build-macos-full.yml,6,2
+/quic/qbox/tree/main/qemu-components,4,4
+/quic/qbox/actions/workflows/build-ubuntu-full.yml,4,2
