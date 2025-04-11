@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,246,137
+/quic/cloud-ai-sdk/tree/1.17/models,56,37
+/quic/cloud-ai-sdk/tree/1.17/tutorials,48,20
+/quic/cloud-ai-sdk/blob/1.12/models/language_processing/decoder/LlamaForCausalLM/runModel.py,42,26
+/quic/cloud-ai-sdk/tree/1.17,41,14
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/decoder/LlamaForCausalLM,34,20
+/quic/cloud-ai-sdk/tree/1.17/tutorials/Computer-Vision/Perfomance-Tuning-Beginner,32,16
+/quic/cloud-ai-sdk/tree/1.17/samples,29,18
+/quic/cloud-ai-sdk/blob/1.17/tutorials/Computer-Vision/Perfomance-Tuning-Beginner/Performance-tuning.ipynb,27,14
+/quic/cloud-ai-sdk/tree/1.17/models/vision,26,19
