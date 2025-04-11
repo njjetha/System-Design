@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,45,44
+/quic/sense/tree/master/resources,3,3
+/quic/sense/wiki/gallery,3,3
+/quic/sense/issues,2,2
+/quic/sense/releases/tag/v2.0,2,2
+/quic/sense/blob/master/docs/wiki/gallery.md,2,1
+/quic/sense/blob/master/docs/wiki/home.md,2,1
+/quic/sense/blob/master/examples/run_action_recognition.py,2,1
+/quic/sense/commit/fc2054db927dac5bfc0dafc82d9cd058b4ef256d,2,1
+/quic/SENSE/commit/fc2054db927dac5bfc0dafc82d9cd058b4ef256d,2,1
