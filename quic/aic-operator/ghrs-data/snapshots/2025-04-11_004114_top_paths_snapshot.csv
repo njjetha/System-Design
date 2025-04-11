@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/quic/aic-operator,13,3
+/quic/aic-operator/blob/main/manual_install/qcom-aic-rule-nfd.yaml,1,1
+/quic/aic-operator/blob/main/operator-bundle.Dockerfile,1,1
+/quic/aic-operator/tree/main,1,1
