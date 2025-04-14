@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,42,39
+/quic/sense/tree/master/sense,4,3
+/quic/sense/releases/tag/v2.0,3,3
+/quic/sense/blob/master/examples/run_action_recognition.py,3,2
+/quic/sense/blob/master/sense/camera.py,2,2
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,2,2
+/quic/sense/tree/master/examples,2,2
+/quic/sense/tree/master/resources,2,2
+/quic/sense/wiki/gallery,2,2
+/quic/sense/blob/master/docs/wiki/gallery.md,2,1
