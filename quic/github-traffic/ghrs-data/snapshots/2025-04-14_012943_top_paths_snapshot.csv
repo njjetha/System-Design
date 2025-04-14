@@ -1,0 +1,5 @@
+url_path,views_total,views_unique
+/quic/github-traffic,3,3
+/quic/github-traffic/actions,1,1
+/quic/github-traffic/actions/runs/14345269634,1,1
+/quic/github-traffic/tree/main/.github/workflows,1,1
