@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,9,7
+/quic/android-on-snapdragon/tree/master/video,3,3
+/quic/android-on-snapdragon/tree/master/Camera,3,2
+/quic/android-on-snapdragon/tree/master/Display,2,2
+/quic/android-on-snapdragon/tree/master/video/sample-apps/app,2,2
+/quic/android-on-snapdragon/tree/master/video/sample-apps/app/src/main,2,2
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/demos/depthcapture/src/main/java/qti/video/depthcapture/CannedDataSource.java,1,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/demos/depthcapture/src/main/java/qti/video/depthcapture/DepthRecorder.java,1,1
+/quic/android-on-snapdragon/blob/master/Camera/ColorSpaceSampleCode/app/src/androidTest/java/com/example/instantzoomsamplecode/ExampleInstrumentedTest.java,1,1
+/quic/android-on-snapdragon/blob/master/Camera/ColorSpaceSampleCode/app/src/main/java/com/example/instantzoomsamplecode/MainActivity.java,1,1
