@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,106,75
+/quic/qbox/tree/main/qemu-components,9,4
+/quic/qbox/tree/main/systemc-components,8,6
+/quic/qbox/tree/main/tests,6,2
+/quic/qbox/issues,5,5
+/quic/qbox/tree/main/platforms,4,3
+/quic/qbox/tags,4,2
+/quic/qbox/tree/main,4,2
+/quic/qbox/tree/main/tests/libqbox,4,2
+/quic/qbox/releases/tag/v4.4.6,4,1
