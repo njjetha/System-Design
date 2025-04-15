@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,37,19
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils,5,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/scripts,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-runner,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-util,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/inc/qaic-openrt-api-hpp/QAicOpenRtApiFwdDecl.hpp,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/bootstrap.sh,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/CMakeLists.txt,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-device-partition/README,1,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-runner/QAicRunnerMain.cpp,1,1
