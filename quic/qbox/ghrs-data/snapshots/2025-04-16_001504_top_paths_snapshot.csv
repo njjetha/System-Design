@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,111,74
+/quic/qbox/tree/main,12,6
+/quic/qbox/tree/main/systemc-components,10,7
+/quic/qbox/tree/main/platforms,10,5
+/quic/qbox/tree/main/qemu-components,9,4
+/quic/qbox/tree/main/tests,8,4
+/quic/qbox/tree/main/platforms/ubuntu,8,3
+/quic/qbox/issues,6,6
+/quic/qbox/actions,4,4
+/quic/qbox/tree/main/systemc-components/loader,4,3
