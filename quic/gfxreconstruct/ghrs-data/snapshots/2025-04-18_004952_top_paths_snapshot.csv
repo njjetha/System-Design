@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gfxreconstruct,10,2
+/quic/gfxreconstruct/commits/dx11-support,7,1
+/quic/gfxreconstruct/tree/dev,5,1
+/quic/gfxreconstruct/tree/dev/framework,4,1
+/quic/gfxreconstruct/commits/dx11-support/framework/generated,3,1
+/quic/gfxreconstruct/tree/dev/framework/generated,3,1
+/quic/gfxreconstruct/tree/dx11-support,3,1
+/quic/gfxreconstruct/blame/dev/framework/encode/d3d12_capture_manager.cpp,2,1
+/quic/gfxreconstruct/blob/dev/framework/encode/d3d12_capture_manager.cpp,2,1
+/quic/gfxreconstruct/blob/dev/framework/generated/generate_dx12.py,2,1
