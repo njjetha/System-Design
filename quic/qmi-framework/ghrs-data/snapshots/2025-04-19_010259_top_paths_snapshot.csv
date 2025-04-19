@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,34,23
+/quic/qmi-framework/tree/main,3,3
+/quic/qmi-framework/tree/main/qcsi,3,3
+/quic/qmi-framework/tree/main/tests,3,3
+/quic/qmi-framework/blob/main/qcsi/qcsi_common.c,2,2
+/quic/qmi-framework/tree/main/common,2,2
+/quic/qmi-framework/tree/main/include,2,2
+/quic/qmi-framework/tree/main/qcci,2,2
+/quic/qmi-framework/tree/main/qencdec,2,2
+/quic/qmi-framework/blob/main/common/Makefile.am,2,1
