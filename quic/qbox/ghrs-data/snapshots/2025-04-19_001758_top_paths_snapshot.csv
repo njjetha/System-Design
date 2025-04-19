@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,121,80
+/quic/qbox/tree/main,16,8
+/quic/qbox/tree/main/platforms,13,7
+/quic/qbox/tree/main/systemc-components,10,7
+/quic/qbox/tree/main/platforms/ubuntu,10,5
+/quic/qbox/tree/main/qemu-components,9,5
+/quic/qbox/actions,8,5
+/quic/qbox/commits/main,8,2
+/quic/qbox/issues,5,5
+/quic/qbox/blob/main/platforms/ubuntu/conf_aarch64.lua,5,3
