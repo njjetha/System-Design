@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,30,16
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,25,12
+/quic/qccsdk-qcc711/tree/main,9,8
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/iar,8,4
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/bin,6,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/qapi,4,4
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/iar/Qualcomm,4,3
+/quic/qccsdk-qcc711/tree/main/common/manifest,4,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/tools,4,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/iar/apps,3,3
