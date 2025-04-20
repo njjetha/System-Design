@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ai-hub-apps/tree/main,2394,1894
+/quic/ai-hub-apps/tree/main/tutorials/llm_on_genie,1781,624
+/quic/ai-hub-apps,622,342
+/quic/ai-hub-apps/tree/main/apps,513,304
+/quic/ai-hub-apps/tree/main/apps/android/ChatApp,448,196
+/quic/ai-hub-apps/tree/main/apps/android,355,191
+/quic/ai-hub-apps/tree/main/apps/android/ImageClassification,226,125
+/quic/ai-hub-apps/tree/main/apps/android/SuperResolution,209,110
+/quic/ai-hub-apps/tree/main/apps/windows/python/Whisper,205,91
+/quic/ai-hub-apps/tree/main/apps/windows/cpp/ChatApp,197,116
