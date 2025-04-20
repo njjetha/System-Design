@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,35,27
+/quic/sense/tree/master/examples,5,4
+/quic/sense/blob/master/examples/run_action_recognition.py,3,2
+/quic/sense/tree/master/sense,3,2
+/quic/sense/blob/master/sense/camera.py,3,1
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,2,2
+/quic/sense/issues,2,2
+/quic/sense/blob/master/README.md,2,1
+/quic/sense/commit/fc2054db927dac5bfc0dafc82d9cd058b4ef256d,2,1
+/quic/SENSE/commit/fc2054db927dac5bfc0dafc82d9cd058b4ef256d,2,1
