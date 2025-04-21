@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-qualcomm-linux,96,54
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM,30,18
+/quic/sample-apps-for-qualcomm-linux/releases/tag/GA1.4-rel,27,11
+/quic/sample-apps-for-qualcomm-linux/blob/main/scripts/export_model.sh,22,5
+/quic/sample-apps-for-qualcomm-linux/tree/main/scripts,21,8
+/quic/sample-apps-for-qualcomm-linux/releases,19,13
+/quic/sample-apps-for-qualcomm-linux/tree/main,19,8
+/quic/sample-apps-for-qualcomm-linux/blob/main/Hello-QIM/main.cc,16,8
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts,16,7
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts/configs/manifests,16,4
