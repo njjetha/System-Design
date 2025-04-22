@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-robotics-platforms,74,61
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5,46,30
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x,35,22
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps,24,16
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_4_x,21,9
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/GStreamer-apps/cpp/gst_camera,15,10
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_detection,12,9
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_5_x/AI-ML-apps/snpe_classification,11,8
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_4_x/GStreamer-apps/cpp/gst_tflite,11,2
+/quic/sample-apps-for-robotics-platforms/tree/master/RB5/linux_kernel_4_x/GStreamer-apps/python/gst_tflite,11,2
