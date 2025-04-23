@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,8,8
+/quic/android-on-snapdragon/tree/master/Camera,3,3
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/assets/QMediaCodecCapabilities_sm8550_kalama.json,3,1
+/quic/android-on-snapdragon/blob/master/Camera/README.md,1,1
+/quic/android-on-snapdragon/blob/master/Display/README.md,1,1
+/quic/android-on-snapdragon/blob/master/README.md,1,1
+/quic/android-on-snapdragon/blob/master/video/libraries/QtiVideoExt/src/main/java/qti/video/QMediaExtensions.java,1,1
+/quic/android-on-snapdragon/blob/master/video/README.md,1,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/MbRoiEncode.java,1,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/SdrDecode.java,1,1
