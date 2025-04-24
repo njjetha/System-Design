@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/gunyah-resource-manager,44,31
+/quic/gunyah-resource-manager/tree/develop/config,4,4
+/quic/gunyah-resource-manager/issues,4,3
+/quic/gunyah-resource-manager/tree/develop/platform/qemu,4,3
+/quic/gunyah-resource-manager/blob/develop/build.conf,2,2
+/quic/gunyah-resource-manager/blob/develop/src/resource-manager.c,2,2
+/quic/gunyah-resource-manager/issues/1,2,2
+/quic/gunyah-resource-manager/tree/develop/platform/qemu/src,2,2
+/quic/gunyah-resource-manager/tree/develop/src,2,2
+/quic/gunyah-resource-manager/tree/develop/tools,2,2
