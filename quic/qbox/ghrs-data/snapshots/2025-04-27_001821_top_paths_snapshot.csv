@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,98,60
+/quic/qbox/tree/main,28,15
+/quic/qbox/tree/main/platforms,13,9
+/quic/qbox/tree/main/qemu-components,12,9
+/quic/qbox/tree/main/systemc-components,12,7
+/quic/qbox/tree/main/tests,11,5
+/quic/qbox/commits/main,10,3
+/quic/qbox/tree/main/platforms/ubuntu,8,5
+/quic/qbox/tree/main/docs,6,5
+/quic/qbox/actions,6,3
