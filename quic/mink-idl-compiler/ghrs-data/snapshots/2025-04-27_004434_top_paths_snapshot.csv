@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,29,17
+/quic/mink-idl-compiler/pull/10,13,6
+/quic/mink-idl-compiler/pull/10/files,7,2
+/quic/mink-idl-compiler/pull/10/commits,6,3
+/quic/mink-idl-compiler/pulls,5,3
+/quic/mink-idl-compiler/actions/workflows/rust.yml,5,1
+/quic/mink-idl-compiler/releases,4,3
+/quic/mink-idl-compiler/releases/tag/v0.2.1,4,2
+/quic/mink-idl-compiler/blob/main/.github/workflows/rust.yml,3,1
+/quic/mink-idl-compiler/actions,2,2
