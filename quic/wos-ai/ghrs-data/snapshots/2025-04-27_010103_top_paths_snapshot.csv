@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,27,19
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,11,8
+/quic/wos-ai/tree/main/Scripts,9,8
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,6,6
+/quic/wos-ai/tree/main,6,5
+/quic/wos-ai/tree/main/Artifacts,5,4
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.cpp,4,3
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,4,3
+/quic/wos-ai/blob/main/Artifacts/io_utils.py,3,3
+/quic/wos-ai/blob/main/Artifacts/kitten.jpg,2,2
