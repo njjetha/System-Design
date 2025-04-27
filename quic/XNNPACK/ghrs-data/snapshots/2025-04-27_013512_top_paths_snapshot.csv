@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/quic/XNNPACK,7,7
+/quic/XNNPACK/tree/sme1_gemm_support,6,3
+/quic/XNNPACK/blob/sme1_gemm_support/test/operators/convolution-operator-tester.h,2,2
+/quic/XNNPACK/blob/sme1_gemm_support/test/operators/convolution-nhwc.cc,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/src,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/test,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/test/operators,1,1
