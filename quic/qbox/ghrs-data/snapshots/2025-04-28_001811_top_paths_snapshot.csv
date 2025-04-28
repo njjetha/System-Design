@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,86,56
+/quic/qbox/tree/main,20,14
+/quic/qbox/tree/main/qemu-components,12,9
+/quic/qbox/tree/main/tests,9,3
+/quic/qbox/tree/main/systemc-components,8,5
+/quic/qbox/commits/main,8,2
+/quic/qbox/tree/main/platforms,7,6
+/quic/qbox/tree/main/docs,6,5
+/quic/qbox/tree/main/qemu-components/cpu_riscv,5,4
+/quic/qbox/tree/main/platforms/cortex-m55-remote,4,4
