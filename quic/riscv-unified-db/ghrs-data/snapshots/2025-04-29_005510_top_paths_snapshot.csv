@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/riscv-unified-db/tree/main/arch,16,2
+/quic/riscv-unified-db/releases/tag/Xqci-0.10.0,15,8
+/quic/riscv-unified-db,4,4
+/quic/riscv-unified-db/releases/tag/Xqccmp_extension-0.1.0,3,2
+/quic/riscv-unified-db/releases,2,2
+/quic/riscv-unified-db/tree/main/docs,2,1
+/quic/riscv-unified-db/tree/main/docs/ruby,2,1
+/quic/riscv-unified-db/blob/main/arch/ext/C.yaml,1,1
+/quic/riscv-unified-db/blob/main/arch/ext/Zfa.yaml,1,1
+/quic/riscv-unified-db/blob/main/arch/ext/Zimop.yaml,1,1
