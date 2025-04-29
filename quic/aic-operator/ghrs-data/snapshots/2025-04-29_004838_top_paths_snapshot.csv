@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,12,5
+/quic/aic-operator/blob/main/aic-operator-deploy.yaml,1,1
+/quic/aic-operator/blob/main/cmd/main.go,1,1
+/quic/aic-operator/blob/main/Dockerfile,1,1
+/quic/aic-operator/blob/main/go.mod,1,1
+/quic/aic-operator/blob/main/Makefile,1,1
+/quic/aic-operator/blob/main/manual_install/qcom-aic-rule-nfd.yaml,1,1
+/quic/aic-operator/tree/main/cmd,1,1
+/quic/aic-operator/tree/main/config,1,1
+/quic/aic-operator/tree/main/config/manager,1,1
