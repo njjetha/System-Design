@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,18,15
+/quic/qemu/pulls,12,2
+/quic/qemu/pull/88,4,1
+/quic/qemu/tags,4,1
+/quic/qemu/blob/bcain/hvm_00/docs/system/hexagon/hvm.rst,3,1
+/quic/qemu/commits/tip,2,1
+/quic/qemu/tree/bcain/hvm_00/docs/system/hexagon,2,1
+/quic/qemu/tree/hex-next,2,1
+/quic/qemu/tree/libqemu-v8.2-v0.1.4,2,1
+/quic/qemu/blob/hex-next/docs/devel/hexagon-l2vic.rst,1,1
