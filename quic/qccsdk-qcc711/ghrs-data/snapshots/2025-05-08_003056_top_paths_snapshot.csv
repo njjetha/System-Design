@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,19,16
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,4,3
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,3,3
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/crypto,2,2
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/crypto/src,2,2
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/demo/general/ble/ble_demo.c,2,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/demo/peripherals,2,1
+/quic/qccsdk-qcc711/actions,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/src/BSCAPI_funcs_m3.c,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/src/DISAPI_cb_m3.c,1,1
