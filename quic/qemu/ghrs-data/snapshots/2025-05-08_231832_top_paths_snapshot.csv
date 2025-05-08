@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,17,15
+/quic/qemu/pulls,8,2
+/quic/qemu/tags,4,1
+/quic/qemu/tree/master/target,2,2
+/quic/qemu/commits/tip,2,1
+/quic/qemu/tree/hex-next,2,1
+/quic/qemu/tree/libqemu-v8.2-v0.1.4,2,1
+/quic/qemu/blob/hex-next/docs/devel/hexagon-l2vic.rst,1,1
+/quic/qemu/blob/master/target/arm/cpu-param.h,1,1
+/quic/qemu/branches,1,1
