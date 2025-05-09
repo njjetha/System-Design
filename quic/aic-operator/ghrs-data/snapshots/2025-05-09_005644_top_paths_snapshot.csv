@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,13,3
+/quic/aic-operator/tree/main/internal,13,1
+/quic/aic-operator/tree/main,10,1
+/quic/aic-operator/tree/main/internal/kmmmodule,10,1
+/quic/aic-operator/blob/main/internal/kmmmodule/qcom-aic-kmmo.go,7,1
+/quic/aic-operator/tree/main/config/rbac,6,1
+/quic/aic-operator/tree/main/internal/controller,6,1
+/quic/aic-operator/blob/main/internal/controller/aic_controller.go,4,1
+/quic/aic-operator/blob/main/manual_install/qcom-aic-rule-nfd.yaml,4,1
+/quic/aic-operator/tree/main/manual_install,3,1
