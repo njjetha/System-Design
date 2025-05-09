@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet-pages,13,8
+/quic/aimet-pages/pulls,8,4
+/quic/aimet-pages/tree/master/releases,3,2
+/quic/aimet-pages/tree/release-aimet-2.5,2,2
+/quic/aimet-pages/blob/master/releases/latest,2,1
+/quic/aimet-pages/tree/master,2,1
+/quic/aimet-pages/blob/955f31f4b3305b1b110549bbbe2a7d90a7d1e310/AimetDocs/user_guide/index.html,1,1
+/quic/aimet-pages/blob/master/releases/2.4.0/quantsim/index.html,1,1
+/quic/aimet-pages/blob/master/releases/2.4.0/quantsim/qat.html,1,1
+/quic/aimet-pages/compare/release-aimet-2.5,1,1
