@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,177,118
+/quic/cloud-ai-sdk/tree/1.17/models,49,33
+/quic/cloud-ai-sdk/tree/1.17,35,22
+/quic/cloud-ai-sdk/tree/1.17/tutorials,32,20
+/quic/cloud-ai-sdk/tree/1.17/samples,22,17
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing/encoder,20,14
+/quic/cloud-ai-sdk/tree/1.17/models/multimodal/text_to_image/stable_diffusion_xl,20,6
+/quic/cloud-ai-sdk/tree/1.17/models/language_processing,19,15
+/quic/cloud-ai-sdk/tree/1.17/tutorials/Computer-Vision/Perfomance-Tuning-Beginner,19,10
+/quic/cloud-ai-sdk/blob/1.17/tutorials/NLP/Model-Onboarding-Beginner/getting-started-beginner.ipynb,17,6
