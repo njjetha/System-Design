@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,19,11
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/lib,3,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/commit/e828a761510b266ef2b77a2a8b1c92b90d1e4a5f,3,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/runtime/lib,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/test,2,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/abd3d5c7cf20c09f0c7882ea14708eb3ed2bb2f9/lib/metadata/metadata-common/inc/AICMetadata.h,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/abd3d5c7cf20c09f0c7882ea14708eb3ed2bb2f9/lib/metadata/metadata-common/inc/AICMetadataWriter.h,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/abd3d5c7cf20c09f0c7882ea14708eb3ed2bb2f9/lib/metadata/metadata-common/src/AICMetadata.c,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/abd3d5c7cf20c09f0c7882ea14708eb3ed2bb2f9/lib/metadata/metadata-common/src/AICMetadataWriter.cpp,2,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/abd3d5c7cf20c09f0c7882ea14708eb3ed2bb2f9/lib/metadata/metadata-flatbuffer/deps/AicMetadataFlat_generated.h,2,1
