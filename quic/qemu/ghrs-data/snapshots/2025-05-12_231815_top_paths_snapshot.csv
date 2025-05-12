@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/quic/qemu,13,11
+/quic/qemu/pulls,8,2
+/quic/qemu/tree/hex-next,2,1
+/quic/qemu/blob/hex-next/docs/devel/hexagon-l2vic.rst,1,1
+/quic/qemu/commits/v10.0.0-rc2,1,1
+/quic/qemu/pull/99,1,1
+/quic/qemu/releases/tag/hexagon-sysemu-04-oct-2024,1,1
+/quic/qemu/tree/master/target,1,1
