@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,16,14
+/quic/android-on-snapdragon/tree/master/Display,6,5
+/quic/android-on-snapdragon/tree/master/video,6,5
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code,4,4
+/quic/android-on-snapdragon/tree/master/Camera,4,3
+/quic/android-on-snapdragon/tree/master/Camera/UltraHDRSampleCode/app/src/main/java/com/example/ultrahdrsamplecode,4,1
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code/inc,3,3
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/src/stc_demo_imp.cpp,3,2
+/quic/android-on-snapdragon/tree/master/video/libraries/QtiVideoExt/src/main,3,2
+/quic/android-on-snapdragon/blob/master/Camera/UltraHDRSampleCode/app/src/main/java/com/example/ultrahdrsamplecode/MainActivity.java,3,1
