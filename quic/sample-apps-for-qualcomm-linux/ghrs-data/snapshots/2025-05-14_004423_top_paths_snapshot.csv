@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-qualcomm-linux,65,32
+/quic/sample-apps-for-qualcomm-linux/blob/main/artifacts/configs/manifests/manifest-sampleapps-global-qli1.4-Rb3Gen2.json,21,11
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM,14,8
+/quic/sample-apps-for-qualcomm-linux/releases,11,8
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts/configs/manifests,11,6
+/quic/sample-apps-for-qualcomm-linux/graphs/traffic,9,1
+/quic/sample-apps-for-qualcomm-linux/blob/main/scripts/preprocess.py,8,6
+/quic/sample-apps-for-qualcomm-linux/blob/main/artifacts/configs/manifests/QLI1.4/qcs6490-rb3gen2-vision-kit/manifest-sampleapps-global-qli1.4-Rb3Gen2.json,7,6
+/quic/sample-apps-for-qualcomm-linux/blob/main/scripts/export_model.sh,6,3
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts,6,3
