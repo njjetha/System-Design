@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,143,76
+/quic/qbox/tree/main/platforms,41,8
+/quic/qbox/tree/main,30,9
+/quic/qbox/tree/main/systemc-components,23,8
+/quic/qbox/issues,20,8
+/quic/qbox/tree/main/platforms/src,17,6
+/quic/qbox/tree/main/platforms/ubuntu,17,5
+/quic/qbox/blob/main/platforms/src/main.cc,16,5
+/quic/qbox/tree/v3.3.0/systemc-components,9,1
+/quic/qbox/tree/main/docs,8,7
