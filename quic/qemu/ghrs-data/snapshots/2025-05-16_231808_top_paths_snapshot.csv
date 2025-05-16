@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,22,19
+/quic/qemu/pulls,8,2
+/quic/qemu/tree/hexagon_sysemu_01_dec_2023/configs,2,2
+/quic/qemu/tree/hex-next,2,1
+/quic/qemu/blob/hexagon_sysemu_31_may_2023/configs/targets/hexagon-softmmu.mak,1,1
+/quic/qemu/branches,1,1
+/quic/qemu/commit/3551399c995b04ad50b3921bbb07ba8130fedd1a,1,1
+/quic/qemu/commit/7ea336f0f4281eaa9df86004646c6f5e78735e57,1,1
+/quic/qemu/commits/v10.0.0-rc2,1,1
+/quic/qemu/pull/99,1,1
