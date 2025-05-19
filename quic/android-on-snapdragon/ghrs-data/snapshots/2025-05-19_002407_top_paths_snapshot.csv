@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,14,12
+/quic/android-on-snapdragon/tree/master/Camera,8,3
+/quic/android-on-snapdragon/tree/master/video,4,3
+/quic/android-on-snapdragon/tree/master/Display,3,3
+/quic/android-on-snapdragon/tree/master/Display/stc_sample_code,2,2
+/quic/android-on-snapdragon/tree/master/Camera/UltraHDRSampleCode/app/src,2,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/Android.mk,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/CMakeLists.txt,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/inc/stc_demo_imp.h,1,1
+/quic/android-on-snapdragon/blob/master/Display/stc_sample_code/inc/stc_demo_service.h,1,1
