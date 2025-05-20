@@ -1,0 +1,8 @@
+url_path,views_total,views_unique
+/quic/OpenBLAS,14,8
+/quic/OpenBLAS/actions,1,1
+/quic/OpenBLAS/blob/f66ca05b313cf936eb8f75cc7ea1a87549e5b2a9/kernel/Makefile,1,1
+/quic/OpenBLAS/commit/f66ca05b313cf936eb8f75cc7ea1a87549e5b2a9,1,1
+/quic/OpenBLAS/commits,1,1
+/quic/OpenBLAS/compare/develop...OpenMathLib%3AOpenBLAS%3Adevelop,1,1
+/quic/OpenBLAS/tree/fix-sgemmdirect-sme1,1,1
