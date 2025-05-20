@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/riscv-unified-db/releases,18,12
+/quic/riscv-unified-db/releases/tag/Xqci-0.11.0,18,10
+/quic/riscv-unified-db,12,8
+/quic/riscv-unified-db/releases/tag/Xqci-0.10.0,6,3
+/quic/riscv-unified-db/releases/tag/Xqccmp_extension-0.1.0,5,4
+/quic/riscv-unified-db/blob/main/doc/riscv-opcodes-migration.adoc,2,1
+/quic/riscv-unified-db/tree/main,2,1
+/quic/riscv-unified-db/tree/main/doc,2,1
+/quic/riscv-unified-db/blob/main/doc/schemas.adoc,1,1
+/quic/riscv-unified-db/commit/00f1540ddcf2bee1cdc88ac4f448f00edadb9451,1,1
