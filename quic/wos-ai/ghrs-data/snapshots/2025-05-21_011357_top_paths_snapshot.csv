@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,12,9
+/quic/wos-ai/tree/main,6,4
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,4,4
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,4,3
+/quic/wos-ai/tree/main/Scripts,3,3
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.cpp,3,1
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/utils.h,3,1
+/quic/wos-ai/blob/main/Artifacts/kitten.jpg,2,2
+/quic/wos-ai/tree/main/Artifacts,2,2
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/CMakeLists.txt,1,1
