@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cbsp-boot-utilities/tree/main/uefi_capsule_generation,33,16
+/quic/cbsp-boot-utilities,20,14
+/quic/cbsp-boot-utilities/blob/main/uefi_capsule_generation/FirmwarePartitions.md,15,8
+/quic/cbsp-boot-utilities/tree/main,4,4
+/quic/cbsp-boot-utilities/tree/main/uefi_sec,4,3
+/quic/cbsp-boot-utilities/blob/main/README.md,3,3
+/quic/cbsp-boot-utilities/blob/main/uefi_capsule_generation/capsule_creator.py,3,2
+/quic/cbsp-boot-utilities/blob/main/uefi_capsule_generation/FvUpdate_UFS.xml,2,2
+/quic/cbsp-boot-utilities/blob/main/uefi_capsule_generation/FvUpdate.xml,2,2
+/quic/cbsp-boot-utilities/blob/main/uefi_sec/uefi_sec.c,2,2
