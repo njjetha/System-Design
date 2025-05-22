@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qemu,26,19
+/quic/qemu/blob/hex-next/hw/hexagon/virt.c,3,1
+/quic/qemu/pulls,3,1
+/quic/qemu/tree/hexagon_sysemu_01_dec_2023/configs,2,2
+/quic/qemu/tree/master/target,2,2
+/quic/qemu/tree/master/target/hexagon,2,2
+/quic/qemu/tree/hex-next,2,1
+/quic/qemu/blob/hexagon_sysemu_31_may_2023/configs/targets/hexagon-softmmu.mak,1,1
+/quic/qemu/blob/master/target/hexagon/attribs_def.h.inc,1,1
+/quic/qemu/blob/master/target/hexagon/opcodes.c,1,1
