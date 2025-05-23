@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ufs-tools,40,16
+/quic/ufs-tools/tree/main/ufs-cli,16,9
+/quic/ufs-tools/tree/main/scripts,9,6
+/quic/ufs-tools/pulls,5,3
+/quic/ufs-tools/blob/main/README.md,5,2
+/quic/ufs-tools/commit/df4578da7318a38dbf0317ea6ffc7e75561d878f,5,2
+/quic/ufs-tools/blob/main/ufs-cli/lsufs.c,4,2
+/quic/ufs-tools/blob/main/ufs-cli/Makefile,4,2
+/quic/ufs-tools/blob/main/ufs-cli/query_trans.c,4,2
+/quic/ufs-tools/graphs/contributors,4,2
