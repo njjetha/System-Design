@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,48,31
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/runtime-platform/inc/QNncProtocol.h,21,7
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main,8,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/network-driver/src/QKmdDevice.cpp,8,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/pull/5,8,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/CMakeLists.txt,5,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/pulls,5,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/runtime-platform/inc/QTypes.h,3,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/actions/runs/15073965116/job/42376917190,3,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/.gitignore,3,2
