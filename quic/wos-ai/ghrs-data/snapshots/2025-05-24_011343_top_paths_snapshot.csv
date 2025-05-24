@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,16,11
+/quic/wos-ai/tree/main,6,5
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,4,4
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,4,3
+/quic/wos-ai/tree/main/Scripts,3,3
+/quic/wos-ai/blob/main/Artifacts/kitten.jpg,2,2
+/quic/wos-ai/tree/main/Artifacts,2,2
+/quic/wos-ai/blob/e3b2fa1e7a62870ff4f9053a56c184b4c6ddf045/apps/ORT_Sample_app_with_NPU_Availabilty_Check/main.cpp,1,1
+/quic/wos-ai/blob/main/Artifacts/coffee_cup.jpg,1,1
+/quic/wos-ai/blob/main/Scripts/dml_npu_setup.ps1,1,1
