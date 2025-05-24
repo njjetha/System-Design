@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/cloud-ai-sdk,209,135
+/quic/cloud-ai-sdk/tree/1.17/models,69,36
+/quic/cloud-ai-sdk/tree/1.17,51,22
+/quic/cloud-ai-sdk/tree/1.12/models/language_processing/encoder,42,17
+/quic/cloud-ai-sdk/tree/1.17/tutorials,39,21
+/quic/cloud-ai-sdk/tree/1.17/samples,34,19
+/quic/cloud-ai-sdk/tree/1.17/tutorials/Computer-Vision/Perfomance-Tuning-Beginner,33,14
+/quic/cloud-ai-sdk/pull/15,27,7
+/quic/cloud-ai-sdk/tree/1.17/models/vision,26,18
+/quic/cloud-ai-sdk/blob/1.12/models/language_processing/encoder/run_nlp_model.py,25,9
