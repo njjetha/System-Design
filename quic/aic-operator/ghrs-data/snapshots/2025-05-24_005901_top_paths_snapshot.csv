@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,23,5
+/quic/aic-operator/releases,4,1
+/quic/aic-operator/tags,2,1
+/quic/aic-operator/blob/main/config/manifests/bases/aic-operator.clusterserviceversion.yaml,1,1
+/quic/aic-operator/blob/main/Makefile,1,1
+/quic/aic-operator/commit/b918019839c14ccf119df371a2dc7ef6fd4c7920,1,1
+/quic/aic-operator/commits/main,1,1
+/quic/aic-operator/commits/main/config/manifests/bases/aic-operator.clusterserviceversion.yaml,1,1
+/quic/aic-operator/compare/v0.1.0...v0.1.1,1,1
+/quic/aic-operator/compare/v0.1.1...v0.2.0,1,1
