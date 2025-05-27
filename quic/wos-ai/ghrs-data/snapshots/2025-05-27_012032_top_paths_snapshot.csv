@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,17,11
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,7,6
+/quic/wos-ai/tree/main,6,5
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,5,4
+/quic/wos-ai/tree/main/Artifacts,4,3
+/quic/wos-ai/tree/main/Scripts,3,3
+/quic/wos-ai/blob/main/Artifacts/io_utils.py,3,2
+/quic/wos-ai/tree/main/apps,2,2
+/quic/wos-ai/blob/e3b2fa1e7a62870ff4f9053a56c184b4c6ddf045/apps/ORT_Sample_app_with_NPU_Availabilty_Check/main.cpp,1,1
+/quic/wos-ai/blob/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check/CMakeLists.txt,1,1
