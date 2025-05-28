@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,111,54
+/quic/qbox/tree/main/systemc-components,21,9
+/quic/qbox/issues/25,20,11
+/quic/qbox/tree/main,19,9
+/quic/qbox/tree/main/qemu-components,16,9
+/quic/qbox/issues,13,9
+/quic/qbox/tree/main/platforms,9,5
+/quic/qbox/tree/main/qemu-components/common/include,7,2
+/quic/qbox/blob/gcp-plugin/src/libqemu-cxx/contrib-plugins/gcp.c,6,4
+/quic/qbox/tree/gcp-plugin/src/libqemu-cxx/contrib-plugins,6,4
