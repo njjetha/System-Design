@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qmi-framework,30,24
+/quic/qmi-framework/tree/main/tests,4,3
+/quic/qmi-framework/commits/main,2,2
+/quic/qmi-framework/tree/main/common,2,2
+/quic/qmi-framework/blob/main/CODE-OF-CONDUCT.md,1,1
+/quic/qmi-framework/blob/main/common/common_v01.c,1,1
+/quic/qmi-framework/blob/main/common/Makefile.am,1,1
+/quic/qmi-framework/blob/main/README.md,1,1
+/quic/qmi-framework/blob/main/tests/qcci_test.c,1,1
+/quic/qmi-framework/blob/main/tests/qcsi_test.c,1,1
