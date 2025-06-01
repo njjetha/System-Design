@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,45,20
+/quic/wos-ai/tree/main/Scripts,31,10
+/quic/wos-ai/tree/main/Artifacts,17,8
+/quic/wos-ai/tree/main,15,5
+/quic/wos-ai/tree/main/apps/ORT_Sample_app_with_NPU_Availabilty_Check,8,6
+/quic/wos-ai/tree/main/Artifacts/genie_artifacts,8,2
+/quic/wos-ai/blob/main/Artifacts/io_utils.py,6,4
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,5,5
+/quic/wos-ai/blob/main/Scripts/model_download.py,5,2
+/quic/wos-ai/blob/main/Artifacts/genie_artifacts/genie_config_llama3p2_cpu.json,4,2
