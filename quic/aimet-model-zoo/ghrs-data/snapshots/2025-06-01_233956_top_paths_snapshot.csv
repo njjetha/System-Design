@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aimet-model-zoo,245,163
+/quic/aimet-model-zoo/blob/develop/aimet_zoo_torch/quicksrnet/QuickSRNet.md,72,38
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch,65,43
+/quic/aimet-model-zoo/tree/develop,50,31
+/quic/aimet-model-zoo/releases,38,18
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/quicksrnet,36,21
+/quic/aimet-model-zoo/blob/develop/aimet_zoo_torch/mobilevit/MobileViT.md,19,7
+/quic/aimet-model-zoo/blob/develop/aimet_zoo_torch/yolox/YOLOX.md,16,4
+/quic/aimet-model-zoo/blob/develop/aimet_zoo_tensorflow/ssd_mobilenet_v2/SSDMobileNetV2.md,15,12
+/quic/aimet-model-zoo/tree/develop/aimet_zoo_torch/mobilevit,15,5
