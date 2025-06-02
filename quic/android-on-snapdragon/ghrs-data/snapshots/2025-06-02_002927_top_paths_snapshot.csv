@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,10,8
+/quic/android-on-snapdragon/tree/master/Camera,5,4
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/AndroidManifest.xml,1,1
+/quic/android-on-snapdragon/blob/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/assets/QMediaCodecCapabilities_sm8550_kalama.json,1,1
+/quic/android-on-snapdragon/blob/master/Camera/ColorSpaceSampleCode/app/src/main/java/com/example/instantzoomsamplecode/MainActivity.java,1,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/SdrDecode.java,1,1
+/quic/android-on-snapdragon/tree/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt,1,1
+/quic/android-on-snapdragon/tree/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src,1,1
+/quic/android-on-snapdragon/tree/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main,1,1
+/quic/android-on-snapdragon/tree/79203af2f053edfce661bb0c537f02965848bb2b/video/libraries/QtiVideoExt/src/main/java/qti/video,1,1
