@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,17,5
+/quic/aic-operator/blob/main/internal/nfdrule/qcom-aic-nfr.yaml,2,2
+/quic/aic-operator/blob/main/cmd/main.go,1,1
+/quic/aic-operator/blob/main/config/manifests/bases/aic-operator.clusterserviceversion.yaml,1,1
+/quic/aic-operator/blob/main/Dockerfile,1,1
+/quic/aic-operator/blob/main/.github/workflows/quic-organization-repolinter.yml,1,1
+/quic/aic-operator/blob/main/Makefile,1,1
+/quic/aic-operator/commit/6608881dd27337f96dc3bef0a3084b5bffcb6cde,1,1
+/quic/aic-operator/commit/b918019839c14ccf119df371a2dc7ef6fd4c7920,1,1
+/quic/aic-operator/commits/main,1,1
