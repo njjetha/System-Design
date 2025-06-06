@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/XNNPACK,28,5
+/quic/XNNPACK/tree/sme1_gemm_support,4,3
+/quic/XNNPACK/tree/master/src,2,1
+/orgs/quic/repositories,1,1
+/quic/XNNPACK/blob/master/src/bf16-f32-gemm/bf16-f32-gemm-1x4c2-minmax-scalar.c,1,1
+/quic/XNNPACK/blob/master/src/f32-maxpool/gen/f32-maxpool-9p-minmax-scalar-u1.c,1,1
+/quic/XNNPACK/blob/sme1_gemm_support/src/pf32-gemm/gen/pf32-gemm-32x32-minmax-asm-aarch64-neonsme.S,1,1
+/quic/XNNPACK/commit/ca14a0877028e2d414dcb752b53ebd72403bf8b6,1,1
+/quic/XNNPACK/commits,1,1
+/quic/XNNPACK/tree/master/src/bf16-f32-gemm,1,1
