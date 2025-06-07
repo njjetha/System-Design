@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,21,15
+/quic/mink-idl-compiler/tree/main/idlc,5,4
+/quic/mink-idl-compiler/blob/main/README.md,5,3
+/quic/mink-idl-compiler/tree/main/idlc_codegen_c,5,3
+/quic/mink-idl-compiler/tree/main,5,2
+/quic/mink-idl-compiler/blob/main/idlc/src/main.rs,4,4
+/quic/mink-idl-compiler/tree/main/idlc_codegen_c/src,3,3
+/quic/mink-idl-compiler/tree/main/idlc/src,3,3
+/quic/mink-idl-compiler/blob/main/idlc/build.rs,3,2
+/quic/mink-idl-compiler/tree/main/idlc_ast,3,2
