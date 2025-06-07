@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-qualcomm-linux,76,58
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM,34,18
+/quic/sample-apps-for-qualcomm-linux/releases,18,13
+/quic/sample-apps-for-qualcomm-linux/blob/main/Hello-QIM/main.cc,16,13
+/quic/sample-apps-for-qualcomm-linux/blob/main/video.mp4,16,12
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts/labels,15,5
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts,12,9
+/quic/sample-apps-for-qualcomm-linux/tree/main/scripts,10,8
+/quic/sample-apps-for-qualcomm-linux/releases/tag/GA1.4-rel,9,4
+/quic/sample-apps-for-qualcomm-linux/blob/main/artifacts/configs/manifests/QLI1.4/qcs6490-rb3gen2-vision-kit/manifest-sampleapps-global-qli1.4-Rb3Gen2.json,8,7
