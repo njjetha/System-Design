@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qccsdk-qcc711,4,4
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/inc/DISAPI_params.h,2,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/inc/manual_ids.h,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/ble/inc/Radio_params.h,1,1
+/quic/qccsdk-qcc711/blob/main/qcc711_sdk/src/peripherals/inc/qup_api.h,1,1
+/quic/qccsdk-qcc711/branches,1,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk,1,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src,1,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/ble,1,1
+/quic/qccsdk-qcc711/tree/main/qcc711_sdk/src/ble/inc,1,1
