@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,46,26
+/quic/wos-ai/tree/main/Scripts,39,15
+/quic/wos-ai/tree/main/Artifacts,15,5
+/quic/wos-ai/tree/main,14,5
+/quic/wos-ai/tree/main/Artifacts/genie_artifacts,8,2
+/quic/wos-ai/blob/main/Scripts/model_download.py,5,2
+/quic/wos-ai/blob/main/Artifacts/genie_artifacts/genie_config_llama3p2_cpu.json,4,2
+/quic/wos-ai/blob/main/Artifacts/genie_artifacts/genie_config_llama3p2_npu.json,4,2
+/quic/wos-ai/blob/main/Artifacts/coffee_cup.jpg,3,3
+/quic/wos-ai/blob/main/Artifacts/genie_artifacts/genie_config.json,3,3
