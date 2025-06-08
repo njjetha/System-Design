@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,21,5
+/quic/aic-operator/tree/main,9,1
+/quic/aic-operator/tree/main/internal,8,1
+/quic/aic-operator/tree/main/manual_install,7,1
+/quic/aic-operator/tree/main/manual_install/src_img_build,6,1
+/quic/aic-operator/blob/main/internal/nfdrule/qcom-aic-nfr.yaml,4,3
+/quic/aic-operator/tree/main/config,4,1
+/quic/aic-operator/tree/main/internal/kmmmodule,3,1
+/quic/aic-operator/blob/main/internal/kmmmodule/dockerfiles/driversDockerfile.txt,2,1
+/quic/aic-operator/blob/main/internal/kmmmodule/qcom-aic-kmmo.go,2,1
