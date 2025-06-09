@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,44,26
+/quic/wos-ai/tree/main/Scripts,30,14
+/quic/wos-ai/tree/main,7,5
+/quic/wos-ai/tree/main/Artifacts,7,5
+/quic/wos-ai/blob/main/Artifacts/coffee_cup.jpg,3,3
+/quic/wos-ai/blob/main/Artifacts/genie_artifacts/genie_config.json,3,3
+/quic/wos-ai/blob/main/Scripts/dml_npu_setup.ps1,3,3
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,3,3
+/quic/wos-ai/actions,2,2
+/quic/wos-ai/blob/main/Scripts/mlc_setup.ps1,2,2
