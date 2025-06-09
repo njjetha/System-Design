@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sense,27,18
+/quic/sense/tree/master/docs,5,1
+/quic/sense/tree/master/docs/imgs,3,1
+/quic/sense/blob/master/sense/downstream_tasks/action_recognition/__init__.py,2,2
+/quic/sense/blob/master/sense/downstream_tasks/fitness_activity_recognition/__init__.py,2,1
+/quic/sense/issues,2,1
+/quic/sense/issues/191,2,1
+/quic/sense/tree/master/docs/audio,2,1
+/quic/sense/blob/master/docs/audio/countdown_sound.wav,1,1
+/quic/sense/blob/master/docs/imgs/sense_core_logo.svg,1,1
