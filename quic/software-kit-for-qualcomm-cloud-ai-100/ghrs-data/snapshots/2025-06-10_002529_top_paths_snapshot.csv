@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,44,37
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib,9,8
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils,8,6
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/f3e37e361201dc0bee93d841dd37db29a3c30b38/lib/runtime-platform/src/dev/aic100/QRuntimePlatformDeviceAic100.cpp,8,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/f3e37e361201dc0bee93d841dd37db29a3c30b38/lib/runtime-platform/inc/dev/aic100/QDevAic100Interface.h,6,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main,5,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/thirdparty-modules,4,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-util,4,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/utils/qaic-runner/QAicRunner.cpp,4,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-device-partition,4,3
