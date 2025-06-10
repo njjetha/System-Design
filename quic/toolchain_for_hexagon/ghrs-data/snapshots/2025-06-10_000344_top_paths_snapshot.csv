@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,46,24
+/quic/toolchain_for_hexagon/releases,13,10
+/quic/toolchain_for_hexagon/pull/50,13,2
+/quic/toolchain_for_hexagon/pulls,11,5
+/quic/toolchain_for_hexagon/blob/master/examples/README.md,6,5
+/quic/toolchain_for_hexagon/releases/tag/v20.1.4,6,4
+/quic/toolchain_for_hexagon/pull/50/files,4,1
+/quic/toolchain_for_hexagon/wiki/QEMU-Hexagon-on-Windows-x86-64,4,1
+/quic/toolchain_for_hexagon/blob/master/hexagon-linux-cross.cmake,3,3
+/quic/toolchain_for_hexagon/pull/45,3,3
