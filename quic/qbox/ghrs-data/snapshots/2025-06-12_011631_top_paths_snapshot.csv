@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,120,69
+/quic/qbox/tree/main,18,8
+/quic/qbox/tree/main/platforms,17,7
+/quic/qbox/tree/main/qemu-components,13,8
+/quic/qbox/tree/main/platforms/ubuntu,10,4
+/quic/qbox/issues,9,7
+/quic/qbox/tree/main/platforms/src,7,4
+/quic/qbox/tree/main/systemc-components,7,4
+/quic/qbox/tree/main/docs,6,4
+/quic/qbox/tree/main/qemu-components/cpu_arm,5,4
