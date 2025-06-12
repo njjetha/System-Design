@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/Pose-Detection-with-HRPoseNet,46,35
+/quic/Pose-Detection-with-HRPoseNet/tree/main/src/hrnet_pose,9,7
+/quic/Pose-Detection-with-HRPoseNet/blob/main/src/hrnet_pose/main.py,9,6
+/quic/Pose-Detection-with-HRPoseNet/blob/main/src/hrnet_pose/model_inference.py,7,7
+/quic/Pose-Detection-with-HRPoseNet/blob/main/src/hrnet_pose/model_loader.py,7,6
+/quic/Pose-Detection-with-HRPoseNet/tree/main/src,7,6
+/quic/Pose-Detection-with-HRPoseNet/blob/main/notebooks/sample_app_hrnet.ipynb,4,4
+/quic/Pose-Detection-with-HRPoseNet/tree/main/models,4,3
+/quic/Pose-Detection-with-HRPoseNet/tree/main/notebooks,4,3
+/quic/Pose-Detection-with-HRPoseNet/tree/main/scripts,4,3
