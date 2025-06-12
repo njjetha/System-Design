@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/wos-ai,60,24
+/quic/wos-ai/tree/main/Scripts,52,19
+/quic/wos-ai/pulls,28,5
+/quic/wos-ai/blob/main/Scripts/llama_cpp_setup.ps1,10,4
+/quic/wos-ai/blob/main/Scripts/ort_setup.ps1,9,6
+/quic/wos-ai/blob/main/Scripts/qnn_setup.ps1,8,6
+/quic/wos-ai/pull/3,7,3
+/quic/wos-ai/tree/main,6,6
+/quic/wos-ai/blob/main/Scripts/oga_setup.ps1,6,3
+/quic/wos-ai/blob/main/Scripts/genie_setup.ps1,4,3
