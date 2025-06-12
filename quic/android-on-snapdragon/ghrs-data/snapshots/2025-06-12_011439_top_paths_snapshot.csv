@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/android-on-snapdragon,13,10
+/quic/android-on-snapdragon/tree/master/Camera,6,4
+/quic/android-on-snapdragon/tree/master/video,2,2
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10Encode.java,2,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/Hdr10PlusEncode.java,2,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/LtrEncode.java,2,1
+/quic/android-on-snapdragon/blob/master/video/sample-apps/app/src/main/java/com/example/VideoSampleApp/MbRoiEncode.java,2,1
+/quic/android-on-snapdragon/tree/master,2,1
+/quic/android-on-snapdragon/tree/master/Camera/InsensorZoomSampleCode,2,1
+/quic/android-on-snapdragon/tree/master/video/sample-apps,2,1
