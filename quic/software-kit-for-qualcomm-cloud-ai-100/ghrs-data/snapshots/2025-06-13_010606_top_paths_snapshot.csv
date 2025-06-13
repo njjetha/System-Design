@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,56,41
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main,12,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/f3e37e361201dc0bee93d841dd37db29a3c30b38/lib/runtime-platform/src/dev/aic100/QRuntimePlatformDeviceAic100.cpp,10,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib,9,7
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils,7,5
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/CMakeLists.txt,6,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-util,5,5
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/f3e37e361201dc0bee93d841dd37db29a3c30b38/lib/runtime-platform/inc/dev/aic100/qaic_accel.h,5,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/CMakeLists.txt,4,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/thirdparty-modules,4,3
