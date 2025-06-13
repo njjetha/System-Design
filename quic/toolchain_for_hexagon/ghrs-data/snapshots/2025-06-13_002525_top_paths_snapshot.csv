@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/toolchain_for_hexagon,73,34
+/quic/toolchain_for_hexagon/releases,18,12
+/quic/toolchain_for_hexagon/pull/50,14,3
+/quic/toolchain_for_hexagon/pulls,11,5
+/quic/toolchain_for_hexagon/blob/master/examples/README.md,9,8
+/quic/toolchain_for_hexagon/tree/master/examples,6,6
+/quic/toolchain_for_hexagon/releases/tag/v20.1.4,6,4
+/quic/toolchain_for_hexagon/blob/master/build-toolchain.sh,6,3
+/quic/toolchain_for_hexagon/pull/50/files,5,2
+/quic/toolchain_for_hexagon/blob/master/hexagon-linux-cross.cmake,4,4
