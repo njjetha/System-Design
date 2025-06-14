@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/buildroot,3,3
+/quic/buildroot/blob/5a1515b5976aed8f1b15eacf513d40ab70b908a8/support/docker/Dockerfile,2,1
+/quic/buildroot/blob/master/fs/ext2/ext2.mk,1,1
+/quic/buildroot/commit/00bab0698b509362b8a5efe9b34b371a05c735e2,1,1
+/quic/buildroot/commit/01aba48e42bb82a6d9c3f21a5bd4666d2e6703e2,1,1
+/quic/buildroot/commit/9fde3b0e22d936c3737729dd3eb065c2a280d1aa,1,1
+/quic/buildroot/commit/b782f43c4ca6afeff495ab0ef0608a04b02a8a29,1,1
+/quic/buildroot/commit/d266f08d549ad821fbfdfa2f958e06bababa4e19,1,1
+/quic/buildroot/commits/bcain/to-upstream,1,1
+/quic/buildroot/commits/master,1,1
