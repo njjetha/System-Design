@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/quic/XNNPACK/tree/sme1_gemm_support,5,2
+/quic/XNNPACK/blob/sme1_gemm_support/doc/dwconv.md,1,1
+/quic/XNNPACK/blob/sme1_gemm_support/doc/microkernel-enumerators.md,1,1
+/quic/XNNPACK/blob/sme1_gemm_support/src/pf32-gemm/gen/pf32-gemm-32x32-minmax-asm-aarch64-neonsme.S,1,1
+/quic/XNNPACK/tree/master,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/doc,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/src,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/src/pf32-gemm,1,1
+/quic/XNNPACK/tree/sme1_gemm_support/src/pf32-gemm/gen,1,1
