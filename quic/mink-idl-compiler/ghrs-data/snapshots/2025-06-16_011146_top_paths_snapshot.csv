@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,23,16
+/quic/mink-idl-compiler/blob/main/README.md,5,3
+/quic/mink-idl-compiler/tree/main/idlc,4,3
+/quic/mink-idl-compiler/blob/main/idlc/src/main.rs,3,3
+/quic/mink-idl-compiler/blob/main/idlc/build.rs,3,2
+/quic/mink-idl-compiler/blob/main/idlc_ast/src/pst.rs,2,1
+/quic/mink-idl-compiler/blob/main/idlc/Cargo.toml,2,1
+/quic/mink-idl-compiler/releases,2,1
+/quic/mink-idl-compiler/tree/main,2,1
+/quic/mink-idl-compiler/blob/main/Cargo.toml,1,1
