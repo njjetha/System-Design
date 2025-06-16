@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100,64,45
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main,13,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/f3e37e361201dc0bee93d841dd37db29a3c30b38/lib/runtime-platform/src/dev/aic100/QRuntimePlatformDeviceAic100.cpp,11,3
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/lib,7,7
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils,5,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/lib/runtime-platform/inc/QNncProtocol.h,5,2
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/f3e37e361201dc0bee93d841dd37db29a3c30b38/lib/runtime-platform/inc/dev/aic100/qaic_accel.h,5,1
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/scripts,4,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/tree/main/utils/qaic-util,4,4
+/quic/software-kit-for-qualcomm-cloud-ai-100/blob/main/bootstrap.sh,4,2
