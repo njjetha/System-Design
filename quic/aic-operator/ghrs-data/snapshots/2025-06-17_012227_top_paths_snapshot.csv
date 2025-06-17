@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/aic-operator,9,3
+/quic/aic-operator/tree/main,9,2
+/quic/aic-operator/tree/main/internal,6,1
+/quic/aic-operator/blob/main/config/manifests/bases/aic-operator.clusterserviceversion.yaml,4,2
+/quic/aic-operator/tree/main/config,4,1
+/quic/aic-operator/tree/main/manual_install,4,1
+/quic/aic-operator/tree/main/manual_install/src_img_build,3,1
+/quic/aic-operator/blob/main/internal/nfdrule/qcom-aic-nfr.yaml,2,1
+/quic/aic-operator/tree/main/config/manifests,2,1
+/quic/aic-operator/tree/main/config/manifests/bases,2,1
