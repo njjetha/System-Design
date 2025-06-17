@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc,37,23
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples,8,6
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples/simple_io,5,4
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/examples/multicast_example,4,4
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/simple_io/SimpleIO.cpp,4,3
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/multicast_example/Multicast.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/multicast_example/MulticastLib.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/examples/simple_io/SimpleIOLib.cpp,4,2
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/blob/main/thirdparty-modules/CMakeLists.txt,4,1
+/quic/software-kit-for-qualcomm-cloud-ai-100-cc/tree/main/thirdparty-modules,4,1
