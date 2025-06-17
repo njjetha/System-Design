@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/sample-apps-for-qualcomm-linux,71,45
+/quic/sample-apps-for-qualcomm-linux/tree/main/Hello-QIM,28,17
+/quic/sample-apps-for-qualcomm-linux/blob/main/download_artifacts.sh,25,10
+/quic/sample-apps-for-qualcomm-linux/blob/main/Hello-QIM/main.cc,23,16
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts,20,9
+/quic/sample-apps-for-qualcomm-linux/tree/main,18,8
+/quic/sample-apps-for-qualcomm-linux/blob/main/artifacts/labels/face_detection.labels,17,4
+/quic/sample-apps-for-qualcomm-linux/tree/main/artifacts/labels,15,7
+/quic/sample-apps-for-qualcomm-linux/releases,14,9
+/quic/sample-apps-for-qualcomm-linux/blob/main/artifacts/labels/classification.labels,11,7
