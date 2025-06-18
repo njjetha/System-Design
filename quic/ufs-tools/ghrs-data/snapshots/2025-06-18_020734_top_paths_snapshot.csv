@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/ufs-tools,33,19
+/quic/ufs-tools/tree/main/ufs-cli,7,4
+/quic/ufs-tools/tree/main,5,4
+/quic/ufs-tools/tree/main/scripts,4,4
+/quic/ufs-tools/pulls,3,3
+/quic/ufs-tools/tree/master,3,1
+/quic/ufs-tools/blob/main/ufs-cli/lsufs.c,2,1
+/quic/ufs-tools/blob/main/ufs-cli/uic.c,2,1
+/quic/ufs-tools/blob/main/ufs-cli/uic.h,2,1
+/quic/ufs-tools/branches,2,1
