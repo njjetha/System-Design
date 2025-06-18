@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/fastrpc,165,98
+/quic/fastrpc/pulls,26,7
+/quic/fastrpc/pull/184,20,5
+/quic/fastrpc/tree/development/test,18,9
+/quic/fastrpc/tree/development/src,17,12
+/quic/fastrpc/pull/186,11,4
+/quic/fastrpc/blob/development/src/apps_mem_imp.c,10,9
+/quic/fastrpc/issues/180,10,6
+/quic/fastrpc/issues,9,4
+/quic/fastrpc/actions/runs/15460404676/job/43520372023,8,3
