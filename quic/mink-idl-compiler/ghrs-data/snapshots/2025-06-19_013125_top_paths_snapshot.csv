@@ -1,0 +1,9 @@
+url_path,views_total,views_unique
+/quic/mink-idl-compiler,15,12
+/quic/mink-idl-compiler/blob/main/idlc_ast/src/idl_grammar.pest,1,1
+/quic/mink-idl-compiler/blob/main/idlc_codegen_c/src/generator.rs,1,1
+/quic/mink-idl-compiler/blob/main/README.md,1,1
+/quic/mink-idl-compiler/issues,1,1
+/quic/mink-idl-compiler/milestones,1,1
+/quic/mink-idl-compiler/pulls,1,1
+/quic/mink-idl-compiler/tree/main/idlc,1,1
