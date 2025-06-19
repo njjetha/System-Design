@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/quic/qbox,126,73
+/quic/qbox/tree/main,14,6
+/quic/qbox/tree/main/qemu-components,10,7
+/quic/qbox/issues,10,3
+/quic/qbox/tree/main/platforms,9,6
+/quic/qbox/blob/main/CMakeLists.txt,7,3
+/quic/qbox/branches,5,4
+/quic/qbox/blob/main/package-lock.cmake,5,3
+/quic/qbox/tree/main/platforms/ubuntu,5,3
+/quic/qbox/tree/main/systemc-components,5,2
